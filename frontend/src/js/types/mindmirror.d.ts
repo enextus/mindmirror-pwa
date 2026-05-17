@@ -1,12 +1,17 @@
 // =====================================================================
-// src/js/types/mindmirror.d.ts – Zentrale Domain-Typen für Mind Mirror
+// src/js/types/mindmirror.d.ts – Global Mind Mirror PWA type declarations
 // =====================================================================
 
 export {};
 
 declare global {
   interface Window {
-    // TODO: Vendor globals werden später typisiert.
+    MIND_MIRROR_APP_VERSION?: string;
+  }
+
+  // Service Worker global scope also receives appVersion.js via importScripts.
+  interface ServiceWorkerGlobalScope {
+    MIND_MIRROR_APP_VERSION?: string;
   }
 }
 

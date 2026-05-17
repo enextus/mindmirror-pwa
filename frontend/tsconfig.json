@@ -7,15 +7,20 @@
     "checkJs": true,
     "strict": true,
     "noEmit": true,
-    "lib": [
-      "ES2022",
-      "DOM",
-      "DOM.Iterable"
-    ]
+    "lib": ["ESNext", "DOM", "DOM.Iterable"],
+    "types": ["node", "vitest"],
+    "skipLibCheck": true
   },
   "include": [
     "src/**/*.js",
+    "src/**/*.d.ts",
     "tests/**/*.js",
-    "src/js/types/**/*.d.ts"
+    "vitest.config.js",
+    "eslint.config.js"
+  ],
+  "exclude": [
+    "node_modules",
+    "coverage",
+    "vendor"
   ]
 }
