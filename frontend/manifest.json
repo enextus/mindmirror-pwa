@@ -1,0 +1,11 @@
+{
+  "name": "Mind Mirror PWA",
+  "short_name": "MindMirror",
+  "description": "Local-first Mind Mirror-inspired perception mapping PWA.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#111827",
+  "icons": []
+}
