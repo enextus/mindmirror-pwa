@@ -206,6 +206,41 @@ describe('Mind Mirror app flow', () => {
     controller.destroy();
   });
 
+  it('can run a basic Life Simulation from profile summary and view markers 1/2/3 on Mind Maps', async () => {
+    const repository = createMemoryMindMirrorRepository();
+    const controller = initializeApp(document, { repository });
+    const container = /** @type {HTMLElement} */ (document.querySelector('#app'));
+
+    await flushPromises();
+    const input = /** @type {HTMLInputElement} */ (document.querySelector('#subjectNameInput'));
+    input.value = 'Simulation Player';
+    /** @type {HTMLFormElement} */ (document.querySelector('form')).requestSubmit();
+    completeRatingFlowWithEnter(container);
+
+    expect(controller.getScreen()).toBe('profile_summary');
+
+    const simulationButton = [...document.querySelectorAll('.retro-profile-summary-button')]
+      .find((button) => button.textContent === 'PLAY LIFE SIMULATION');
+    /** @type {HTMLButtonElement} */ (simulationButton).click();
+
+    expect(controller.getScreen()).toBe('life_simulation');
+    expect(document.querySelector('.retro-screen-title')?.textContent).toBe('LIFE SIMULATIONS');
+
+    for (let index = 0; index < 8; index += 1) {
+      dispatchKey(/** @type {HTMLElement} */ (document.querySelector('.retro-simulation-screen')), 'Enter');
+    }
+
+    expect(document.querySelector('.retro-simulation-summary')).not.toBeNull();
+
+    dispatchKey(/** @type {HTMLElement} */ (document.querySelector('.retro-simulation-screen')), 'Enter');
+
+    expect(controller.getScreen()).toBe('mind_maps');
+    expect(document.querySelector('.retro-screen-status')?.textContent).toContain('Markers 1/2/3');
+
+    controller.destroy();
+  });
+
+
 });
 
 // Ende tests/appFlow.test.js

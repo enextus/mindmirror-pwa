@@ -34,6 +34,7 @@ const RETRO_LABEL_MODE_SEQUENCE = Object.freeze([
  * @property {number} [initialRealmIndex]
  * @property {MindMapLabelMode} [initialLabelMode]
  * @property {boolean} [attachKeyboard]
+ * @property {import('../core/lifeSimulationEngine.js').LifeSimulationSession|null} [lifeSimulationSession]
  * @property {() => void} [onExit]
  */
 
@@ -133,16 +134,41 @@ export function getRealmByRetroIndex(realmIndex) {
 /**
  * @param {{ id: string, title: string, labels: readonly string[] }} realm
  * @param {SubjectProfile} profile
+ * @param {import('../core/lifeSimulationEngine.js').LifeSimulationSession|null} [lifeSimulationSession]
  * @returns {MindMapRenderInput}
  */
-export function buildRetroMindMapInput(realm, profile) {
+export function buildRetroMindMapInput(realm, profile, lifeSimulationSession = null) {
   const point = profile.pointsByRealm[realm.id];
 
   if (point === undefined) {
     throw new RangeError(`Profile has no point for realm: ${realm.id}`);
   }
 
-  return buildMindMapInputForRealm(realm, point);
+  const input = buildMindMapInputForRealm(realm, point);
+
+  if (lifeSimulationSession === null) {
+    return input;
+  }
+
+  const recentPoint = lifeSimulationSession.recentProfile.pointsByRealm[realm.id];
+  const overallPoint = lifeSimulationSession.overallProfile.pointsByRealm[realm.id];
+
+  return {
+    ...input,
+    markers: [
+      ...(input.markers ?? []),
+      ...(recentPoint === undefined ? [] : [{
+        id: `${realm.id}:recent`,
+        label: '2',
+        point: recentPoint,
+      }]),
+      ...(overallPoint === undefined ? [] : [{
+        id: `${realm.id}:overall`,
+        label: '3',
+        point: overallPoint,
+      }]),
+    ],
+  };
 }
 
 /**
@@ -201,6 +227,7 @@ export function renderRetroMindMapScreen(container, options = {}) {
   const renderer = options.renderer ?? renderMindMap;
   const attachKeyboard = options.attachKeyboard ?? true;
   const onExit = options.onExit;
+  const lifeSimulationSession = options.lifeSimulationSession ?? null;
 
   let activeRealmIndex = normalizeRealmIndex(options.initialRealmIndex ?? 0);
   let labelMode = resolveRetroLabelMode(options.initialLabelMode);
@@ -237,7 +264,9 @@ export function renderRetroMindMapScreen(container, options = {}) {
   const wordPanel = createDomElement('aside', { className: 'retro-word-panel' });
   const instruction = createDomElement('p', {
     className: 'retro-screen-instruction',
-    textContent: 'SPACE BAR flips area words   F1-F4 selects map   RETURN / ESC exits plot',
+    textContent: lifeSimulationSession === null
+      ? 'SPACE BAR flips area words   F1-F4 selects map   RETURN / ESC exits plot'
+      : 'Markers: 1 original profile  2 recent simulation  3 overall simulation   RETURN / ESC exits plot',
   });
   const status = createDomElement('p', {
     className: 'retro-screen-status',
@@ -298,7 +327,7 @@ export function renderRetroMindMapScreen(container, options = {}) {
         return null;
       }
 
-      lastRenderResult = renderer(context, buildRetroMindMapInput(realm, profile), {
+      lastRenderResult = renderer(context, buildRetroMindMapInput(realm, profile, lifeSimulationSession), {
         width: RETRO_MAP_CANVAS_WIDTH,
         height: RETRO_MAP_CANVAS_HEIGHT,
         labelMode,
@@ -320,7 +349,9 @@ export function renderRetroMindMapScreen(container, options = {}) {
         createVisibleWordList(lastRenderResult.labels),
       );
 
-      status.textContent = `${realm.title} displayed for ${profile.subjectName}. Marker 1 is the baseline profile.`;
+      status.textContent = lifeSimulationSession === null
+        ? `${realm.title} displayed for ${profile.subjectName}. Marker 1 is the baseline profile.`
+        : `${realm.title} displayed for ${profile.subjectName}. Markers 1/2/3 show rating/recent/overall simulation.`;
       return lastRenderResult;
     },
     destroy: () => {

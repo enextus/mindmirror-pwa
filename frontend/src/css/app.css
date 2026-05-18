@@ -1011,3 +1011,102 @@ textarea {
 }
 
 /* Ende Retro Inter-Play comparison screen */
+
+/* =====================================================================
+   Life Simulations + export-oriented MVP UI
+   ===================================================================== */
+.retro-simulation-screen {
+  min-height: 100vh;
+  padding: 28px;
+  background: var(--retro-bg, #050505);
+  color: var(--retro-fg, #d8ffd8);
+  font-family: var(--retro-font, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace);
+}
+
+.retro-simulation-body {
+  max-width: 980px;
+  margin: 18px auto;
+  border: 2px solid var(--retro-border, #47ff47);
+  padding: 18px;
+  background: rgba(0, 40, 0, 0.55);
+}
+
+.retro-simulation-event-title,
+.retro-simulation-summary__title {
+  margin: 0 0 12px;
+  color: var(--retro-accent, #ff5959);
+  text-transform: uppercase;
+}
+
+.retro-simulation-prompt,
+.retro-simulation-summary__subtitle,
+.retro-simulation-hint {
+  line-height: 1.5;
+}
+
+.retro-simulation-choice-list {
+  display: grid;
+  gap: 10px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.retro-simulation-choice {
+  width: 100%;
+  border: 1px solid var(--retro-border, #47ff47);
+  padding: 10px 12px;
+  background: #101010;
+  color: var(--retro-fg, #d8ffd8);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.retro-simulation-choice.is-selected {
+  outline: 2px solid var(--retro-accent, #ff5959);
+  color: #ffffff;
+  background: #173817;
+}
+
+.retro-simulation-actions,
+.retro-profile-summary-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+.retro-simulation-button,
+.retro-profile-summary-button {
+  border: 1px solid var(--retro-border, #47ff47);
+  padding: 8px 12px;
+  background: #050505;
+  color: var(--retro-fg, #d8ffd8);
+  font: inherit;
+  cursor: pointer;
+}
+
+.retro-simulation-button.is-primary,
+.retro-profile-summary-button.is-primary {
+  color: #ffffff;
+  border-color: var(--retro-accent, #ff5959);
+}
+
+.retro-simulation-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.retro-simulation-summary-grid {
+  display: grid;
+  grid-template-columns: minmax(120px, 220px) 1fr;
+  gap: 8px 16px;
+}
+
+.retro-simulation-summary-grid dt {
+  color: var(--retro-muted, #8bcf8b);
+}
+
+.retro-simulation-summary-grid dd {
+  margin: 0;
+}

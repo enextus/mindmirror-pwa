@@ -32,6 +32,7 @@ import { applyRetroCssVariables } from './retroTheme.js';
  * @typedef {object} RetroProfileSummaryScreenOptions
  * @property {SubjectProfile} profile
  * @property {() => void} [onViewMindMaps]
+ * @property {() => void} [onStartLifeSimulation]
  * @property {() => void} [onBack]
  * @property {boolean} [attachKeyboard]
  */
@@ -42,6 +43,7 @@ import { applyRetroCssVariables } from './retroTheme.js';
  * @property {SubjectProfile} profile
  * @property {readonly RealmProfileSummary[]} summaries
  * @property {() => void} viewMindMaps
+ * @property {() => void} startLifeSimulation
  * @property {() => void} back
  * @property {() => void} destroy
  */
@@ -280,6 +282,7 @@ export function renderRetroProfileSummaryScreen(container, options) {
   const summaries = summarizeProfileRealms(profile);
   const attachKeyboard = options.attachKeyboard ?? true;
   const onViewMindMaps = options.onViewMindMaps;
+  const onStartLifeSimulation = options.onStartLifeSimulation;
   const onBack = options.onBack;
 
   const root = createDomElement('section', {
@@ -315,6 +318,11 @@ export function renderRetroProfileSummaryScreen(container, options) {
     textContent: 'VIEW MIND MAPS',
     attributes: { type: 'button' },
   }));
+  const simulationButton = /** @type {HTMLButtonElement} */ (createDomElement('button', {
+    className: 'retro-profile-summary-button',
+    textContent: 'PLAY LIFE SIMULATION',
+    attributes: { type: 'button' },
+  }));
   const backButton = /** @type {HTMLButtonElement} */ (createDomElement('button', {
     className: 'retro-profile-summary-button',
     textContent: 'BACK TO SUBJECTS',
@@ -322,7 +330,7 @@ export function renderRetroProfileSummaryScreen(container, options) {
   }));
   const instruction = createDomElement('p', {
     className: 'retro-screen-instruction',
-    textContent: 'RETURN views Mind Maps   ESC returns to subject setup',
+    textContent: 'RETURN views Mind Maps   LIFE SIMULATION checks role consistency   ESC returns to subject setup',
   });
 
   /** @type {RetroProfileSummaryScreenController} */
@@ -333,6 +341,9 @@ export function renderRetroProfileSummaryScreen(container, options) {
     viewMindMaps: () => {
       onViewMindMaps?.();
     },
+    startLifeSimulation: () => {
+      onStartLifeSimulation?.();
+    },
     back: () => {
       onBack?.();
     },
@@ -342,9 +353,10 @@ export function renderRetroProfileSummaryScreen(container, options) {
   };
 
   viewButton.addEventListener('click', () => controller.viewMindMaps());
+  simulationButton.addEventListener('click', () => controller.startLifeSimulation());
   backButton.addEventListener('click', () => controller.back());
 
-  appendChildren(actions, [viewButton, backButton]);
+  appendChildren(actions, [viewButton, simulationButton, backButton]);
   appendChildren(root, [title, subtitle, subject, timestamp, table, actions, instruction]);
 
   const keyHandler = createRetroKeyboardHandler({

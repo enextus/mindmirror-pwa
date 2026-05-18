@@ -6,7 +6,9 @@ import { beforeEach, describe, expect, it, vi } from 'vitest';
 
 import { MIND_MAP_LABEL_MODES } from '../src/js/canvas/labelLayout.js';
 import { createMindMapLayout } from '../src/js/canvas/mindMapGeometry.js';
+import { createLifeSimulationAnswer, createLifeSimulationSession } from '../src/js/core/lifeSimulationEngine.js';
 import { REALMS } from '../src/js/data/realms.js';
+import { SAMPLE_LIFE_SIMULATION_EVENTS } from '../src/js/data/sampleEvents.js';
 import {
   buildRetroMindMapInput,
   getNextRetroLabelMode,
@@ -79,6 +81,25 @@ describe('retro label helpers', () => {
     expect(input.labels).toHaveLength(16);
     expect(input.markers?.[0]).toMatchObject({ label: '1' });
   });
+
+
+  it('adds Life Simulation marker 2 and 3 when a session is provided', () => {
+    const profile = buildDemoProfile();
+    const session = createLifeSimulationSession(profile, {
+      answers: [
+        createLifeSimulationAnswer(SAMPLE_LIFE_SIMULATION_EVENTS[0], 1),
+        createLifeSimulationAnswer(SAMPLE_LIFE_SIMULATION_EVENTS[1], 8),
+      ],
+    });
+    const realm = REALMS[0];
+    const input = buildRetroMindMapInput(realm, profile, session);
+
+    expect(input.markers?.map((marker) => marker.label)).toEqual(['1', '2', '3']);
+  });
+
+
+
+
 });
 
 describe('renderRetroMindMapScreen', () => {
@@ -145,5 +166,6 @@ describe('renderRetroMindMapScreen', () => {
     expect(container.querySelector('.retro-map-title')?.textContent).toBe('Social Interaction:');
   });
 });
+
 
 // Ende tests/mindMapScreen.test.js

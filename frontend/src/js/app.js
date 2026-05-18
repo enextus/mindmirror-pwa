@@ -8,6 +8,7 @@ import { renderRetroComparisonScreen } from './ui/comparisonScreen.js';
 import { renderRetroMindMapScreen } from './ui/mindMapScreen.js';
 import { renderRetroProfileSummaryScreen } from './ui/profileSummaryScreen.js';
 import { renderRetroRatingScaleScreen } from './ui/ratingScreen.js';
+import { renderRetroLifeSimulationScreen } from './ui/simulationScreen.js';
 import { renderRetroSubjectSetupScreen } from './ui/subjectForm.js';
 
 /**
@@ -20,13 +21,14 @@ import { renderRetroSubjectSetupScreen } from './ui/subjectForm.js';
 /**
  * @typedef {object} MindMirrorAppController
  * @property {HTMLElement} container
- * @property {() => 'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'fatal'} getScreen
+ * @property {() => 'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'life_simulation'|'fatal'} getScreen
  * @property {() => void} startSubjectSetup
  * @property {(draft: SubjectDraft) => void} startRatingFlow
  * @property {(profile: SubjectProfile) => void} openProfileSummary
  * @property {(profile: SubjectProfile, subjectDraft?: SubjectDraft|null) => void} showProfileSummary
- * @property {(profile: SubjectProfile) => void} showMindMapResults
+ * @property {(profile: SubjectProfile, lifeSimulationSession?: import('./core/lifeSimulationEngine.js').LifeSimulationSession|null) => void} showMindMapResults
  * @property {() => void} showComparisonScreen
+ * @property {(profile: SubjectProfile) => void} startLifeSimulation
  * @property {() => void} destroy
  */
 
@@ -126,7 +128,7 @@ export function createMindMirrorApp(container, options = {}) {
 
   const repository = normalizeRepository(options.repository);
 
-  /** @type {'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'fatal'} */
+  /** @type {'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'life_simulation'|'fatal'} */
   let currentScreen = 'subject_setup';
 
   /** @type {DestroyableController|null} */
@@ -208,12 +210,15 @@ export function createMindMirrorApp(container, options = {}) {
         onViewMindMaps: () => {
           controller.showMindMapResults(profile);
         },
+        onStartLifeSimulation: () => {
+          controller.startLifeSimulation(profile);
+        },
         onBack: () => {
           controller.startSubjectSetup();
         },
       });
     },
-    showMindMapResults: (profile) => {
+    showMindMapResults: (profile, lifeSimulationSession = null) => {
       clearActiveScreenController();
       currentScreen = 'mind_maps';
       screenRequestId += 1;
@@ -222,8 +227,25 @@ export function createMindMirrorApp(container, options = {}) {
         profile,
         initialRealmIndex: 0,
         initialLabelMode: 'inner',
+        lifeSimulationSession,
         onExit: () => {
           controller.startSubjectSetup();
+        },
+      });
+    },
+
+    startLifeSimulation: (profile) => {
+      clearActiveScreenController();
+      currentScreen = 'life_simulation';
+      screenRequestId += 1;
+
+      activeScreenController = renderRetroLifeSimulationScreen(container, {
+        profile,
+        onViewMindMaps: (session) => {
+          controller.showMindMapResults(profile, session);
+        },
+        onBack: () => {
+          controller.openProfileSummary(profile);
         },
       });
     },
