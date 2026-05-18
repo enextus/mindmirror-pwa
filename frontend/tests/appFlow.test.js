@@ -6,6 +6,7 @@ import { beforeEach, describe, expect, it, vi } from 'vitest';
 
 import { buildProfileFromAnswers } from '../src/js/core/profileBuilder.js';
 import { RATING_SCALES } from '../src/js/data/scales.js';
+import { SAMPLE_LIFE_SIMULATION_EVENTS } from '../src/js/data/sampleEvents.js';
 import {
   createMemoryMindMirrorRepository,
   createSavedProfileRecord,
@@ -62,6 +63,15 @@ function dispatchKey(target, key) {
 }
 
 /**
+ * @param {'new_profile'|'saved_profiles'|'compare_profiles'} itemId
+ */
+function clickStartMenuItem(itemId) {
+  const button = /** @type {HTMLButtonElement} */ (document.querySelector(`[data-menu-id="${itemId}"]`));
+  expect(button).not.toBeNull();
+  button.click();
+}
+
+/**
  * @param {HTMLElement} target
  */
 function completeRatingFlowWithEnter(target) {
@@ -100,11 +110,17 @@ beforeEach(() => {
 });
 
 describe('Mind Mirror app flow', () => {
-  it('starts with subject setup, completes ratings, saves profile and opens summary before Mind Maps', async () => {
+  it('starts with the retro menu, completes ratings, saves profile and opens summary before Mind Maps', async () => {
     const repository = createMemoryMindMirrorRepository();
     const controller = initializeApp(document, { repository });
     const container = /** @type {HTMLElement} */ (document.querySelector('#app'));
 
+    await flushPromises();
+
+    expect(controller.getScreen()).toBe('start_menu');
+    expect(document.querySelector('.retro-start-screen')).not.toBeNull();
+
+    clickStartMenuItem('new_profile');
     await flushPromises();
 
     expect(controller.getScreen()).toBe('subject_setup');
@@ -145,6 +161,8 @@ describe('Mind Mirror app flow', () => {
     const container = /** @type {HTMLElement} */ (document.querySelector('#app'));
 
     await flushPromises();
+    clickStartMenuItem('new_profile');
+    await flushPromises();
     const input = /** @type {HTMLInputElement} */ (document.querySelector('#subjectNameInput'));
     input.value = 'Ideal Partner';
     /** @type {HTMLFormElement} */ (document.querySelector('form')).requestSubmit();
@@ -160,6 +178,9 @@ describe('Mind Mirror app flow', () => {
     const mindMapRoot = /** @type {HTMLElement} */ (document.querySelector('.retro-mind-map-screen'));
     dispatchKey(mindMapRoot, 'Escape');
 
+    await flushPromises();
+    expect(controller.getScreen()).toBe('start_menu');
+    clickStartMenuItem('saved_profiles');
     await flushPromises();
     expect(controller.getScreen()).toBe('subject_setup');
     expect(document.querySelector('.retro-saved-profile__name')?.textContent).toBe('Ideal Partner');
@@ -185,10 +206,8 @@ describe('Mind Mirror app flow', () => {
 
     await flushPromises();
 
-    expect(controller.getScreen()).toBe('subject_setup');
-    const compareButton = /** @type {HTMLButtonElement} */ (document.querySelector('.retro-subject-compare-button'));
-    expect(compareButton.disabled).toBe(false);
-    compareButton.click();
+    expect(controller.getScreen()).toBe('start_menu');
+    clickStartMenuItem('compare_profiles');
 
     await flushPromises();
 
@@ -212,6 +231,8 @@ describe('Mind Mirror app flow', () => {
     const container = /** @type {HTMLElement} */ (document.querySelector('#app'));
 
     await flushPromises();
+    clickStartMenuItem('new_profile');
+    await flushPromises();
     const input = /** @type {HTMLInputElement} */ (document.querySelector('#subjectNameInput'));
     input.value = 'Simulation Player';
     /** @type {HTMLFormElement} */ (document.querySelector('form')).requestSubmit();
@@ -226,7 +247,7 @@ describe('Mind Mirror app flow', () => {
     expect(controller.getScreen()).toBe('life_simulation');
     expect(document.querySelector('.retro-screen-title')?.textContent).toBe('LIFE SIMULATIONS');
 
-    for (let index = 0; index < 8; index += 1) {
+    for (let index = 0; index < SAMPLE_LIFE_SIMULATION_EVENTS.length; index += 1) {
       dispatchKey(/** @type {HTMLElement} */ (document.querySelector('.retro-simulation-screen')), 'Enter');
     }
 

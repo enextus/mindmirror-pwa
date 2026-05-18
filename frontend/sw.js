@@ -12,6 +12,7 @@ const APP_SHELL = [
   './index.html',
   './offline.html',
   './manifest.json',
+  './src/icons/mindmirror-icon.svg',
 
   './src/css/app.css',
 
@@ -54,7 +55,12 @@ const APP_SHELL = [
   './src/js/ui/router.js',
   './src/js/ui/comparisonScreen.js',
   './src/js/ui/exportScreen.js',
+  './src/js/export/exportJson.js',
+  './src/js/export/exportXlsx.js',
+  './src/js/export/exportPdf.js',
+  './src/js/export/pdfFonts.js',
   './src/js/ui/simulationScreen.js',
+  './src/js/ui/startScreen.js',
   './src/js/ui/subjectForm.js',
   './src/js/ui/toast.js'
 ];

@@ -35,6 +35,7 @@ import { STORE_NAMES } from './migrations.js';
  * @property {() => Promise<SavedProfileRecord[]>} listProfiles
  * @property {(profileId: string) => Promise<SavedProfileRecord|null>} getProfile
  * @property {(subjectDraft: { id?: string|null, name: string, type: string }, profile: SubjectProfile) => Promise<SavedProfileRecord>} saveSubjectProfile
+ * @property {(profileId: string, newSubjectName: string) => Promise<SavedProfileRecord|null>} renameProfile
  * @property {(profileId: string) => Promise<void>} deleteProfile
  */
 
@@ -86,6 +87,32 @@ function requireProfile(profile) {
 }
 
 /**
+ * @param {unknown} value
+ * @param {string} fieldName
+ * @returns {SavedProfileRecord}
+ */
+function requireSavedProfileRecord(value, fieldName) {
+  if (typeof value !== 'object' || value === null || Array.isArray(value)) {
+    throw new TypeError(`${fieldName} must be a SavedProfileRecord object`);
+  }
+
+  const record = /** @type {Record<string, unknown>} */ (value);
+  requireNonEmptyString(record.id, `${fieldName}.id`);
+  requireNonEmptyString(record.subjectId, `${fieldName}.subjectId`);
+  requireNonEmptyString(record.subjectName, `${fieldName}.subjectName`);
+  requireNonEmptyString(record.subjectType, `${fieldName}.subjectType`);
+  requireNonEmptyString(record.createdAt, `${fieldName}.createdAt`);
+  requireNonEmptyString(record.updatedAt, `${fieldName}.updatedAt`);
+
+  if (typeof record.subject !== 'object' || record.subject === null) {
+    throw new TypeError(`${fieldName}.subject must be a SubjectRecord object`);
+  }
+
+  requireProfile(record.profile);
+  return /** @type {SavedProfileRecord} */ (value);
+}
+
+/**
  * @param {{ id?: string|null, name: string, type: string }} subjectDraft
  * @param {string} timestamp
  * @returns {SubjectRecord}
@@ -133,6 +160,36 @@ export function createSavedProfileRecord(subject, profile, timestamp) {
 }
 
 /**
+ * Creates an immutable copy of an existing saved profile with a new subject name.
+ *
+ * @param {SavedProfileRecord} record
+ * @param {string} newSubjectName
+ * @param {string} timestamp
+ * @returns {SavedProfileRecord}
+ */
+export function renameSavedProfileRecord(record, newSubjectName, timestamp) {
+  const safeRecord = requireSavedProfileRecord(record, 'record');
+  const name = requireNonEmptyString(newSubjectName, 'newSubjectName');
+  const subject = Object.freeze({
+    ...safeRecord.subject,
+    name,
+    updatedAt: timestamp,
+  });
+  const profile = Object.freeze({
+    ...safeRecord.profile,
+    subjectName: name,
+  });
+
+  return Object.freeze({
+    ...safeRecord,
+    subjectName: name,
+    updatedAt: timestamp,
+    subject,
+    profile,
+  });
+}
+
+/**
  * Sorts newest-first by createdAt, with stable fallback to id.
  *
  * @param {readonly SavedProfileRecord[]} records
@@ -168,6 +225,18 @@ export function createMemoryMindMirrorRepository(initialRecords = []) {
       const record = createSavedProfileRecord(subject, profile, timestamp);
       profiles.set(record.id, record);
       return record;
+    },
+    renameProfile: async (profileId, newSubjectName) => {
+      const id = requireNonEmptyString(profileId, 'profileId');
+      const record = profiles.get(id);
+
+      if (record === undefined) {
+        return null;
+      }
+
+      const renamed = renameSavedProfileRecord(record, newSubjectName, new Date().toISOString());
+      profiles.set(id, renamed);
+      return renamed;
     },
     deleteProfile: async (profileId) => {
       profiles.delete(requireNonEmptyString(profileId, 'profileId'));
@@ -212,6 +281,32 @@ export function createIndexedDbMindMirrorRepository(dbPromise) {
       });
 
       return record;
+    },
+    renameProfile: async (profileId, newSubjectName) => {
+      const id = requireNonEmptyString(profileId, 'profileId');
+      const db = await dbPromise;
+      const existing = await withObjectStore(db, STORE_NAMES.PROFILES, 'readonly', (store) => store.get(id));
+
+      if (existing === undefined || existing === null) {
+        return null;
+      }
+
+      const renamed = renameSavedProfileRecord(
+        /** @type {SavedProfileRecord} */ (existing),
+        newSubjectName,
+        new Date().toISOString(),
+      );
+      const transaction = db.transaction([STORE_NAMES.SUBJECTS, STORE_NAMES.PROFILES], 'readwrite');
+      transaction.objectStore(STORE_NAMES.SUBJECTS).put(renamed.subject);
+      transaction.objectStore(STORE_NAMES.PROFILES).put(renamed);
+
+      await new Promise((resolve, reject) => {
+        transaction.addEventListener('complete', () => resolve(undefined));
+        transaction.addEventListener('abort', () => reject(transaction.error ?? new Error('Rename transaction aborted')));
+        transaction.addEventListener('error', () => reject(transaction.error ?? new Error('Rename transaction failed')));
+      });
+
+      return renamed;
     },
     deleteProfile: async (profileId) => {
       const db = await dbPromise;

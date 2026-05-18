@@ -4,6 +4,7 @@
 
 import { classifyPointStrength, dominantLabelForPoint } from '../core/profileComparator.js';
 import { REALMS } from '../data/realms.js';
+import { downloadProfileJson } from '../export/exportJson.js';
 import { appendChildren, createDomElement } from './dom.js';
 import { createRetroKeyboardHandler } from './keyboard.js';
 import { applyRetroCssVariables } from './retroTheme.js';
@@ -33,6 +34,7 @@ import { applyRetroCssVariables } from './retroTheme.js';
  * @property {SubjectProfile} profile
  * @property {() => void} [onViewMindMaps]
  * @property {() => void} [onStartLifeSimulation]
+ * @property {(profile: SubjectProfile) => void} [onExportJson]
  * @property {() => void} [onBack]
  * @property {boolean} [attachKeyboard]
  */
@@ -44,6 +46,7 @@ import { applyRetroCssVariables } from './retroTheme.js';
  * @property {readonly RealmProfileSummary[]} summaries
  * @property {() => void} viewMindMaps
  * @property {() => void} startLifeSimulation
+ * @property {() => void} exportJson
  * @property {() => void} back
  * @property {() => void} destroy
  */
@@ -283,6 +286,7 @@ export function renderRetroProfileSummaryScreen(container, options) {
   const attachKeyboard = options.attachKeyboard ?? true;
   const onViewMindMaps = options.onViewMindMaps;
   const onStartLifeSimulation = options.onStartLifeSimulation;
+  const onExportJson = options.onExportJson;
   const onBack = options.onBack;
 
   const root = createDomElement('section', {
@@ -323,6 +327,11 @@ export function renderRetroProfileSummaryScreen(container, options) {
     textContent: 'PLAY LIFE SIMULATION',
     attributes: { type: 'button' },
   }));
+  const exportButton = /** @type {HTMLButtonElement} */ (createDomElement('button', {
+    className: 'retro-profile-summary-button',
+    textContent: 'EXPORT JSON',
+    attributes: { type: 'button' },
+  }));
   const backButton = /** @type {HTMLButtonElement} */ (createDomElement('button', {
     className: 'retro-profile-summary-button',
     textContent: 'BACK TO SUBJECTS',
@@ -330,7 +339,7 @@ export function renderRetroProfileSummaryScreen(container, options) {
   }));
   const instruction = createDomElement('p', {
     className: 'retro-screen-instruction',
-    textContent: 'RETURN views Mind Maps   LIFE SIMULATION checks role consistency   ESC returns to subject setup',
+    textContent: 'RETURN views Mind Maps   LIFE SIMULATION checks role consistency   EXPORT JSON saves a local report   ESC returns',
   });
 
   /** @type {RetroProfileSummaryScreenController} */
@@ -344,6 +353,14 @@ export function renderRetroProfileSummaryScreen(container, options) {
     startLifeSimulation: () => {
       onStartLifeSimulation?.();
     },
+    exportJson: () => {
+      if (typeof onExportJson === 'function') {
+        onExportJson(profile);
+        return;
+      }
+
+      downloadProfileJson(profile);
+    },
     back: () => {
       onBack?.();
     },
@@ -354,9 +371,10 @@ export function renderRetroProfileSummaryScreen(container, options) {
 
   viewButton.addEventListener('click', () => controller.viewMindMaps());
   simulationButton.addEventListener('click', () => controller.startLifeSimulation());
+  exportButton.addEventListener('click', () => controller.exportJson());
   backButton.addEventListener('click', () => controller.back());
 
-  appendChildren(actions, [viewButton, simulationButton, backButton]);
+  appendChildren(actions, [viewButton, simulationButton, exportButton, backButton]);
   appendChildren(root, [title, subtitle, subject, timestamp, table, actions, instruction]);
 
   const keyHandler = createRetroKeyboardHandler({

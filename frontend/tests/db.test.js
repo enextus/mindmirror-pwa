@@ -60,6 +60,11 @@ describe('createMemoryMindMirrorRepository', () => {
     expect(await repository.getProfile(saved.id)).toEqual(saved);
     expect(await repository.listProfiles()).toHaveLength(1);
 
+    const renamed = await repository.renameProfile(saved.id, 'Self relaxed');
+    expect(renamed?.subjectName).toBe('Self relaxed');
+    expect(renamed?.profile.subjectName).toBe('Self relaxed');
+    expect((await repository.getProfile(saved.id))?.subjectName).toBe('Self relaxed');
+
     await repository.deleteProfile(saved.id);
     expect(await repository.getProfile(saved.id)).toBeNull();
     expect(await repository.listProfiles()).toHaveLength(0);

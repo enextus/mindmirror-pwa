@@ -69,11 +69,13 @@ describe('renderRetroProfileSummaryScreen', () => {
   it('renders subject details, four realm rows and VIEW MIND MAPS action', () => {
     const container = document.createElement('div');
     const onViewMindMaps = vi.fn();
+    const onExportJson = vi.fn();
     const profile = createProfile('Ideal Partner');
 
     const controller = renderRetroProfileSummaryScreen(container, {
       profile,
       onViewMindMaps,
+      onExportJson,
       attachKeyboard: false,
     });
 
@@ -85,6 +87,11 @@ describe('renderRetroProfileSummaryScreen', () => {
 
     /** @type {HTMLButtonElement} */ (container.querySelector('.retro-profile-summary-button.is-primary')).click();
     expect(onViewMindMaps).toHaveBeenCalledOnce();
+
+    const exportButton = [...container.querySelectorAll('.retro-profile-summary-button')]
+      .find((button) => button.textContent === 'EXPORT JSON');
+    /** @type {HTMLButtonElement} */ (exportButton).click();
+    expect(onExportJson).toHaveBeenCalledWith(profile);
   });
 
   it('supports original-style keyboard actions: Return opens maps, Escape goes back', () => {

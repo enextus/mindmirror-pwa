@@ -46,8 +46,10 @@ describe('saved profile list', () => {
     expect(list.querySelector('.retro-saved-profiles__empty')?.textContent).toContain('No saved profiles');
   });
 
-  it('calls onOpenProfile when a saved profile is selected', () => {
+  it('calls profile list actions when saved profiles are opened, renamed or deleted', () => {
     const onOpenProfile = vi.fn();
+    const onRenameProfile = vi.fn();
+    const onDeleteProfile = vi.fn();
     const profile = {
       id: 'profile_1',
       subjectId: 'subject_1',
@@ -56,11 +58,15 @@ describe('saved profile list', () => {
       createdAt: '2026-05-18T10:00:00.000Z',
       profile: /** @type {never} */ ({}),
     };
-    const list = createSavedProfilesList([profile], onOpenProfile);
+    const list = createSavedProfilesList([profile], onOpenProfile, { onRenameProfile, onDeleteProfile });
 
-    /** @type {HTMLButtonElement} */ (list.querySelector('button'))?.click();
+    /** @type {HTMLButtonElement} */ (list.querySelector('.retro-saved-profile__button'))?.click();
+    /** @type {HTMLButtonElement} */ (list.querySelector('.retro-saved-profile__action'))?.click();
+    /** @type {HTMLButtonElement} */ (list.querySelector('.retro-saved-profile__action.is-danger'))?.click();
 
     expect(onOpenProfile).toHaveBeenCalledWith(profile);
+    expect(onRenameProfile).toHaveBeenCalledWith(profile);
+    expect(onDeleteProfile).toHaveBeenCalledWith(profile);
   });
 });
 

@@ -154,9 +154,10 @@ function createSavedProfileMeta(profile) {
 /**
  * @param {readonly SavedProfileListItem[]} profiles
  * @param {(profile: SavedProfileListItem) => void} onOpenProfile
+ * @param {{ onRenameProfile?: (profile: SavedProfileListItem) => void, onDeleteProfile?: (profile: SavedProfileListItem) => void }} [options]
  * @returns {HTMLElement}
  */
-export function createSavedProfilesList(profiles, onOpenProfile) {
+export function createSavedProfilesList(profiles, onOpenProfile, options = {}) {
   const root = createDomElement('section', { className: 'retro-saved-profiles' });
   const title = createDomElement('h2', {
     className: 'retro-saved-profiles__title',
@@ -191,7 +192,30 @@ export function createSavedProfilesList(profiles, onOpenProfile) {
 
     button.append(name, createSavedProfileMeta(profile));
     button.addEventListener('click', () => onOpenProfile(profile));
-    item.append(button);
+
+    const actions = createDomElement('div', { className: 'retro-saved-profile__actions' });
+    const renameButton = /** @type {HTMLButtonElement} */ (createDomElement('button', {
+      className: 'retro-saved-profile__action',
+      textContent: 'RENAME',
+      attributes: { type: 'button' },
+    }));
+    const deleteButton = /** @type {HTMLButtonElement} */ (createDomElement('button', {
+      className: 'retro-saved-profile__action is-danger',
+      textContent: 'DELETE',
+      attributes: { type: 'button' },
+    }));
+
+    renameButton.addEventListener('click', (event) => {
+      event.stopPropagation();
+      options.onRenameProfile?.(profile);
+    });
+    deleteButton.addEventListener('click', (event) => {
+      event.stopPropagation();
+      options.onDeleteProfile?.(profile);
+    });
+
+    appendChildren(actions, [renameButton, deleteButton]);
+    item.append(button, actions);
     list.append(item);
   }
 
@@ -208,6 +232,8 @@ export function createSavedProfilesList(profiles, onOpenProfile) {
  *   onBegin?: (draft: SubjectDraft) => void,
  *   onOpenProfile?: (profile: SavedProfileListItem) => void,
  *   onCompareProfiles?: () => void,
+ *   onRenameProfile?: (profile: SavedProfileListItem) => void,
+ *   onDeleteProfile?: (profile: SavedProfileListItem) => void,
  *   attachKeyboard?: boolean,
  * }} [options]
  * @returns {SubjectSetupController}
@@ -303,6 +329,9 @@ export function renderRetroSubjectSetupScreen(container, options = {}) {
     const panel = createDomElement('div', { className: 'retro-saved-profiles-panel' });
     panel.append(createSavedProfilesList(savedProfiles, (profile) => {
       options.onOpenProfile?.(profile);
+    }, {
+      onRenameProfile: options.onRenameProfile,
+      onDeleteProfile: options.onDeleteProfile,
     }));
 
     if (typeof options.onCompareProfiles === 'function') {

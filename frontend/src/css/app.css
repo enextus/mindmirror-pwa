@@ -1110,3 +1110,184 @@ textarea {
 .retro-simulation-summary-grid dd {
   margin: 0;
 }
+
+/* =====================================================================
+   MVP completion: profile management, export preview, PWA polish
+   ===================================================================== */
+.retro-saved-profile {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.55rem;
+  align-items: stretch;
+}
+
+.retro-saved-profile__actions {
+  display: flex;
+  gap: 0.35rem;
+  align-items: stretch;
+}
+
+.retro-saved-profile__action {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: transparent;
+  color: var(--mm-retro-cyan, #72f7ff);
+  font: inherit;
+  font-size: 0.76rem;
+  padding: 0.35rem 0.5rem;
+  cursor: pointer;
+}
+
+.retro-saved-profile__action:hover,
+.retro-saved-profile__action:focus-visible {
+  background: var(--mm-retro-selected-bg, #f2f2f2);
+  color: var(--mm-retro-selected-fg, #050505);
+}
+
+.retro-saved-profile__action.is-danger {
+  color: var(--mm-retro-title, #ff3b2f);
+}
+
+.retro-export-screen {
+  min-height: 100vh;
+  padding: 2rem;
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+}
+
+.retro-export-preview {
+  max-width: 1080px;
+  max-height: 45vh;
+  margin: 1.2rem auto;
+  padding: 1rem;
+  overflow: auto;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: rgba(0, 64, 0, 0.24);
+  color: var(--mm-retro-label, #79ff79);
+  font: 0.82rem/1.45 var(--mm-retro-font, "Courier New", Consolas, monospace);
+  white-space: pre-wrap;
+}
+
+.retro-export-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.retro-export-button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: transparent;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font: inherit;
+  padding: 0.55rem 0.9rem;
+  cursor: pointer;
+}
+
+.retro-export-button.is-primary {
+  color: var(--mm-retro-title, #ff3b2f);
+  border-color: var(--mm-retro-title, #ff3b2f);
+}
+
+.retro-profile-summary-button:focus-visible,
+.retro-export-button:focus-visible,
+.retro-simulation-button:focus-visible {
+  outline: 2px solid var(--mm-retro-cyan, #72f7ff);
+  outline-offset: 2px;
+}
+
+@media (max-width: 720px) {
+  .retro-saved-profile {
+    grid-template-columns: 1fr;
+  }
+
+  .retro-saved-profile__actions {
+    justify-content: stretch;
+  }
+
+  .retro-saved-profile__action {
+    flex: 1;
+  }
+}
+
+/* Ende MVP completion UI */
+
+/* =====================================================================
+   Retro start menu / router shell
+   ===================================================================== */
+.retro-start-screen {
+  min-height: 100vh;
+  display: grid;
+  align-content: center;
+  gap: 1.25rem;
+  padding: clamp(1.25rem, 4vw, 3.5rem);
+  background:
+    radial-gradient(circle at 50% 28%, rgba(15, 143, 63, 0.16), transparent 28rem),
+    var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+}
+
+.retro-start-title {
+  margin: 0;
+  color: var(--mm-retro-title, #ff3b2f);
+  font-size: clamp(3rem, 10vw, 7rem);
+  line-height: 0.9;
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-shadow: 0 0 12px rgba(255, 59, 47, 0.45);
+}
+
+.retro-start-subtitle,
+.retro-start-footer {
+  margin: 0 auto;
+  max-width: 780px;
+  color: var(--mm-retro-label, #79ff79);
+  text-align: center;
+}
+
+.retro-start-menu {
+  width: min(760px, 100%);
+  margin: 0 auto;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.retro-start-menu__item {
+  display: grid;
+  gap: 0.25rem;
+  width: 100%;
+  border: 2px solid var(--mm-retro-border, #f2f2f2);
+  padding: 0.9rem 1rem;
+  background: rgba(0, 40, 0, 0.34);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.retro-start-menu__item.is-selected,
+.retro-start-menu__item:hover:not(:disabled),
+.retro-start-menu__item:focus-visible:not(:disabled) {
+  background: var(--mm-retro-selected-bg, #f2f2f2);
+  color: var(--mm-retro-selected-fg, #050505);
+}
+
+.retro-start-menu__item:disabled {
+  opacity: 0.42;
+  cursor: not-allowed;
+}
+
+.retro-start-menu__item-label {
+  color: inherit;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.retro-start-menu__item-description {
+  color: inherit;
+  opacity: 0.82;
+  font-size: 0.88rem;
+}
+
+/* Ende Retro start menu */

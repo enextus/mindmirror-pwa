@@ -8,6 +8,7 @@ import { renderRetroComparisonScreen } from './ui/comparisonScreen.js';
 import { renderRetroMindMapScreen } from './ui/mindMapScreen.js';
 import { renderRetroProfileSummaryScreen } from './ui/profileSummaryScreen.js';
 import { renderRetroRatingScaleScreen } from './ui/ratingScreen.js';
+import { renderRetroStartScreen } from './ui/startScreen.js';
 import { renderRetroLifeSimulationScreen } from './ui/simulationScreen.js';
 import { renderRetroSubjectSetupScreen } from './ui/subjectForm.js';
 
@@ -21,7 +22,8 @@ import { renderRetroSubjectSetupScreen } from './ui/subjectForm.js';
 /**
  * @typedef {object} MindMirrorAppController
  * @property {HTMLElement} container
- * @property {() => 'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'life_simulation'|'fatal'} getScreen
+ * @property {() => 'start_menu'|'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'life_simulation'|'fatal'} getScreen
+ * @property {() => void} startMenu
  * @property {() => void} startSubjectSetup
  * @property {(draft: SubjectDraft) => void} startRatingFlow
  * @property {(profile: SubjectProfile) => void} openProfileSummary
@@ -96,7 +98,7 @@ function normalizeRepository(repository) {
   }
 
   const record = /** @type {Record<string, unknown>} */ (candidate);
-  const requiredMethods = ['listProfiles', 'getProfile', 'saveSubjectProfile', 'deleteProfile'];
+  const requiredMethods = ['listProfiles', 'getProfile', 'saveSubjectProfile', 'renameProfile', 'deleteProfile'];
 
   for (const method of requiredMethods) {
     if (typeof record[method] !== 'function') {
@@ -105,6 +107,32 @@ function normalizeRepository(repository) {
   }
 
   return /** @type {MindMirrorRepository} */ (candidate);
+}
+
+/**
+ * @param {string} currentName
+ * @returns {string|null}
+ */
+function promptForProfileName(currentName) {
+  if (typeof window === 'undefined' || typeof window.prompt !== 'function') {
+    return null;
+  }
+
+  const result = window.prompt('Rename saved Mind Mirror profile:', currentName);
+  const normalized = typeof result === 'string' ? result.trim() : '';
+  return normalized.length > 0 ? normalized : null;
+}
+
+/**
+ * @param {string} subjectName
+ * @returns {boolean}
+ */
+function confirmDeleteProfile(subjectName) {
+  if (typeof window === 'undefined' || typeof window.confirm !== 'function') {
+    return true;
+  }
+
+  return window.confirm(`Delete saved Mind Mirror profile "${subjectName}"?`);
 }
 
 /**
@@ -128,8 +156,8 @@ export function createMindMirrorApp(container, options = {}) {
 
   const repository = normalizeRepository(options.repository);
 
-  /** @type {'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'life_simulation'|'fatal'} */
-  let currentScreen = 'subject_setup';
+  /** @type {'start_menu'|'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'life_simulation'|'fatal'} */
+  let currentScreen = 'start_menu';
 
   /** @type {DestroyableController|null} */
   let activeScreenController = null;
@@ -148,6 +176,35 @@ export function createMindMirrorApp(container, options = {}) {
   const controller = {
     container,
     getScreen: () => currentScreen,
+    startMenu: () => {
+      clearActiveScreenController();
+      currentScreen = 'start_menu';
+      activeSubjectDraft = null;
+      screenRequestId += 1;
+      const requestId = screenRequestId;
+
+      container.innerHTML = `
+        <section class="retro-start-screen" tabindex="0">
+          <h1 class="retro-start-title">MIND MIRROR</h1>
+          <p class="retro-start-subtitle">Loading local thought maps...</p>
+        </section>
+      `;
+
+      repository.listProfiles()
+        .catch(() => /** @type {SavedProfileRecord[]} */ ([]))
+        .then((savedProfiles) => {
+          if (requestId !== screenRequestId) {
+            return;
+          }
+
+          activeScreenController = renderRetroStartScreen(container, {
+            savedProfiles,
+            onNewProfile: () => controller.startSubjectSetup(),
+            onSavedProfiles: () => controller.startSubjectSetup(),
+            onCompareProfiles: () => controller.showComparisonScreen(),
+          });
+        });
+    },
     startSubjectSetup: () => {
       clearActiveScreenController();
       currentScreen = 'subject_setup';
@@ -174,6 +231,26 @@ export function createMindMirrorApp(container, options = {}) {
             onBegin: (draft) => controller.startRatingFlow(draft),
             onOpenProfile: (record) => controller.openProfileSummary(record.profile),
             onCompareProfiles: () => controller.showComparisonScreen(),
+            onRenameProfile: (record) => {
+              const newName = promptForProfileName(record.subjectName);
+
+              if (newName === null) {
+                return;
+              }
+
+              repository.renameProfile(record.id, newName)
+                .then(() => controller.startSubjectSetup())
+                .catch((error) => console.warn('Mind Mirror profile could not be renamed', error));
+            },
+            onDeleteProfile: (record) => {
+              if (!confirmDeleteProfile(record.subjectName)) {
+                return;
+              }
+
+              repository.deleteProfile(record.id)
+                .then(() => controller.startSubjectSetup())
+                .catch((error) => console.warn('Mind Mirror profile could not be deleted', error));
+            },
           });
         });
     },
@@ -214,7 +291,7 @@ export function createMindMirrorApp(container, options = {}) {
           controller.startLifeSimulation(profile);
         },
         onBack: () => {
-          controller.startSubjectSetup();
+          controller.startMenu();
         },
       });
     },
@@ -229,7 +306,7 @@ export function createMindMirrorApp(container, options = {}) {
         initialLabelMode: 'inner',
         lifeSimulationSession,
         onExit: () => {
-          controller.startSubjectSetup();
+          controller.startMenu();
         },
       });
     },
@@ -298,7 +375,7 @@ export function initializeApp(doc = document, options = {}) {
   const controller = createMindMirrorApp(container, options);
 
   try {
-    controller.startSubjectSetup();
+    controller.startMenu();
     return controller;
   } catch (error) {
     controller.destroy();
