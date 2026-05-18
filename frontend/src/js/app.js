@@ -4,6 +4,7 @@
 
 import { createBrowserMindMirrorRepository } from './db/repositories.js';
 import { getRequiredElementById } from './ui/dom.js';
+import { renderRetroComparisonScreen } from './ui/comparisonScreen.js';
 import { renderRetroMindMapScreen } from './ui/mindMapScreen.js';
 import { renderRetroProfileSummaryScreen } from './ui/profileSummaryScreen.js';
 import { renderRetroRatingScaleScreen } from './ui/ratingScreen.js';
@@ -19,12 +20,13 @@ import { renderRetroSubjectSetupScreen } from './ui/subjectForm.js';
 /**
  * @typedef {object} MindMirrorAppController
  * @property {HTMLElement} container
- * @property {() => 'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'fatal'} getScreen
+ * @property {() => 'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'fatal'} getScreen
  * @property {() => void} startSubjectSetup
  * @property {(draft: SubjectDraft) => void} startRatingFlow
  * @property {(profile: SubjectProfile) => void} openProfileSummary
  * @property {(profile: SubjectProfile, subjectDraft?: SubjectDraft|null) => void} showProfileSummary
  * @property {(profile: SubjectProfile) => void} showMindMapResults
+ * @property {() => void} showComparisonScreen
  * @property {() => void} destroy
  */
 
@@ -124,7 +126,7 @@ export function createMindMirrorApp(container, options = {}) {
 
   const repository = normalizeRepository(options.repository);
 
-  /** @type {'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'fatal'} */
+  /** @type {'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'compare_profiles'|'fatal'} */
   let currentScreen = 'subject_setup';
 
   /** @type {DestroyableController|null} */
@@ -169,6 +171,7 @@ export function createMindMirrorApp(container, options = {}) {
             savedProfiles,
             onBegin: (draft) => controller.startRatingFlow(draft),
             onOpenProfile: (record) => controller.openProfileSummary(record.profile),
+            onCompareProfiles: () => controller.showComparisonScreen(),
           });
         });
     },
@@ -223,6 +226,34 @@ export function createMindMirrorApp(container, options = {}) {
           controller.startSubjectSetup();
         },
       });
+    },
+    showComparisonScreen: () => {
+      clearActiveScreenController();
+      currentScreen = 'compare_profiles';
+      screenRequestId += 1;
+      const requestId = screenRequestId;
+
+      container.innerHTML = `
+        <section class="retro-comparison-screen" tabindex="0">
+          <h1 class="retro-screen-title">COMPARE PROFILES</h1>
+          <p class="retro-screen-status">Loading saved profiles...</p>
+        </section>
+      `;
+
+      repository.listProfiles()
+        .catch(() => /** @type {SavedProfileRecord[]} */ ([]))
+        .then((savedProfiles) => {
+          if (requestId !== screenRequestId) {
+            return;
+          }
+
+          activeScreenController = renderRetroComparisonScreen(container, {
+            savedProfiles,
+            onViewProfileA: (record) => controller.showMindMapResults(record.profile),
+            onViewProfileB: (record) => controller.showMindMapResults(record.profile),
+            onBack: () => controller.startSubjectSetup(),
+          });
+        });
     },
     destroy: () => {
       screenRequestId += 1;

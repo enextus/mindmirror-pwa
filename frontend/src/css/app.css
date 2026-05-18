@@ -810,3 +810,204 @@ textarea {
 }
 
 /* Ende retro profile summary screen */
+
+/* =====================================================================
+   Retro Inter-Play comparison screen
+   ===================================================================== */
+
+.retro-saved-profiles-panel {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.retro-subject-compare-button,
+.retro-comparison-button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #111;
+  color: var(--mm-retro-fg, #f2f2f2);
+  cursor: pointer;
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 0.65rem 0.9rem;
+  text-transform: uppercase;
+}
+
+.retro-subject-compare-button:hover:not(:disabled),
+.retro-subject-compare-button:focus-visible:not(:disabled),
+.retro-comparison-button:hover,
+.retro-comparison-button:focus-visible {
+  background: var(--mm-retro-fg, #f2f2f2);
+  color: var(--mm-retro-bg, #050505);
+  outline: none;
+}
+
+.retro-subject-compare-button:disabled {
+  border-color: var(--mm-retro-muted-fg, #777);
+  color: var(--mm-retro-muted-fg, #777);
+  cursor: not-allowed;
+}
+
+.retro-subject-compare-help {
+  margin: 0;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.retro-comparison-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 3vw, 2.25rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-comparison-header,
+.retro-comparison-form,
+.retro-comparison-result-host,
+.retro-comparison-empty {
+  max-width: 72rem;
+  margin-inline: auto;
+}
+
+.retro-comparison-header {
+  display: grid;
+  gap: 0.5rem;
+  margin-bottom: 1.1rem;
+  border-bottom: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding-bottom: 0.8rem;
+}
+
+.retro-comparison-form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.retro-comparison-field {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.retro-comparison-label {
+  color: var(--mm-retro-warning, #ffef9a);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.retro-comparison-select {
+  width: 100%;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #080808;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: inherit;
+  padding: 0.65rem 0.75rem;
+}
+
+.retro-comparison-actions {
+  display: flex;
+  flex-wrap: wrap;
+  grid-column: 1 / -1;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.retro-comparison-button.is-primary {
+  background: var(--mm-retro-warning, #ffef9a);
+  color: #111;
+}
+
+.retro-comparison-result {
+  display: grid;
+  gap: 0.9rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding: 1rem;
+}
+
+.retro-comparison-result__title,
+.retro-comparison-result__subtitle,
+.retro-comparison-message {
+  margin: 0;
+}
+
+.retro-comparison-result__title {
+  color: var(--mm-retro-red, #ff5555);
+  font-size: 1.25rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.retro-comparison-result__subtitle,
+.retro-comparison-message {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  line-height: 1.5;
+}
+
+.retro-comparison-overall {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.65rem;
+}
+
+.retro-comparison-overall__item {
+  display: grid;
+  gap: 0.3rem;
+  border: 1px solid color-mix(in srgb, var(--mm-retro-border, #f2f2f2) 45%, transparent);
+  padding: 0.65rem;
+}
+
+.retro-comparison-overall__label {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.retro-comparison-overall__value {
+  color: var(--mm-retro-green, #66ff66);
+  font-size: 1rem;
+}
+
+.retro-comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-size: 0.9rem;
+}
+
+.retro-comparison-table caption {
+  margin-bottom: 0.45rem;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  text-align: left;
+}
+
+.retro-comparison-table th,
+.retro-comparison-table td {
+  border: 1px solid color-mix(in srgb, var(--mm-retro-border, #f2f2f2) 42%, transparent);
+  padding: 0.45rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.retro-comparison-table th {
+  color: var(--mm-retro-warning, #ffef9a);
+}
+
+.retro-comparison-empty {
+  display: grid;
+  gap: 1rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding: 1rem;
+}
+
+@media (max-width: 860px) {
+  .retro-comparison-form,
+  .retro-comparison-overall {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Ende Retro Inter-Play comparison screen */

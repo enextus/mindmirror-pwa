@@ -43,6 +43,7 @@ export const DEFAULT_SUBJECT_TYPE = 'self';
  * @property {HTMLSelectElement} typeSelect
  * @property {() => SubjectDraft} getDraft
  * @property {(profiles: readonly SavedProfileListItem[]) => void} updateSavedProfiles
+ * @property {() => void} compareProfiles
  * @property {() => void} destroy
  */
 
@@ -206,6 +207,7 @@ export function createSavedProfilesList(profiles, onOpenProfile) {
  *   defaultSubjectType?: string,
  *   onBegin?: (draft: SubjectDraft) => void,
  *   onOpenProfile?: (profile: SavedProfileListItem) => void,
+ *   onCompareProfiles?: () => void,
  *   attachKeyboard?: boolean,
  * }} [options]
  * @returns {SubjectSetupController}
@@ -294,6 +296,41 @@ export function renderRetroSubjectSetupScreen(container, options = {}) {
 
   const savedProfilesHost = createDomElement('div', { className: 'retro-saved-profiles-host' });
 
+  /**
+   * @returns {HTMLElement}
+   */
+  const createSavedProfilesPanel = () => {
+    const panel = createDomElement('div', { className: 'retro-saved-profiles-panel' });
+    panel.append(createSavedProfilesList(savedProfiles, (profile) => {
+      options.onOpenProfile?.(profile);
+    }));
+
+    if (typeof options.onCompareProfiles === 'function') {
+      const compareButton = /** @type {HTMLButtonElement} */ (createDomElement('button', {
+        className: 'retro-subject-compare-button',
+        textContent: 'COMPARE PROFILES',
+        attributes: { type: 'button' },
+      }));
+      compareButton.disabled = savedProfiles.length < 2;
+      compareButton.addEventListener('click', () => {
+        if (savedProfiles.length >= 2) {
+          options.onCompareProfiles?.();
+        }
+      });
+
+      const compareHelp = createDomElement('p', {
+        className: 'retro-subject-compare-help',
+        textContent: savedProfiles.length >= 2
+          ? 'Inter-Play: compare two saved perception maps.'
+          : 'Create at least two saved profiles to unlock Inter-Play comparison.',
+      });
+
+      appendChildren(panel, [compareButton, compareHelp]);
+    }
+
+    return panel;
+  };
+
   /** @type {SubjectSetupController} */
   const controller = {
     root,
@@ -302,9 +339,12 @@ export function renderRetroSubjectSetupScreen(container, options = {}) {
     getDraft: () => draftFromControls(nameInput, typeSelect),
     updateSavedProfiles: (profiles) => {
       savedProfiles = normalizeSavedProfiles(profiles);
-      savedProfilesHost.replaceChildren(createSavedProfilesList(savedProfiles, (profile) => {
-        options.onOpenProfile?.(profile);
-      }));
+      savedProfilesHost.replaceChildren(createSavedProfilesPanel());
+    },
+    compareProfiles: () => {
+      if (savedProfiles.length >= 2) {
+        options.onCompareProfiles?.();
+      }
     },
     destroy: () => {
       root.removeEventListener('keydown', keyHandler);
