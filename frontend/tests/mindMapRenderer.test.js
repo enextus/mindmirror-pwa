@@ -6,7 +6,10 @@ import { describe, expect, it } from 'vitest';
 
 import {
   createLabelLayout,
+  MIND_MAP_LABEL_MODES,
   resolveSectorLabels,
+  resolveVisibleLabels,
+  sourceLabelIndexForMode,
   textAlignForAngle,
   textBaselineForAngle,
 } from '../src/js/canvas/labelLayout.js';
@@ -16,10 +19,12 @@ import {
   renderMarkers,
 } from '../src/js/canvas/markerRenderer.js';
 import {
+  drawMindMapBackground,
   drawMindMapRings,
   drawMindMapSectorLines,
   renderMindMap,
 } from '../src/js/canvas/mindMapRenderer.js';
+import { RETRO_CANVAS_THEME } from '../src/js/ui/retroTheme.js';
 
 /**
  * @typedef {object} FakeCanvasContext
@@ -35,11 +40,12 @@ import {
  * @property {() => void} fill
  * @property {(text: string, x: number, y: number) => void} fillText
  * @property {(x: number, y: number, width: number, height: number) => void} clearRect
+ * @property {(x: number, y: number, width: number, height: number) => void} fillRect
  * @property {string} font
  * @property {CanvasTextAlign} textAlign
  * @property {CanvasTextBaseline} textBaseline
- * @property {string} fillStyle
- * @property {string} strokeStyle
+ * @property {string|CanvasGradient|CanvasPattern} fillStyle
+ * @property {string|CanvasGradient|CanvasPattern} strokeStyle
  * @property {number} lineWidth
  */
 
@@ -71,6 +77,7 @@ function createFakeContext(width = 400, height = 400) {
     fill: () => calls.push(['fill']),
     fillText: (text, x, y) => calls.push(['fillText', text, x, y]),
     clearRect: (x, y, rectWidth, rectHeight) => calls.push(['clearRect', x, y, rectWidth, rectHeight]),
+    fillRect: (x, y, rectWidth, rectHeight) => calls.push(['fillRect', x, y, rectWidth, rectHeight]),
   };
 }
 
@@ -82,6 +89,8 @@ function createFakeContext(width = 400, height = 400) {
 function callsByName(context, name) {
   return context.calls.filter((call) => call[0] === name);
 }
+
+const SIXTEEN_LABELS = Object.freeze(Array.from({ length: 16 }, (_, index) => `L${index}`));
 
 describe('label layout helpers', () => {
   it('resolves missing labels to empty sector labels', () => {
@@ -100,13 +109,42 @@ describe('label layout helpers', () => {
     expect(textBaselineForAngle(-Math.PI / 2)).toBe('bottom');
   });
 
-  it('creates one label placement per sector', () => {
+  it('creates one label placement per sector in all-label mode', () => {
     const layout = createMindMapLayout(400, 400, { padding: 24, labelMargin: 32 });
-    const labels = Array.from({ length: 16 }, (_, index) => `L${index}`);
-    const labelLayout = createLabelLayout(layout, labels);
+    const labelLayout = createLabelLayout(layout, SIXTEEN_LABELS);
 
     expect(labelLayout).toHaveLength(16);
-    expect(labelLayout[0]).toMatchObject({ text: 'L0', sectorIndex: 0, textAlign: 'left' });
+    expect(labelLayout[0]).toMatchObject({ text: 'L0', sectorIndex: 0, sourceLabelIndex: 0, textAlign: 'left' });
+  });
+
+  it('maps inner and outer labels in original DOS-style ring order', () => {
+    expect(sourceLabelIndexForMode(MIND_MAP_LABEL_MODES.INNER, 0)).toBe(0);
+    expect(sourceLabelIndexForMode(MIND_MAP_LABEL_MODES.INNER, 1)).toBe(14);
+    expect(sourceLabelIndexForMode(MIND_MAP_LABEL_MODES.INNER, 7)).toBe(2);
+
+    expect(sourceLabelIndexForMode(MIND_MAP_LABEL_MODES.OUTER, 0)).toBe(1);
+    expect(sourceLabelIndexForMode(MIND_MAP_LABEL_MODES.OUTER, 1)).toBe(15);
+    expect(sourceLabelIndexForMode(MIND_MAP_LABEL_MODES.OUTER, 7)).toBe(3);
+  });
+
+  it('resolves visible labels for inner and outer retro modes', () => {
+    expect(resolveVisibleLabels(SIXTEEN_LABELS, MIND_MAP_LABEL_MODES.INNER, 16).map((label) => label.text)).toEqual([
+      'L0', 'L14', 'L12', 'L10', 'L8', 'L6', 'L4', 'L2',
+    ]);
+    expect(resolveVisibleLabels(SIXTEEN_LABELS, MIND_MAP_LABEL_MODES.OUTER, 16).map((label) => label.text)).toEqual([
+      'L1', 'L15', 'L13', 'L11', 'L9', 'L7', 'L5', 'L3',
+    ]);
+  });
+
+  it('creates eight label placements for retro inner and outer modes', () => {
+    const layout = createMindMapLayout(400, 400, { padding: 24, labelMargin: 32 });
+    const innerLayout = createLabelLayout(layout, SIXTEEN_LABELS, { labelMode: 'inner' });
+    const outerLayout = createLabelLayout(layout, SIXTEEN_LABELS, { labelMode: 'outer' });
+
+    expect(innerLayout).toHaveLength(8);
+    expect(outerLayout).toHaveLength(8);
+    expect(innerLayout[0]).toMatchObject({ text: 'L0', sourceLabelIndex: 0, labelMode: 'inner' });
+    expect(outerLayout[0]).toMatchObject({ text: 'L1', sourceLabelIndex: 1, labelMode: 'outer' });
   });
 });
 
@@ -142,6 +180,15 @@ describe('marker renderer', () => {
 });
 
 describe('mind map renderer primitives', () => {
+  it('draws optional retro background when theme supplies a background fill', () => {
+    const context = createFakeContext(480, 420);
+    const layout = createMindMapLayout(480, 420);
+
+    drawMindMapBackground(context, layout, RETRO_CANVAS_THEME);
+
+    expect(callsByName(context, 'fillRect')).toEqual([['fillRect', 0, 0, 480, 420]]);
+  });
+
   it('draws three rings by default', () => {
     const context = createFakeContext();
     const layout = createMindMapLayout(400, 400);
@@ -152,7 +199,7 @@ describe('mind map renderer primitives', () => {
     expect(callsByName(context, 'stroke')).toHaveLength(3);
   });
 
-  it('draws one sector line per sector', () => {
+  it('draws one sector line per layout sector by default', () => {
     const context = createFakeContext();
     const layout = createMindMapLayout(400, 400, { sectorCount: 16 });
 
@@ -162,10 +209,20 @@ describe('mind map renderer primitives', () => {
     expect(callsByName(context, 'lineTo')).toHaveLength(16);
     expect(callsByName(context, 'stroke')).toHaveLength(16);
   });
+
+  it('can draw DOS-style eight-sector lines explicitly', () => {
+    const context = createFakeContext();
+    const layout = createMindMapLayout(400, 400, { sectorCount: 16 });
+
+    drawMindMapSectorLines(context, layout, { sectorLineCount: 8, theme: RETRO_CANVAS_THEME });
+
+    expect(callsByName(context, 'moveTo')).toHaveLength(8);
+    expect(callsByName(context, 'lineTo')).toHaveLength(8);
+  });
 });
 
 describe('renderMindMap', () => {
-  it('renders rings sectors labels title and markers', () => {
+  it('renders rings sectors labels title and markers in modern all-label mode', () => {
     const context = createFakeContext(480, 420);
     const labels = Array.from({ length: 16 }, (_, index) => `Label ${index + 1}`);
 
@@ -181,11 +238,48 @@ describe('renderMindMap', () => {
 
     expect(result.layout.width).toBe(480);
     expect(result.layout.height).toBe(420);
+    expect(result.labelMode).toBe('all');
     expect(result.labels).toHaveLength(16);
     expect(result.markers).toHaveLength(3);
     expect(callsByName(context, 'clearRect')).toEqual([['clearRect', 0, 0, 480, 420]]);
     expect(callsByName(context, 'fillText').some((call) => call[1] === 'Bio-Energy')).toBe(true);
     expect(callsByName(context, 'fillText').some((call) => call[1] === '1')).toBe(true);
+  });
+
+  it('renders DOS-style inner labels with eight sector lines and retro theme', () => {
+    const context = createFakeContext(480, 420);
+    const result = renderMindMap(context, {
+      title: 'Bio-Energy',
+      labels: SIXTEEN_LABELS,
+      markers: [
+        { id: 'baseline', label: '1', point: { normalizedX: 0.5, normalizedY: -0.25 } },
+      ],
+    }, {
+      labelMode: 'inner',
+      theme: RETRO_CANVAS_THEME,
+    });
+
+    expect(result.labelMode).toBe('inner');
+    expect(result.labels.map((label) => label.text)).toEqual(['L0', 'L14', 'L12', 'L10', 'L8', 'L6', 'L4', 'L2']);
+    expect(result.labels).toHaveLength(8);
+    expect(callsByName(context, 'fillRect')).toHaveLength(1);
+    expect(callsByName(context, 'lineTo')).toHaveLength(8);
+  });
+
+  it('renders DOS-style outer labels', () => {
+    const context = createFakeContext(480, 420);
+    const result = renderMindMap(context, {
+      labels: SIXTEEN_LABELS,
+      markers: [],
+    }, {
+      labelMode: 'outer',
+      theme: RETRO_CANVAS_THEME,
+      drawBackground: false,
+    });
+
+    expect(result.labelMode).toBe('outer');
+    expect(result.labels.map((label) => label.text)).toEqual(['L1', 'L15', 'L13', 'L11', 'L9', 'L7', 'L5', 'L3']);
+    expect(callsByName(context, 'fillRect')).toHaveLength(0);
   });
 
   it('can render without clearing and without sector lines', () => {
@@ -210,8 +304,10 @@ describe('renderMindMap', () => {
     expect(() => renderMindMap(context, null)).toThrow(TypeError);
     // @ts-expect-error runtime validation test
     expect(() => renderMindMap(context, { labels: 'wrong' })).toThrow(TypeError);
-    // @ts-expect-error runtime validation test
+
     expect(() => renderMindMap({}, { labels: [] })).toThrow(TypeError);
+    // @ts-expect-error runtime validation test
+    expect(() => renderMindMap(context, { labels: [] }, { labelMode: 'wrong' })).toThrow(RangeError);
   });
 });
 
