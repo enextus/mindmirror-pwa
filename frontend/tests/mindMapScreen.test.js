@@ -118,6 +118,21 @@ describe('renderRetroMindMapScreen', () => {
     expect(renderer).toHaveBeenCalledTimes(3);
   });
 
+
+
+  it('calls onExit when Return or Escape exits the plot', () => {
+    const container = document.createElement('div');
+    const renderer = vi.fn(() => createFakeRenderResult());
+    const onExit = vi.fn();
+    const controller = renderRetroMindMapScreen(container, { renderer, onExit });
+
+    controller.root.dispatchEvent(new KeyboardEvent('keydown', { key: 'Enter', bubbles: true }));
+    expect(onExit).toHaveBeenCalledTimes(1);
+
+    controller.root.dispatchEvent(new KeyboardEvent('keydown', { key: 'Escape', bubbles: true }));
+    expect(onExit).toHaveBeenCalledTimes(2);
+  });
+
   it('supports button-based realm switching', () => {
     const container = document.createElement('div');
     const renderer = vi.fn(() => createFakeRenderResult());

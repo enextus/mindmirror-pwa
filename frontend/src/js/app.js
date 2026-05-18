@@ -1,12 +1,26 @@
 // =====================================================================
-// src/js/app.js – Hauptlogik der PWA (Erfassen, Visualisieren, Aggregieren)
+// src/js/app.js – Hauptlogik der PWA (Rating flow → Mind Maps)
 // =====================================================================
 
 import { getRequiredElementById } from './ui/dom.js';
+import { renderRetroMindMapScreen } from './ui/mindMapScreen.js';
 import { renderRetroRatingScaleScreen } from './ui/ratingScreen.js';
 
 /**
  * @typedef {ReturnType<typeof import('./core/profileBuilder.js').buildProfileFromAnswers>} SubjectProfile
+ */
+
+/**
+ * @typedef {object} MindMirrorAppController
+ * @property {HTMLElement} container
+ * @property {() => 'rating'|'mind_maps'|'fatal'} getScreen
+ * @property {() => void} startRatingFlow
+ * @property {(profile: SubjectProfile) => void} showMindMapResults
+ * @property {() => void} destroy
+ */
+
+/**
+ * @typedef {{ destroy: () => void }} DestroyableController
  */
 
 /**
@@ -41,81 +55,122 @@ function renderFatalError(container, error) {
 }
 
 /**
- * Formats one raw profile point for the completion screen.
+ * Detects Vitest without depending on Vite-specific import.meta.env.
+ * This keeps browser auto-start behavior intact while allowing tests to
+ * import app.js without triggering a hidden DOM initialization.
  *
- * @param {SubjectProfile} profile
- * @returns {string}
+ * @returns {boolean}
  */
-function formatProfileCompletionLines(profile) {
-  return Object.entries(profile.pointsByRealm)
-    .map(([realmId, point]) => `${realmId}: x=${point.rawX}, y=${point.rawY}, answers=${point.answerCount}`)
-    .join('\n');
+function isVitestRuntime() {
+  return typeof process !== 'undefined'
+    && typeof process.env === 'object'
+    && process.env !== null
+    && process.env.VITEST === 'true';
 }
 
 /**
- * Shows a small completion screen after the retro rating flow has generated
- * a profile. The detailed four-map renderer remains available as a separate
- * vertical slice; this screen is intentionally focused on App flow semantics.
+ * @returns {boolean}
+ */
+function shouldAutoInitializeApp() {
+  return typeof window !== 'undefined'
+    && typeof document !== 'undefined'
+    && !isVitestRuntime();
+}
+
+/**
+ * Creates the first complete application loop:
+ *
+ *   retro rating scales
+ *     → 16 committed answers
+ *     → profileBuilder
+ *     → THE MIND MAPS screen
+ *     → marker 1 baseline profile
+ *
+ * This intentionally keeps the workflow local-first and deterministic.
+ * It mirrors the original Mind Mirror progression from rating scales to
+ * map visualization while staying inside the modern ES module architecture.
  *
  * @param {HTMLElement} container
- * @param {SubjectProfile} profile
+ * @returns {MindMirrorAppController}
  */
-function renderRatingCompletedScreen(container, profile) {
-  container.innerHTML = `
-    <section class="retro-rating-screen retro-rating-complete" tabindex="0">
-      <header class="retro-rating-header">
-        <h1 class="retro-rating-title">MIND MIRROR</h1>
-        <p class="retro-rating-progress">PROFILE COMPLETE</p>
-      </header>
-      <main class="retro-rating-panel">
-        <p class="retro-rating-subject">Subject: ${profile.subjectName}</p>
-        <h2 class="retro-rating-scale-title">RATING SEQUENCE COMPLETE</h2>
-        <p class="retro-rating-prompt">
-          The 16 scale answers have now been converted into four Mind Map points.
-          This verifies the App logic: scale step → answer code → score delta → profile aggregation.
-        </p>
-        <pre class="retro-rating-summary"></pre>
-        <button class="retro-rating-restart" type="button">Restart rating flow</button>
-      </main>
-    </section>
-  `;
-
-  const summary = container.querySelector('.retro-rating-summary');
-
-  if (summary !== null) {
-    summary.textContent = formatProfileCompletionLines(profile);
+export function createMindMirrorApp(container) {
+  if (!(container instanceof HTMLElement)) {
+    throw new TypeError('container must be an HTMLElement');
   }
 
-  const restartButton = container.querySelector('.retro-rating-restart');
+  /** @type {'rating'|'mind_maps'|'fatal'} */
+  let currentScreen = 'rating';
 
-  if (restartButton instanceof HTMLButtonElement) {
-    restartButton.addEventListener('click', () => initializeApp(document), { once: true });
-  }
+  /** @type {DestroyableController|null} */
+  let activeScreenController = null;
+
+  const clearActiveScreenController = () => {
+    activeScreenController?.destroy();
+    activeScreenController = null;
+  };
+
+  /** @type {MindMirrorAppController} */
+  const controller = {
+    container,
+    getScreen: () => currentScreen,
+    startRatingFlow: () => {
+      clearActiveScreenController();
+      currentScreen = 'rating';
+
+      activeScreenController = renderRetroRatingScaleScreen(container, {
+        subjectName: 'Demo Subject',
+        onComplete: (profile) => {
+          controller.showMindMapResults(profile);
+        },
+      });
+    },
+    showMindMapResults: (profile) => {
+      clearActiveScreenController();
+      currentScreen = 'mind_maps';
+
+      activeScreenController = renderRetroMindMapScreen(container, {
+        profile,
+        initialRealmIndex: 0,
+        initialLabelMode: 'inner',
+        onExit: () => {
+          controller.startRatingFlow();
+        },
+      });
+    },
+    destroy: () => {
+      clearActiveScreenController();
+    },
+  };
+
+  return controller;
 }
 
 /**
- * Initializes the current PWA vertical slice.
+ * Initializes the Mind Mirror PWA.
  *
  * @param {Document} [doc]
+ * @returns {MindMirrorAppController}
  */
 export function initializeApp(doc = document) {
   const container = getRequiredElementById('app', doc);
+  const controller = createMindMirrorApp(container);
 
   try {
-    renderRetroRatingScaleScreen(container, {
-      subjectName: 'Demo Subject',
-      onComplete: (profile) => renderRatingCompletedScreen(container, profile),
-    });
+    controller.startRatingFlow();
+    return controller;
   } catch (error) {
+    controller.destroy();
     renderFatalError(container, error);
     throw error;
   }
 }
 
-if (document.readyState === 'loading') {
-  document.addEventListener('DOMContentLoaded', () => initializeApp(), { once: true });
-} else {
-  initializeApp();
+if (shouldAutoInitializeApp()) {
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', () => initializeApp(), { once: true });
+  } else {
+    initializeApp();
+  }
 }
 
 // Ende src/js/app.js

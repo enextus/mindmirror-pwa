@@ -34,6 +34,7 @@ const RETRO_LABEL_MODE_SEQUENCE = Object.freeze([
  * @property {number} [initialRealmIndex]
  * @property {MindMapLabelMode} [initialLabelMode]
  * @property {boolean} [attachKeyboard]
+ * @property {() => void} [onExit]
  */
 
 /**
@@ -45,6 +46,7 @@ const RETRO_LABEL_MODE_SEQUENCE = Object.freeze([
  * @property {() => MindMapLabelMode} getLabelMode
  * @property {(realmIndex: number) => void} selectRealm
  * @property {() => void} toggleLabelMode
+ * @property {() => void} exit
  * @property {() => MindMapRenderResult|null} render
  * @property {() => void} destroy
  */
@@ -198,6 +200,7 @@ export function renderRetroMindMapScreen(container, options = {}) {
   const profile = options.profile ?? buildDemoProfile();
   const renderer = options.renderer ?? renderMindMap;
   const attachKeyboard = options.attachKeyboard ?? true;
+  const onExit = options.onExit;
 
   let activeRealmIndex = normalizeRealmIndex(options.initialRealmIndex ?? 0);
   let labelMode = resolveRetroLabelMode(options.initialLabelMode);
@@ -219,7 +222,7 @@ export function renderRetroMindMapScreen(container, options = {}) {
   });
   const subtitle = createDomElement('p', {
     className: 'retro-screen-subtitle',
-    textContent: 'F1-F4 select thought plane. SPACE BAR flips INNER/OUTER words.',
+    textContent: 'F1-F4 select thought plane. SPACE BAR flips INNER/OUTER words. RETURN exits plot.',
   });
   const realmNav = createDomElement('nav', {
     className: 'retro-realm-nav',
@@ -234,7 +237,7 @@ export function renderRetroMindMapScreen(container, options = {}) {
   const wordPanel = createDomElement('aside', { className: 'retro-word-panel' });
   const instruction = createDomElement('p', {
     className: 'retro-screen-instruction',
-    textContent: 'SPACE BAR flips area words   F1-F4 selects map   RETURN exits plot',
+    textContent: 'SPACE BAR flips area words   F1-F4 selects map   RETURN / ESC exits plot',
   });
   const status = createDomElement('p', {
     className: 'retro-screen-status',
@@ -270,6 +273,9 @@ export function renderRetroMindMapScreen(container, options = {}) {
     toggleLabelMode: () => {
       labelMode = getNextRetroLabelMode(labelMode);
       controller.render();
+    },
+    exit: () => {
+      onExit?.();
     },
     render: () => {
       const realm = getRealmByRetroIndex(activeRealmIndex);
@@ -327,6 +333,8 @@ export function renderRetroMindMapScreen(container, options = {}) {
     onRight: () => controller.selectRealm(activeRealmIndex + 1),
     onToggleLabels: () => controller.toggleLabelMode(),
     onRealmShortcut: (realmIndex) => controller.selectRealm(realmIndex),
+    onSelect: () => controller.exit(),
+    onBack: () => controller.exit(),
   });
 
   if (attachKeyboard) {
