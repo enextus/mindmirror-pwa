@@ -1,22 +1,43 @@
-# Mind Mirror PWA
+# Mind Mirror PWA – visible demo profile screen patch
 
-Local-first PWA skeleton for a modern Mind Mirror-inspired perception mapping tool.
+This patch adds the first visible browser vertical slice:
 
-## Start
+```text
+scoringEngine
+→ profileBuilder
+→ mindMapRenderer
+→ profileScreen
+→ app.js
+→ index.html
 
-```bash
-npm install
-npm run start:open
+[[https://www.youtube.com/watch?v=qA0Csk8hDnA]()]```
+
+## Files
+
+```text
+frontend/index.html
+frontend/src/css/app.css
+frontend/src/js/app.js
+frontend/src/js/ui/dom.js
+frontend/src/js/ui/screens.js
+frontend/src/js/ui/profileScreen.js
+frontend/tests/profileScreen.test.js
 ```
 
-## Checks
+## Check
 
 ```bash
+cd frontend
+npm run test -- tests/profileScreen.test.js
 npm run check
 ```
 
-## Notes
 
-- Vendor JS files are placeholders and should be replaced locally.
-- Font binaries are not included; see `vendor/fonts/README.md`.
-- The project starts as plain JavaScript ES modules with JSDoc/TypeScript editor support.
+```text
+scoringEngine
+→ profileBuilder
+→ mindMapRenderer
+→ profileScreen
+→ app.js
+→ index.html
+```

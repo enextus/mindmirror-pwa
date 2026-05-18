@@ -1,22 +1,30 @@
 <!doctype html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="theme-color" content="#111827">
-  <title>Mind Mirror PWA</title>
-  <link rel="manifest" href="./manifest.json">
-</head>
-<body>
-  <noscript>Mind Mirror PWA requires JavaScript.</noscript>
-  <main id="app" class="app-shell">
-    <h1>Mind Mirror PWA</h1>
-    <p>Project skeleton initialized.</p>
-  </main>
-  <script src="./src/js/appVersion.js"></script>
-  <script src="./vendor/js/idb-umd.js"></script>
-  <script src="./vendor/js/xlsx.full.min.js"></script>
-  <script src="./vendor/js/jspdf.umd.min.js"></script>
-  <script type="module" src="./src/js/app.js"></script>
-</body>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#111827" />
+    <meta
+      name="description"
+      content="Mind Mirror PWA – local-first perception mapping and circumplex visualization."
+    />
+    <title>Mind Mirror PWA</title>
+    <link rel="manifest" href="./manifest.json" />
+    <link rel="stylesheet" href="./src/css/app.css" />
+  </head>
+  <body>
+    <noscript>
+      <p class="noscript-message">Mind Mirror PWA needs JavaScript enabled.</p>
+    </noscript>
+
+    <div id="app" class="app-root" data-app-root>
+      <section class="app-loading" aria-live="polite">
+        <h1>Mind Mirror PWA</h1>
+        <p>Loading local-first Mind Map demo…</p>
+      </section>
+    </div>
+
+    <script src="./src/js/appVersion.js"></script>
+    <script type="module" src="./src/js/app.js"></script>
+  </body>
 </html>
