@@ -32,6 +32,10 @@ const APP_SHELL = [
   './src/js/data/sampleEvents.js',
   './src/js/data/presets.js',
 
+  './src/js/db/db.js',
+  './src/js/db/migrations.js',
+  './src/js/db/repositories.js',
+
   './src/js/canvas/mindMapGeometry.js',
   './src/js/canvas/mindMapRenderer.js',
   './src/js/canvas/labelLayout.js',

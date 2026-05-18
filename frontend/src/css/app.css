@@ -558,3 +558,142 @@ textarea {
     min-height: auto;
   }
 }
+
+/* =====================================================================
+   Retro subject setup and saved profile list
+   ===================================================================== */
+
+.retro-subject-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 3vw, 2.25rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-subject-header {
+  max-width: 62rem;
+  margin: 0 auto 1.25rem;
+  border-bottom: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding-bottom: 0.85rem;
+}
+
+.retro-subject-title {
+  margin: 0;
+  color: var(--mm-retro-warning, #ffef9a);
+  font-size: clamp(1.8rem, 5vw, 3.4rem);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.retro-subject-subtitle {
+  margin: 0.55rem 0 0;
+  color: var(--mm-retro-accent, #67e8f9);
+  font-size: clamp(1rem, 2vw, 1.3rem);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.retro-subject-form,
+.retro-saved-profiles {
+  display: grid;
+  gap: 0.8rem;
+  max-width: 62rem;
+  margin: 0 auto 1rem;
+  padding: 1rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: rgba(0, 0, 0, 0.68);
+}
+
+.retro-subject-label,
+.retro-saved-profiles__title {
+  color: var(--mm-retro-map-title, #ff6b6b);
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.retro-subject-input,
+.retro-subject-select {
+  width: 100%;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #000;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  font-size: 1rem;
+}
+
+.retro-subject-input:focus,
+.retro-subject-select:focus,
+.retro-saved-profile__button:focus,
+.retro-subject-start-button:focus {
+  outline: 2px solid var(--mm-retro-accent, #67e8f9);
+  outline-offset: 2px;
+}
+
+.retro-subject-start-button,
+.retro-saved-profile__button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #111;
+  color: var(--mm-retro-warning, #ffef9a);
+  cursor: pointer;
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+}
+
+.retro-subject-start-button {
+  justify-self: start;
+  padding: 0.65rem 1rem;
+  text-transform: uppercase;
+}
+
+.retro-subject-start-button:hover,
+.retro-saved-profile__button:hover {
+  background: var(--mm-retro-surface, #173f2b);
+}
+
+.retro-subject-error {
+  min-height: 1.25rem;
+  margin: 0;
+  color: var(--mm-retro-map-title, #ff6b6b);
+}
+
+.retro-subject-help,
+.retro-saved-profiles__empty {
+  margin: 0;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  line-height: 1.55;
+}
+
+.retro-saved-profiles__title {
+  margin: 0;
+}
+
+.retro-saved-profiles__list {
+  display: grid;
+  gap: 0.6rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.retro-saved-profile__button {
+  display: grid;
+  width: 100%;
+  gap: 0.25rem;
+  padding: 0.75rem 0.9rem;
+  text-align: left;
+}
+
+.retro-saved-profile__name {
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-weight: 700;
+}
+
+.retro-saved-profile__meta {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.86rem;
+}
+
+/* Ende retro subject setup */
