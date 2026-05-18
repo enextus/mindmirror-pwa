@@ -3,7 +3,7 @@ set -euo pipefail
 
 # ============================================================
 # make-project-zip.sh
-# Creates a clean Mind Mirror PWA context archive for ChatGPT review.
+# Creates a clean Mind Mirror PWA context archive for KI review.
 #
 # Intended for Git Bash on Windows, but also works on macOS/Linux
 # when `zip` is available.
