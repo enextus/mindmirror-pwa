@@ -125,7 +125,7 @@ export function createSavedProfileRecord(subject, profile, timestamp) {
     subjectId: subject.id,
     subjectName: subject.name,
     subjectType: subject.type,
-    createdAt: safeProfile.createdAt ?? timestamp,
+    createdAt: timestamp,
     updatedAt: timestamp,
     subject,
     profile: profileWithSubject,

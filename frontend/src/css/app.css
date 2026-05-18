@@ -697,3 +697,116 @@ textarea {
 }
 
 /* Ende retro subject setup */
+
+/* =====================================================================
+   Retro profile summary screen – review saved realm points before maps
+   ===================================================================== */
+
+.retro-profile-summary-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 3vw, 2.25rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-profile-summary-subject {
+  max-width: 72rem;
+  margin: 0.8rem auto 0.2rem;
+  color: var(--mm-retro-accent, #67f06d);
+  font-size: clamp(1rem, 2.2vw, 1.35rem);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.retro-profile-summary-meta {
+  max-width: 72rem;
+  margin: 0 auto 1.25rem;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.95rem;
+}
+
+.retro-profile-summary-table {
+  width: min(100%, 72rem);
+  margin: 1rem auto;
+  border-collapse: collapse;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: rgba(0, 0, 0, 0.38);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-size: clamp(0.78rem, 1.5vw, 0.98rem);
+}
+
+.retro-profile-summary-table__caption {
+  padding: 0.55rem;
+  color: var(--mm-retro-warning, #ffef9a);
+  caption-side: top;
+  text-align: left;
+}
+
+.retro-profile-summary-table th,
+.retro-profile-summary-table td {
+  padding: 0.5rem 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--mm-retro-border, #f2f2f2) 58%, transparent);
+  text-align: left;
+  vertical-align: top;
+}
+
+.retro-profile-summary-table thead th {
+  color: var(--mm-retro-danger, #ff5f5f);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.retro-profile-summary-table tbody th {
+  color: var(--mm-retro-accent, #67f06d);
+  font-weight: 700;
+}
+
+.retro-profile-summary-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  width: min(100%, 72rem);
+  margin: 1.1rem auto 0;
+}
+
+.retro-profile-summary-button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: transparent;
+  color: var(--mm-retro-fg, #f2f2f2);
+  padding: 0.65rem 1rem;
+  font: inherit;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.retro-profile-summary-button:hover,
+.retro-profile-summary-button:focus-visible {
+  background: var(--mm-retro-accent, #67f06d);
+  color: var(--mm-retro-bg, #050505);
+  outline: none;
+}
+
+.retro-profile-summary-button.is-primary {
+  border-color: var(--mm-retro-danger, #ff5f5f);
+  color: var(--mm-retro-warning, #ffef9a);
+}
+
+.retro-profile-summary-button.is-primary:hover,
+.retro-profile-summary-button.is-primary:focus-visible {
+  background: var(--mm-retro-danger, #ff5f5f);
+  color: var(--mm-retro-bg, #050505);
+}
+
+@media (max-width: 760px) {
+  .retro-profile-summary-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+/* Ende retro profile summary screen */

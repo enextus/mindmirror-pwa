@@ -1,5 +1,5 @@
 // =====================================================================
-// tests/appFlow.test.js – Full App flow: subject → rating → maps → reload
+// tests/appFlow.test.js – Full App flow: subject → rating → summary → maps → reload
 // =====================================================================
 
 import { beforeEach, describe, expect, it, vi } from 'vitest';
@@ -56,6 +56,15 @@ function dispatchKey(target, key) {
   target.dispatchEvent(new KeyboardEvent('keydown', { key, bubbles: true }));
 }
 
+/**
+ * @param {HTMLElement} target
+ */
+function completeRatingFlowWithEnter(target) {
+  for (let index = 0; index < RATING_SCALES.length; index += 1) {
+    dispatchKey(target, 'Enter');
+  }
+}
+
 beforeEach(() => {
   vi.restoreAllMocks();
   document.body.innerHTML = '<div id="app"></div>';
@@ -65,7 +74,7 @@ beforeEach(() => {
 });
 
 describe('Mind Mirror app flow', () => {
-  it('starts with subject setup, completes ratings, saves profile and opens THE MIND MAPS', async () => {
+  it('starts with subject setup, completes ratings, saves profile and opens summary before Mind Maps', async () => {
     const repository = createMemoryMindMirrorRepository();
     const controller = initializeApp(document, { repository });
     const container = /** @type {HTMLElement} */ (document.querySelector('#app'));
@@ -83,23 +92,28 @@ describe('Mind Mirror app flow', () => {
     expect(document.querySelector('.retro-rating-screen')).not.toBeNull();
     expect(document.querySelector('.retro-rating-subject')?.textContent).toContain('Self at work');
 
-    for (let index = 0; index < RATING_SCALES.length; index += 1) {
-      dispatchKey(container, 'Enter');
-    }
+    completeRatingFlowWithEnter(container);
 
-    expect(controller.getScreen()).toBe('mind_maps');
-    expect(document.querySelector('.retro-screen-title')?.textContent).toBe('THE MIND MAPS');
-    expect(document.querySelector('.retro-screen-status')?.textContent).toContain('Self at work');
+    expect(controller.getScreen()).toBe('profile_summary');
+    expect(document.querySelector('.retro-screen-title')?.textContent).toBe('PROFILE SUMMARY');
+    expect(document.querySelector('.retro-profile-summary-subject')?.textContent).toContain('Self at work');
+    expect(document.querySelectorAll('.retro-profile-summary-table tbody tr')).toHaveLength(4);
 
     await flushPromises();
     const savedProfiles = await repository.listProfiles();
     expect(savedProfiles).toHaveLength(1);
     expect(savedProfiles[0].subjectName).toBe('Self at work');
 
+    /** @type {HTMLButtonElement} */ (document.querySelector('.retro-profile-summary-button.is-primary')).click();
+
+    expect(controller.getScreen()).toBe('mind_maps');
+    expect(document.querySelector('.retro-screen-title')?.textContent).toBe('THE MIND MAPS');
+    expect(document.querySelector('.retro-screen-status')?.textContent).toContain('Self at work');
+
     controller.destroy();
   });
 
-  it('returns to subject setup and reloads a saved profile into Mind Maps', async () => {
+  it('returns to subject setup and reloads a saved profile through summary into Mind Maps', async () => {
     const repository = createMemoryMindMirrorRepository();
     const controller = initializeApp(document, { repository });
     const container = /** @type {HTMLElement} */ (document.querySelector('#app'));
@@ -109,11 +123,14 @@ describe('Mind Mirror app flow', () => {
     input.value = 'Ideal Partner';
     /** @type {HTMLFormElement} */ (document.querySelector('form')).requestSubmit();
 
-    for (let index = 0; index < RATING_SCALES.length; index += 1) {
-      dispatchKey(container, 'Enter');
-    }
+    completeRatingFlowWithEnter(container);
 
     await flushPromises();
+    expect(controller.getScreen()).toBe('profile_summary');
+
+    dispatchKey(/** @type {HTMLElement} */ (document.querySelector('.retro-profile-summary-screen')), 'Enter');
+    expect(controller.getScreen()).toBe('mind_maps');
+
     const mindMapRoot = /** @type {HTMLElement} */ (document.querySelector('.retro-mind-map-screen'));
     dispatchKey(mindMapRoot, 'Escape');
 
@@ -122,6 +139,11 @@ describe('Mind Mirror app flow', () => {
     expect(document.querySelector('.retro-saved-profile__name')?.textContent).toBe('Ideal Partner');
 
     /** @type {HTMLButtonElement} */ (document.querySelector('.retro-saved-profile__button')).click();
+
+    expect(controller.getScreen()).toBe('profile_summary');
+    expect(document.querySelector('.retro-profile-summary-subject')?.textContent).toContain('Ideal Partner');
+
+    dispatchKey(/** @type {HTMLElement} */ (document.querySelector('.retro-profile-summary-screen')), 'Enter');
 
     expect(controller.getScreen()).toBe('mind_maps');
     expect(document.querySelector('.retro-screen-status')?.textContent).toContain('Ideal Partner');

@@ -44,6 +44,7 @@ const APP_SHELL = [
   './src/js/ui/dom.js',
   './src/js/ui/screens.js',
   './src/js/ui/profileScreen.js',
+  './src/js/ui/profileSummaryScreen.js',
   './src/js/ui/mindMapScreen.js',
   './src/js/ui/ratingScreen.js',
   './src/js/ui/retroTheme.js',

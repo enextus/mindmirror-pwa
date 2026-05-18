@@ -5,6 +5,7 @@
 import { createBrowserMindMirrorRepository } from './db/repositories.js';
 import { getRequiredElementById } from './ui/dom.js';
 import { renderRetroMindMapScreen } from './ui/mindMapScreen.js';
+import { renderRetroProfileSummaryScreen } from './ui/profileSummaryScreen.js';
 import { renderRetroRatingScaleScreen } from './ui/ratingScreen.js';
 import { renderRetroSubjectSetupScreen } from './ui/subjectForm.js';
 
@@ -18,11 +19,12 @@ import { renderRetroSubjectSetupScreen } from './ui/subjectForm.js';
 /**
  * @typedef {object} MindMirrorAppController
  * @property {HTMLElement} container
- * @property {() => 'subject_setup'|'rating'|'mind_maps'|'fatal'} getScreen
+ * @property {() => 'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'fatal'} getScreen
  * @property {() => void} startSubjectSetup
  * @property {(draft: SubjectDraft) => void} startRatingFlow
- * @property {(profile: SubjectProfile) => void} openProfileInMindMaps
- * @property {(profile: SubjectProfile, subjectDraft?: SubjectDraft|null) => void} showMindMapResults
+ * @property {(profile: SubjectProfile) => void} openProfileSummary
+ * @property {(profile: SubjectProfile, subjectDraft?: SubjectDraft|null) => void} showProfileSummary
+ * @property {(profile: SubjectProfile) => void} showMindMapResults
  * @property {() => void} destroy
  */
 
@@ -122,7 +124,7 @@ export function createMindMirrorApp(container, options = {}) {
 
   const repository = normalizeRepository(options.repository);
 
-  /** @type {'subject_setup'|'rating'|'mind_maps'|'fatal'} */
+  /** @type {'subject_setup'|'rating'|'profile_summary'|'mind_maps'|'fatal'} */
   let currentScreen = 'subject_setup';
 
   /** @type {DestroyableController|null} */
@@ -166,7 +168,7 @@ export function createMindMirrorApp(container, options = {}) {
           activeScreenController = renderRetroSubjectSetupScreen(container, {
             savedProfiles,
             onBegin: (draft) => controller.startRatingFlow(draft),
-            onOpenProfile: (record) => controller.openProfileInMindMaps(record.profile),
+            onOpenProfile: (record) => controller.openProfileSummary(record.profile),
           });
         });
     },
@@ -179,16 +181,16 @@ export function createMindMirrorApp(container, options = {}) {
       activeScreenController = renderRetroRatingScaleScreen(container, {
         subjectName: draft.name,
         onComplete: (profile) => {
-          controller.showMindMapResults(profile, draft);
+          controller.showProfileSummary(profile, draft);
         },
       });
     },
-    openProfileInMindMaps: (profile) => {
-      controller.showMindMapResults(profile, null);
+    openProfileSummary: (profile) => {
+      controller.showProfileSummary(profile, null);
     },
-    showMindMapResults: (profile, subjectDraft = activeSubjectDraft) => {
+    showProfileSummary: (profile, subjectDraft = activeSubjectDraft) => {
       clearActiveScreenController();
-      currentScreen = 'mind_maps';
+      currentScreen = 'profile_summary';
       screenRequestId += 1;
 
       if (subjectDraft !== null && subjectDraft !== undefined) {
@@ -197,6 +199,21 @@ export function createMindMirrorApp(container, options = {}) {
           console.warn('Mind Mirror profile could not be saved', error);
         });
       }
+
+      activeScreenController = renderRetroProfileSummaryScreen(container, {
+        profile,
+        onViewMindMaps: () => {
+          controller.showMindMapResults(profile);
+        },
+        onBack: () => {
+          controller.startSubjectSetup();
+        },
+      });
+    },
+    showMindMapResults: (profile) => {
+      clearActiveScreenController();
+      currentScreen = 'mind_maps';
+      screenRequestId += 1;
 
       activeScreenController = renderRetroMindMapScreen(container, {
         profile,
