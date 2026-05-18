@@ -42,6 +42,9 @@ import { renderMarkers } from './markerRenderer.js';
 /**
  * @typedef {object} MindMapCanvasTheme
  * @property {string|CanvasGradient|CanvasPattern} [backgroundFillStyle]
+ * @property {string|CanvasGradient|CanvasPattern} [outerRingFillStyle]
+ * @property {string|CanvasGradient|CanvasPattern} [middleRingFillStyle]
+ * @property {string|CanvasGradient|CanvasPattern} [innerRingFillStyle]
  * @property {string|CanvasGradient|CanvasPattern} [circleStrokeStyle]
  * @property {string|CanvasGradient|CanvasPattern} [sectorStrokeStyle]
  * @property {string|CanvasGradient|CanvasPattern} [labelFillStyle]
@@ -212,6 +215,23 @@ export function drawMindMapRings(context, layout, theme = {}) {
   const ctx = requireCanvasContext(context);
 
   ctx.save();
+
+  const fillRings = [
+    { radius: layout.radius, fillStyle: theme.outerRingFillStyle },
+    { radius: layout.radius * (2 / 3), fillStyle: theme.middleRingFillStyle },
+    { radius: layout.radius * (1 / 3), fillStyle: theme.innerRingFillStyle },
+  ];
+
+  for (const ring of fillRings) {
+    if (ring.fillStyle === undefined) {
+      continue;
+    }
+
+    ctx.beginPath();
+    ctx.fillStyle = ring.fillStyle;
+    ctx.arc(layout.centerX, layout.centerY, ring.radius, 0, Math.PI * 2);
+    ctx.fill();
+  }
 
   if (theme.circleStrokeStyle !== undefined) {
     ctx.strokeStyle = theme.circleStrokeStyle;

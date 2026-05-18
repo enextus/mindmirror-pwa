@@ -10,11 +10,15 @@ export const RETRO_KEY_ACTIONS = Object.freeze({
   SELECT: 'select',
   BACK: 'back',
   TOGGLE_LABELS: 'toggle_labels',
+  REALM_1: 'realm_1',
+  REALM_2: 'realm_2',
+  REALM_3: 'realm_3',
+  REALM_4: 'realm_4',
   NONE: 'none',
 });
 
 /**
- * @typedef {'up'|'down'|'left'|'right'|'select'|'back'|'toggle_labels'|'none'} RetroKeyAction
+ * @typedef {'up'|'down'|'left'|'right'|'select'|'back'|'toggle_labels'|'realm_1'|'realm_2'|'realm_3'|'realm_4'|'none'} RetroKeyAction
  */
 
 /**
@@ -32,6 +36,7 @@ export const RETRO_KEY_ACTIONS = Object.freeze({
  * @property {() => void} [onSelect]
  * @property {() => void} [onBack]
  * @property {() => void} [onToggleLabels]
+ * @property {(realmIndex: number) => void} [onRealmShortcut]
  */
 
 /**
@@ -54,6 +59,27 @@ function requireKeyboardEventLike(event) {
   }
 
   return /** @type {KeyboardEventLike} */ (record);
+}
+
+/**
+ * Converts function keys F1..F4 to realm indexes 0..3.
+ *
+ * @param {RetroKeyAction} action
+ * @returns {number|null}
+ */
+export function realmIndexForRetroAction(action) {
+  switch (action) {
+    case RETRO_KEY_ACTIONS.REALM_1:
+      return 0;
+    case RETRO_KEY_ACTIONS.REALM_2:
+      return 1;
+    case RETRO_KEY_ACTIONS.REALM_3:
+      return 2;
+    case RETRO_KEY_ACTIONS.REALM_4:
+      return 3;
+    default:
+      return null;
+  }
 }
 
 /**
@@ -102,6 +128,15 @@ export function getRetroKeyboardAction(event) {
     case 'Spacebar':
       return RETRO_KEY_ACTIONS.TOGGLE_LABELS;
 
+    case 'F1':
+      return RETRO_KEY_ACTIONS.REALM_1;
+    case 'F2':
+      return RETRO_KEY_ACTIONS.REALM_2;
+    case 'F3':
+      return RETRO_KEY_ACTIONS.REALM_3;
+    case 'F4':
+      return RETRO_KEY_ACTIONS.REALM_4;
+
     default:
       return RETRO_KEY_ACTIONS.NONE;
   }
@@ -127,6 +162,13 @@ export function createRetroKeyboardHandler(callbacks) {
     }
 
     safeEvent.preventDefault?.();
+
+    const realmIndex = realmIndexForRetroAction(action);
+
+    if (realmIndex !== null) {
+      callbacks.onRealmShortcut?.(realmIndex);
+      return;
+    }
 
     switch (action) {
       case RETRO_KEY_ACTIONS.UP:

@@ -3,7 +3,7 @@
 // =====================================================================
 
 import { getRequiredElementById } from './ui/dom.js';
-import { renderDemoProfileScreen } from './ui/profileScreen.js';
+import { renderRetroMindMapScreen } from './ui/mindMapScreen.js';
 
 /**
  * Renders a fatal initialization error in a user-visible form.
@@ -45,7 +45,7 @@ export function initializeApp(doc = document) {
   const container = getRequiredElementById('app', doc);
 
   try {
-    renderDemoProfileScreen(container);
+    renderRetroMindMapScreen(container);
   } catch (error) {
     renderFatalError(container, error);
     throw error;
