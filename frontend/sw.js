@@ -17,20 +17,13 @@ const APP_SHELL = [
   './src/js/app.js',
   './src/js/core/scoringEngine.js',
   './src/js/core/profileBuilder.js',
-  './src/js/core/profileComparator.js',
   './src/js/data/realms.js',
   './src/js/data/scoreTables.js',
   './src/js/data/scales.js',
-  './src/js/canvas/mindMapGeometry.js',
-  './src/js/canvas/mindMapRenderer.js',
-  './src/js/canvas/labelLayout.js',
-  './src/js/canvas/markerRenderer.js',
   './src/js/ui/dom.js',
-  './src/js/ui/screens.js',
-  './src/js/ui/profileScreen.js',
-  './src/js/ui/mindMapScreen.js',
-  './src/js/ui/retroTheme.js',
-  './src/js/ui/keyboard.js'
+  './src/js/ui/keyboard.js',
+  './src/js/ui/ratingScreen.js',
+  './src/js/ui/retroTheme.js'
 ];
 
 self.addEventListener('install', (event) => {

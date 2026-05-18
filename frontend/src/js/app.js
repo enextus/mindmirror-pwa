@@ -3,7 +3,11 @@
 // =====================================================================
 
 import { getRequiredElementById } from './ui/dom.js';
-import { renderRetroMindMapScreen } from './ui/mindMapScreen.js';
+import { renderRetroRatingScaleScreen } from './ui/ratingScreen.js';
+
+/**
+ * @typedef {ReturnType<typeof import('./core/profileBuilder.js').buildProfileFromAnswers>} SubjectProfile
+ */
 
 /**
  * Renders a fatal initialization error in a user-visible form.
@@ -37,6 +41,59 @@ function renderFatalError(container, error) {
 }
 
 /**
+ * Formats one raw profile point for the completion screen.
+ *
+ * @param {SubjectProfile} profile
+ * @returns {string}
+ */
+function formatProfileCompletionLines(profile) {
+  return Object.entries(profile.pointsByRealm)
+    .map(([realmId, point]) => `${realmId}: x=${point.rawX}, y=${point.rawY}, answers=${point.answerCount}`)
+    .join('\n');
+}
+
+/**
+ * Shows a small completion screen after the retro rating flow has generated
+ * a profile. The detailed four-map renderer remains available as a separate
+ * vertical slice; this screen is intentionally focused on App flow semantics.
+ *
+ * @param {HTMLElement} container
+ * @param {SubjectProfile} profile
+ */
+function renderRatingCompletedScreen(container, profile) {
+  container.innerHTML = `
+    <section class="retro-rating-screen retro-rating-complete" tabindex="0">
+      <header class="retro-rating-header">
+        <h1 class="retro-rating-title">MIND MIRROR</h1>
+        <p class="retro-rating-progress">PROFILE COMPLETE</p>
+      </header>
+      <main class="retro-rating-panel">
+        <p class="retro-rating-subject">Subject: ${profile.subjectName}</p>
+        <h2 class="retro-rating-scale-title">RATING SEQUENCE COMPLETE</h2>
+        <p class="retro-rating-prompt">
+          The 16 scale answers have now been converted into four Mind Map points.
+          This verifies the App logic: scale step → answer code → score delta → profile aggregation.
+        </p>
+        <pre class="retro-rating-summary"></pre>
+        <button class="retro-rating-restart" type="button">Restart rating flow</button>
+      </main>
+    </section>
+  `;
+
+  const summary = container.querySelector('.retro-rating-summary');
+
+  if (summary !== null) {
+    summary.textContent = formatProfileCompletionLines(profile);
+  }
+
+  const restartButton = container.querySelector('.retro-rating-restart');
+
+  if (restartButton instanceof HTMLButtonElement) {
+    restartButton.addEventListener('click', () => initializeApp(document), { once: true });
+  }
+}
+
+/**
  * Initializes the current PWA vertical slice.
  *
  * @param {Document} [doc]
@@ -45,7 +102,10 @@ export function initializeApp(doc = document) {
   const container = getRequiredElementById('app', doc);
 
   try {
-    renderRetroMindMapScreen(container);
+    renderRetroRatingScaleScreen(container, {
+      subjectName: 'Demo Subject',
+      onComplete: (profile) => renderRatingCompletedScreen(container, profile),
+    });
   } catch (error) {
     renderFatalError(container, error);
     throw error;
