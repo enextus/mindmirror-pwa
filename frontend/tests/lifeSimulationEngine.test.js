@@ -30,6 +30,14 @@ function buildBaselineProfile(displayedChoice) {
   return buildProfileFromAnswers('Baseline Subject', answers, { id: 'profile_baseline' });
 }
 
+/**
+ * @param {readonly import('../src/js/core/lifeSimulationEngine.js').LifeSimulationEvent[]} events
+ * @param {string} realm
+ */
+function countEventsByRealm(events, realm) {
+  return events.filter((event) => event.realm === realm).length;
+}
+
 describe('Life Simulation difficulty thresholds', () => {
   it('keeps the original meaning: novice wider, experienced stricter, wizard has no win circle', () => {
     const noviceThreshold = getLifeSimulationWinCircleThreshold(LIFE_SIMULATION_DIFFICULTIES.NOVICE);
@@ -44,11 +52,13 @@ describe('Life Simulation difficulty thresholds', () => {
 
 describe('normalizeLifeSimulationEvent', () => {
   it('validates a sample event and preserves choices', () => {
-    const event = normalizeLifeSimulationEvent(SAMPLE_LIFE_SIMULATION_EVENTS[0]);
+    const sourceEvent = SAMPLE_LIFE_SIMULATION_EVENTS[0];
+    const event = normalizeLifeSimulationEvent(sourceEvent);
 
-    expect(event.id).toBe('bio_energy_morning_change');
+    expect(event.id).toBe(sourceEvent.id);
     expect(event.realm).toBe(REALM_IDS.BIO_ENERGY);
-    expect(event.choices).toHaveLength(4);
+    expect(event.axisRow).toBe(sourceEvent.axisRow);
+    expect(event.choices).toHaveLength(sourceEvent.choices.length);
   });
 
   it('rejects invalid events', () => {
@@ -59,13 +69,15 @@ describe('normalizeLifeSimulationEvent', () => {
 
 describe('createLifeSimulationAnswer', () => {
   it('turns a choice into a scored simulation answer', () => {
-    const answer = createLifeSimulationAnswer(SAMPLE_LIFE_SIMULATION_EVENTS[0], 1);
+    const sourceEvent = SAMPLE_LIFE_SIMULATION_EVENTS[0];
+    const sourceChoice = sourceEvent.choices[0];
+    const answer = createLifeSimulationAnswer(sourceEvent, sourceChoice.displayedChoice);
 
-    expect(answer.eventId).toBe('bio_energy_morning_change');
-    expect(answer.displayedChoice).toBe(1);
+    expect(answer.eventId).toBe(sourceEvent.id);
+    expect(answer.displayedChoice).toBe(sourceChoice.displayedChoice);
     expect(answer.dx).toBe(21);
     expect(answer.dy).toBe(0);
-    expect(answer.choiceText).toContain('energetic');
+    expect(answer.choiceText).toBe(sourceChoice.text);
   });
 
   it('rejects choices not present in the event', () => {
@@ -75,8 +87,8 @@ describe('createLifeSimulationAnswer', () => {
 
 describe('buildSimulationProfile', () => {
   it('aggregates simulation answers into one profile with four realm points', () => {
-    const first = createLifeSimulationAnswer(SAMPLE_LIFE_SIMULATION_EVENTS[0], 1);
-    const second = createLifeSimulationAnswer(SAMPLE_LIFE_SIMULATION_EVENTS[1], 8);
+    const first = createLifeSimulationAnswer(SAMPLE_LIFE_SIMULATION_EVENTS[0], SAMPLE_LIFE_SIMULATION_EVENTS[0].choices[0].displayedChoice);
+    const second = createLifeSimulationAnswer(SAMPLE_LIFE_SIMULATION_EVENTS[1], SAMPLE_LIFE_SIMULATION_EVENTS[1].choices.at(-1)?.displayedChoice ?? 8);
     const profile = buildSimulationProfile('Simulated Subject', [first, second]);
 
     expect(profile.subjectName).toBe('Simulated Subject');
@@ -93,13 +105,18 @@ describe('LifeSimulationSession', () => {
     expect(session.answers).toHaveLength(0);
     expect(session.recentProfile.pointsByRealm[REALM_IDS.BIO_ENERGY].answerCount).toBe(0);
 
-    session = answerLifeSimulationEvent(session, SAMPLE_LIFE_SIMULATION_EVENTS[0], 1);
-    session = answerLifeSimulationEvent(session, SAMPLE_LIFE_SIMULATION_EVENTS[1], 8);
-    session = answerLifeSimulationEvent(session, SAMPLE_LIFE_SIMULATION_EVENTS[2], 1);
+    const events = SAMPLE_LIFE_SIMULATION_EVENTS.slice(0, 3);
+
+    for (const event of events) {
+      const firstChoice = event.choices[0];
+      session = answerLifeSimulationEvent(session, event, firstChoice.displayedChoice);
+    }
+
+    const recentEvents = events.slice(-2);
 
     expect(session.answers).toHaveLength(3);
-    expect(session.overallProfile.pointsByRealm[REALM_IDS.BIO_ENERGY].answerCount).toBe(2);
-    expect(session.recentProfile.pointsByRealm[REALM_IDS.BIO_ENERGY].answerCount).toBe(1);
+    expect(session.overallProfile.pointsByRealm[REALM_IDS.BIO_ENERGY].answerCount).toBe(countEventsByRealm(events, REALM_IDS.BIO_ENERGY));
+    expect(session.recentProfile.pointsByRealm[REALM_IDS.BIO_ENERGY].answerCount).toBe(countEventsByRealm(recentEvents, REALM_IDS.BIO_ENERGY));
     expect(session.consistencyByRealm).toHaveLength(4);
     expect(session.similarity01).toBeGreaterThanOrEqual(0);
     expect(session.similarity01).toBeLessThanOrEqual(1);
