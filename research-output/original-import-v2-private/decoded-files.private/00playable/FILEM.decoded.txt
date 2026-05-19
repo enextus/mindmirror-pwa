@@ -1,0 +1,177 @@
+<CTRL0E>
+"Mirrors should reflect a little before throwing back images."
+<,26>- Jean Cocteau
+
+First, select your play level:
+<21,>
+Use CURSOR UP (or I), CURSOR DOWN (or M) or SPACE BAR, then press RETURN.
+
+#0BEGINNER
+Exercises to learn thought
+modification and use of Mind-Maps.
+#1INTERMEDIATE
+Suggested topics for Mind-Scoping;
+includes some coaching.
+#2MASTER
+You're on your own. No coaching.
+Choose Auto-Play or Inter-Play.
+#3PROFESSIONAL CONSULTING
+For the Psychologist, Personnel
+Manager, and Teacher/Student.
+@
+Select the area of Professional Consulting you wish to explore.
+
+#3Psychological
+#4Personnel Management
+#5Educational
+# Return to previous menu.
+@
+
+<CTRL0F>
+PSYCHOLOGICAL CONSULTANT
+1
+MIND MIRROR can be a valuable tool in psychological work.
+1. PSYCHO-DIAGNOSIS: Staff members can compare their views of a client.
+2. INTERACTION: The client and you can compare thoughts.
+3. CLIENT INSIGHT: Teach the client to Micro-Scope his/her views of self, history, significant others.
+4. PROGRESS: Staff and client plot changes in course of counseling.
+5. GROUP ENCOUNTERS: Group members compare perceptions.
+6. SIMULATIONS: Put yourself and your client in a variety of roles. This can lead to valuable insights.
+
+<PAGE>
+
+<CTRL0F>
+PERSONNEL MANAGEMENT CONSULTANT
+1
+MIND MIRROR increases understanding of interpersonal relations. Personnel Management Consultants use it to assess:
+
+1. JOB CHARACTERISTICS: Mind-Scope requirements for each job in a company.
+2. STAFF APPRAISAL: Use Mind Mirror to compare employees/applicants with jobs.
+3. STAFF INSIGHT: Employees and applicants compare selves with jobs.
+4. COMPANY DYNAMICS: All employees scope views of relevant others.
+5. DECISION MAKING: Plot your game moves.
+6. MARKETING: Scope target-groups and compare with products.
+
+<PAGE>
+
+<CTRL0F>
+EDUCATIONAL CONSULTANT
+1
+The Electronic MIND MIRROR is a Thought-Making-Tool. Education usually consists of passing heavy "Thought-Stones" from generation to generation. These Macro-thoughts can be used to crush new ideas.
+
+Now students can clarify and map their own thoughts about history, philosophy, science, politics, culture, themselves. Students' ideas can be plotted and compared with those of the teacher or other students. Learning becomes active, creative, inventive. The aim of the teacher in the Information Society is to help students THINK FOR THEMSELVES with precision and clarity.
+
+<PAGE>
+
+Select Your Team:
+
+
+#1AUTO-PLAY
+One person: You Mind-Scope and
+Reflect Your Own Thoughts.
+#0INTER-PLAY
+Up to four players (or teams):
+Mind-Scope and compare Thoughts.
+#9RESTORE GAME
+Restore a previously saved
+Life Simulation game.
+# Return to previous menu.
+
+@
+Now, select your goal:
+
+#0MIND TOOLS
+Psychological Insights, Career
+Productivity, Learning Skills.
+#3MIND PLAY
+Significant Pursuits, Sophisticated
+Head Fun, Thought Games.
+# Return to previous menu.
+
+@
+Mind Tools for Life Planning.
+Select an area for Exploration:
+
+#0PSYCHOLOGICAL INSIGHT
+Mind-Scope your life performances
+past, present, future.
+#1CAREER PRODUCTIVITY
+Review your career choices, job
+decisions, office relationships.
+#2EDUCATION
+Use Mind Mirror in a variety of
+learning situations.
+# Return to previous menu.
+
+@
+Select the area of Psychological Insight you wish to explore:
+
+#1SELF REFLECTIONS
+Micro-Scope yourself in various
+life situations.
+#2AUTOBIOGRAPHY
+Analyze precise navigational
+plots of your Life History.
+#3HOME LIFE
+Chart your changing relationships
+with your housemates.
+#4MATING GAME
+Scan your romantic performances,
+past and present.
+# Return to previous menu.
+
+@
+Select the area of Career Productivity you wish to explore:
+
+#4CAREER PLANNING
+Plot your future. Compare possible
+jobs with your personal skills.
+#5WORK ARENA
+Explore office politics and group
+dynamics.
+#6DECISION MAKING
+Analyze your organizational
+moves.
+#7COMPANY STYLE
+Reflect your thoughts about
+the work culture you inhabit.
+# Return to previous menu.
+
+@
+Select the area of Education you wish to explore:
+
+#7LIBERAL ARTISTRY
+Scope your thoughts about books,
+authors, characters, artists.
+#8PHILOSOPHY AND SCIENCE
+Re-Construct your thinking about
+great names and great theories.
+#9SOCIAL GEOGRAPHY
+Scope your thoughts about habitats.
+You may be amazed at the results.
+#:HISTORY
+Create your theory of history and
+compare it with the experts.
+# Return to previous menu.
+
+@
+Mind Play for Social Sophistication.
+Select a significant pursuit:
+
+#:Religious Tolerance
+#;Political Partying
+#<Film and TV Madness
+#=Pop Stars of Print
+#>The Sounds of Music
+#?Computer Games
+#@The Sporting Life
+#AInlaws and Outlaws
+# Return to previous menu.
+@
+Which drive? (1) or (2)
+(Press ESC to abort.)
+
+Insert disk, then press RETURN.
+Enter file name:
+*** IMPROPER FILE OR FILE NOT FOUND ***
+Insert GAME DISK, then press RETURN.

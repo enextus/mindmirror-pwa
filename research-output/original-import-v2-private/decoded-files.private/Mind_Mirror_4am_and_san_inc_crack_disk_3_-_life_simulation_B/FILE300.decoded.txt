@@ -1,0 +1,52 @@
+THE REALM OF MENTAL ABILITIES
+Use CURSOR UP and DOWN (or I and M) to choose a Zone for exploration.
+Press RETURN to make your selection.
+<21,>________________________________________
+
+NOTE: The (9) key shows Realm Mind Map.
+
+<BLOCK>
+The (0) key gives help when in Zones.
+
+<BLOCK>
+
+
+
+<CTRL0F>
+<,10>^/ EXIT THIS REALM /
+
+<,8>^/ A LITERARY CAREER /
+
+<,6>^/ A CAREER IN FILM /
+
+<,4>^/ COLLEGE ENTRANCE EXAMS /
+
+<,2>^/ SCHOOL DAYS /
+1 ________________________________________
+
+SCHOOL DAYS
+Relive your first day at school. Confront the arcane mysteries of reading and writing! School yard bedlam! Your first report card!
+
+COLLEGE ENTRANCE EXAMS
+Here you are tested in seven dimensions of intelligence and creativity. How well can you simulate the role of ?
+
+This is your life! Episode 10.
+The RDW-battered members of the Senior Class have been herded into the gym and are sitting at tables, pencils in hand, waiting to meet the Supreme Court of Academic Judgment. College Entrance Exams! The exam monitor talks in a quiet, corporate tone of voice about the importance of discipline, excellence, competitive edge. Your old principal, Dr. Jack D. Ripper, drops by to deliver a moving attack on hedonism, a Communist plot to weaken America's moral and military fiber.
+
+<PAGE>
+
+A CAREER IN FILM
+Fame, fun, fortune await if you qualify for a job at the Video Corp. How well can you play in this glamorous environment?
+
+The VIDEO CORP studios are located behind high, pink-washed walls. First you are checked by security at the Guard Gates. Inside you find acres of sound stages, film labs, administrative offices, miles of roads and sidewalks bordered by palm trees.
+You are sent to the office of Freddie Blazer, the Prez. He's a small, cocky man with a foul tongue. He thinks that people will do anything to get into the movie biz. He wants you to take the legendary Scheftel Film Aptitude Scale, to discover which type of work in the film "industry" you are best suited for.
+
+<PAGE>
+
+A LITERARY CAREER
+You apply for your first job at a prestigious publishing house. How does perform on the tests and interviews?
+
+EXIT THIS REALM
+You may leave this realm at any time. If you haven't played a zone, no score will be given.
+
+<PAGE>

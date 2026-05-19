@@ -1,0 +1,45 @@
+2The burly bouncer stands by the door of the bar. Rhinestones on his leather biker jacket spell out his name: "JOCK TARHEEL." He watches you approach, then nods. "What's happening?" he grunts.
+
+#2"I just happened to be in the area.
+Thought I'd drop in to look around."
+Tarheel's eyes narrow defiantly. You look like a District Attorney to him. He decides to play it cautiously. He grunts again, "Is that right?"
+
+#4"Excuse me. I've never been to an
+after-hours cafe. What does happen?"
+Tarheel can't size you up. You're a square, that's for sure. But what are you doing here? He decides to check you out. You don't sound like his type.
+
+#6"Hey man. I'm happening! It's party
+time and I'm here to do my part."
+He grunts in acceptance. He thinks he's seen you around. But where? Who do you run with? What's your action? "Hey, you sound like our type," he replies.
+
+#8"Hello Tarheel. I hear this is the
+spot for punk rock."
+Tarheel scopes you as up-town money looking for down-town kicks. He can relate to that. He's had some fun with your type. "Could be," he replies.
+
+@
+Tarheel, the bouncer, has a favorite expression: "Business is like War." You look at him standing guard at the door. He scans you up and down as you walk up. You say:
+
+#1"Good evening. I hope I'm in time
+for the late show."
+At the sight of you he almost looses his cool. He's uneasy around high tone folks, but he keeps up his tough facade. He replies, "It's always showtime here."
+
+#3"Excuse me, sir. Are you still
+serving dinner?"
+He examines you carefully. You look like a tourist. Squares on the loose can really get weird. Or maybe a narc. He eyeballs you for a weapon.
+
+#5"Hey, boss, it's cold out here."
+You can play this game.
+He knows your type well. You're no threat. No gain either. He decides to have some fun. "You got a Diner's Club Card?" He sneers.
+
+#7"Is the place jumping tonight?" you
+ask with a casual smile.
+He likes your worldly, confident attitude. But he's wary. In the War on Drugs, the enemy shows up in many disguises. He looks you over.
+
+@
+The door to the DEATH STAR opens and the sound of heavy metal jolts your ears; bright lights make you squint. A couple of punkers with Mohawks dance out. They're loaded on something wild, laughing and singing. You notice a sign: GAY NIGHT. Tarheel laughs. "Don't mind the sign. That's just to scare away the wimps. But you gotta have an after-hours card to get in." You show him what you have. He shakes his head. "Nice try," he says as you turn to leave.
+
+<PAGE>
+
+You notice a sign: GAY NIGHT! Tarheel laughs. "That's just to keep out the heavy trade," he says. "But you gotta have an after-hours card to get in." The door opens and two punkers dance out. One looks like Boy George. The other looks like Elvis Presley--but she's a girl. Tarheel is still waiting. He's amazed when you hand him your after-hours bar card. "Go for it, sport," he says as he opens the door and waves you in.
+
+<PAGE>

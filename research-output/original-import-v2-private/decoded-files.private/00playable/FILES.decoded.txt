@@ -1,0 +1,63 @@
+Would you like to play LIFE SIMULATION as:
+
+#1 1
+#2 2
+#3 3
+#4 4
+@
+#1 1's
+#2 2's
+#3 3's
+#4 4's
+@
+FLIGHT PLANS
+1
+NOVICE: Play within large win-orbit on Mind Maps. Step-by-step "Head-Coaching" directs you towards your thought-goal.
+
+EXPERIENCED: Small win-orbits on Mind Maps. Faster play. Optional access to Mind Maps. No "Head-Coaching."
+
+WIZARD: No win-circle. Fly by the seat-of-your-intuition. Mind Maps available only after you've completed a realm.
+
+Choose a plan for your Life Simulation.
+
+#0Novice
+#1Experienced
+#2Wizard
+#3Return to main menu
+@
+Most people prefer to use a nickname for their subject when playing Life Simulation--especially if the subject is a concept rather than a person.
+
+Please enter the first name or nickname you would like to use for 3 1 .
+
+<PAGE>
+
+<CTRL0E>
+Okay, this is it.
+As , you are:
+
+Let's see how consistently
+you can play this part
+in your LIFE SIMULATION
+
+
+<CTRL0F>
+Do you wish to play LIFE SIMULATION using two disk drives? (Y)es or (N)o?
+
+
+<CTRL0F>
+
+Insert SIMULATION DISK in drive 1,
+
+
+<CTRL0F>
+
+Insert SIMULATION DISK A in drive 1
+and SIMULATION DISK B in drive 2,
+
+
+<CTRL0F>
+
+then press RETURN to proceed.
+Press ESC to return to previous menu.
+
+<PAGE>

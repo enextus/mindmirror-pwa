@@ -1,0 +1,2971 @@
+[
+  {
+    "id": "00playable__FILEM__0001",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": "<0F> PSYCHOLOGICAL CONSULTANT",
+    "option_marker_count": 5,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "text_sha256": "e3c6e308db1b0a1e0a6b4164f574d9c1c49396bee1409074ebdbd55806e406d0",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEM__0005",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      3
+    ],
+    "text_sha256": "45bb60d5a3d2c2621551d3b0b6076ac7a31722d0ffe2d7fa8bc03dfa3527d03e",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEM__0006",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "60a05a5c305ad81661262ebf4bbc3613d7a7de723ee484e1823decd91e42135d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEM__0007",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "22ef1c2d60513a2bd5af7c89115e1c79914650f0e1be8c9e2dd797afd5560e4d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEM__0008",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5,
+      6,
+      7
+    ],
+    "text_sha256": "3662039de3f6c991275ba04de6e6e9120613cc71ea6633a4ba4a651808d4b9fa",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEM__0009",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      8
+    ],
+    "text_sha256": "1a3bf6611e62a782bc220f0054ef4507def15c12607a496c4005c8e5857f4b4e",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEK__0001",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "HYPER-MANIC",
+    "option_marker_count": 16,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "e2085fc1a0ffe971fc254f7fa87c7cddf0a6eaec21f29fc007bfddae1fb40500",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEK__0007",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "f609a89447dd6febf683e3cbe02ffc050301e6ed92c2ec27b159cd5bcb6884bb",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEK__0008",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "dabc30e5e56cd5704b74417274cd455691861dbab283a0a18f5e8f53ac31da01",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEK__0009",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "d44fc6028272228d521a6a847420b63985899c4aadd63091d10b752af5e0bef1",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEK__0010",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "3c853302902f1843e54439e8e17d011312b35f1c58919066b599897194e4626d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEK__0012",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "*** IMPROPER FILE OR FILE NOT FOUND ***",
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "4cff7ae11e6ca9d0129edd7962ce88daf1855ba7c8c044a79f53280ec729c1e4",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKA__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKA",
+    "realm_hint": null,
+    "title_hint": "SELF REFLECTIONS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d7e313d5285177e06d92681aa9ba644b7738cf62159e436ee7d22aa11571a890",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKB__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKB",
+    "realm_hint": null,
+    "title_hint": "AUTOBIOGRAPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "aad51ca946b20ad50ea3e341233c87d10d298ca037940ca3841088eba7eb720b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKC__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": "HOME LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "8dab063751442db126bebb8172ec831eeb657106a44e24f6feff9c513422beb6",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKC__0001",
+    "disk_name": "00playable",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "3e7c1d6071b06f5b5417ee6d383709ee23796cfc1db2ca6ffddade6bf5f0f5f9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKD__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKD",
+    "realm_hint": null,
+    "title_hint": "MATING GAME",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "74dcd8368ec033d2f34b1f7e6e8f1cfdacc7083b181603de6dae6c34397f39b0",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKE__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKE",
+    "realm_hint": null,
+    "title_hint": "CAREER PLANNING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "4cbfa1914526ddbe64b863fe3e7fa95649b6dbdda61287eb0123c16efd342dd4",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKF__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKF",
+    "realm_hint": null,
+    "title_hint": "WORK ARENA",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "fed71bd3d2c7d891c3a1bfad5fbddb04864d3959c739185ade83dccbe95b924c",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKG__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "DECISION MAKING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0a5842882bc7ef545e443d208179e8246df28e218adef0a997806fb651f62634",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKG__0004",
+    "disk_name": "00playable",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "EXERCISE 2@PROSPECTIVE EMPLOYER",
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "70d5877a5dca9190eb0a463a1cc01a96cccbe176a6c42642cc887b3a8b20832f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKH__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKH",
+    "realm_hint": null,
+    "title_hint": "COMPANY STYLE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "e187e9363586ac935694f04b739b7f56f33cd1d0d94b7323152263dd7a9f5943",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKI__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKI",
+    "realm_hint": null,
+    "title_hint": "LIBERAL ARTISTRY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "776f1b76344998d6483e07447b179e855085ba11bc054a239853c7d5626063c9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKJ__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": "PHILOSOPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "285026b003a1fab75be8e98e9a90e2df2e7718a6044ff82b42aae476d9afed62",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKJ__0004",
+    "disk_name": "00playable",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0795cb4ebb6634bda57547ee90fc20e71630fa66e79f32cf3c7d735aa8ea257f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKK__0002",
+    "disk_name": "00playable",
+    "file_name": "FILEKK",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "010e724e2b2ebbbf93eef38d986eaabe311f1a1fe8e491e117f17882aa5a76a5",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKL__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKL",
+    "realm_hint": null,
+    "title_hint": "HISTORY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "48ee71bc99e39f03e09cdabf4d86ff3e3b752c345c276b14f4afcde22e45a313",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKM__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKM",
+    "realm_hint": null,
+    "title_hint": "RELIGIOUS TOLERANCE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "6184434d24e243b25d7ef0df4a73164a9b07f986fb9f279ca853f4a8369ad40a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKN__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKN",
+    "realm_hint": null,
+    "title_hint": "POLITICAL PARTYING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "f112d5420b5085b2b50ba32c880214e32bcaf44c20735b51fb118efe78fa830f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKO__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKO",
+    "realm_hint": null,
+    "title_hint": "FILM AND TV MADNESS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "b1619b997546a47e7763620f051dfbbd38b3084e20a20ce91f20223f114a0a76",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKP__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKP",
+    "realm_hint": null,
+    "title_hint": "POP STARS OF PRINT",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "a625725312d0c0e14728eca796a86b680eeed5e922907947fb984db851cdddf5",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKQ__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKQ",
+    "realm_hint": null,
+    "title_hint": "THE SOUNDS OF MUSIC",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d9954053996beea84850d0f39cc26d7366eedc53735724d380d298d1fb0def7a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKR__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKR",
+    "realm_hint": null,
+    "title_hint": "COMPUTER GAMES",
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      7
+    ],
+    "text_sha256": "c288ecf8039191d0004b867c698ffefa065a62442d0c08881c8ccf0436f15afb",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKS__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKS",
+    "realm_hint": null,
+    "title_hint": "THE SPORTING LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "147494bc409e0ea37c65f9c52d2627bb7491d9f04586fefc5dd1f066231273f6",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKT__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKT",
+    "realm_hint": null,
+    "title_hint": "INLAWS AND OUTLAWS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "ea99dd9c90aa5eb023ddf74db1940af5817335b2044ac30949f6e1d8bbc23e64",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKZ__0008",
+    "disk_name": "00playable",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "cfa01d46659a0fa978427a96f7d75205c33d40b855405116abafe473440bdcc9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILEKZ__0021",
+    "disk_name": "00playable",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "c9ebf246e184d5f6d949ac9084d42f4f8549c0f76c6352863f07423f985f3394",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILES__0000",
+    "disk_name": "00playable",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "8f890a219ff0c1ff6bd253ac4165aaec24b8112342f44eb4ec449467959fd73e",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILES__0001",
+    "disk_name": "00playable",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "b0384394907e79075249890fd5d97afbf8aa6efd41bbe750fed7b1eec9406c9b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__FILES__0002",
+    "disk_name": "00playable",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": "FLIGHT PLANS",
+    "option_marker_count": 3,
+    "choice_digits": [
+      1,
+      2,
+      3
+    ],
+    "text_sha256": "6d342b3e7e42a0c46ac9b8011cc1f30090a8a17f66f3c5810bf8319e0ee860e8",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__RESTORE.OVR__0001",
+    "disk_name": "00playable",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "eb5f80c107677e1b3f07b8f6792392ba63f91d30a5e042e0d96065238c2924dd",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__RESTORE.OVR__0006",
+    "disk_name": "00playable",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "b6503db54364f57891a5f86468a412c5384d155d6bb62356faf15eada09d5a57",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "00playable__RESTORE.OVR__0009",
+    "disk_name": "00playable",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "1ecca24b23d14b226ed6fa110daa4543f1142132f3079253d58c9d90bb2b9718",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": "<0F> PSYCHOLOGICAL CONSULTANT",
+    "option_marker_count": 5,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "text_sha256": "e3c6e308db1b0a1e0a6b4164f574d9c1c49396bee1409074ebdbd55806e406d0",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      3
+    ],
+    "text_sha256": "45bb60d5a3d2c2621551d3b0b6076ac7a31722d0ffe2d7fa8bc03dfa3527d03e",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "60a05a5c305ad81661262ebf4bbc3613d7a7de723ee484e1823decd91e42135d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "22ef1c2d60513a2bd5af7c89115e1c79914650f0e1be8c9e2dd797afd5560e4d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5,
+      6,
+      7
+    ],
+    "text_sha256": "3662039de3f6c991275ba04de6e6e9120613cc71ea6633a4ba4a651808d4b9fa",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      8
+    ],
+    "text_sha256": "1a3bf6611e62a782bc220f0054ef4507def15c12607a496c4005c8e5857f4b4e",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "HYPER-MANIC",
+    "option_marker_count": 16,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "e2085fc1a0ffe971fc254f7fa87c7cddf0a6eaec21f29fc007bfddae1fb40500",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "f609a89447dd6febf683e3cbe02ffc050301e6ed92c2ec27b159cd5bcb6884bb",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "dabc30e5e56cd5704b74417274cd455691861dbab283a0a18f5e8f53ac31da01",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "d44fc6028272228d521a6a847420b63985899c4aadd63091d10b752af5e0bef1",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "3c853302902f1843e54439e8e17d011312b35f1c58919066b599897194e4626d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0012",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "*** IMPROPER FILE OR FILE NOT FOUND ***",
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "4cff7ae11e6ca9d0129edd7962ce88daf1855ba7c8c044a79f53280ec729c1e4",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKA__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKA",
+    "realm_hint": null,
+    "title_hint": "SELF REFLECTIONS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d7e313d5285177e06d92681aa9ba644b7738cf62159e436ee7d22aa11571a890",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKB__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKB",
+    "realm_hint": null,
+    "title_hint": "AUTOBIOGRAPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "aad51ca946b20ad50ea3e341233c87d10d298ca037940ca3841088eba7eb720b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKC__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": "HOME LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "8dab063751442db126bebb8172ec831eeb657106a44e24f6feff9c513422beb6",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKC__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "3e7c1d6071b06f5b5417ee6d383709ee23796cfc1db2ca6ffddade6bf5f0f5f9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKD__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKD",
+    "realm_hint": null,
+    "title_hint": "MATING GAME",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "74dcd8368ec033d2f34b1f7e6e8f1cfdacc7083b181603de6dae6c34397f39b0",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKE__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKE",
+    "realm_hint": null,
+    "title_hint": "CAREER PLANNING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "4cbfa1914526ddbe64b863fe3e7fa95649b6dbdda61287eb0123c16efd342dd4",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKF__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKF",
+    "realm_hint": null,
+    "title_hint": "WORK ARENA",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "fed71bd3d2c7d891c3a1bfad5fbddb04864d3959c739185ade83dccbe95b924c",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKG__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "DECISION MAKING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0a5842882bc7ef545e443d208179e8246df28e218adef0a997806fb651f62634",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKG__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "EXERCISE 2@PROSPECTIVE EMPLOYER",
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "70d5877a5dca9190eb0a463a1cc01a96cccbe176a6c42642cc887b3a8b20832f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKH__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKH",
+    "realm_hint": null,
+    "title_hint": "COMPANY STYLE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "e187e9363586ac935694f04b739b7f56f33cd1d0d94b7323152263dd7a9f5943",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKI__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKI",
+    "realm_hint": null,
+    "title_hint": "LIBERAL ARTISTRY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "776f1b76344998d6483e07447b179e855085ba11bc054a239853c7d5626063c9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKJ__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": "PHILOSOPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "285026b003a1fab75be8e98e9a90e2df2e7718a6044ff82b42aae476d9afed62",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKJ__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0795cb4ebb6634bda57547ee90fc20e71630fa66e79f32cf3c7d735aa8ea257f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKK__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKK",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "010e724e2b2ebbbf93eef38d986eaabe311f1a1fe8e491e117f17882aa5a76a5",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKL__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKL",
+    "realm_hint": null,
+    "title_hint": "HISTORY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "48ee71bc99e39f03e09cdabf4d86ff3e3b752c345c276b14f4afcde22e45a313",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKM__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKM",
+    "realm_hint": null,
+    "title_hint": "RELIGIOUS TOLERANCE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "6184434d24e243b25d7ef0df4a73164a9b07f986fb9f279ca853f4a8369ad40a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKN__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKN",
+    "realm_hint": null,
+    "title_hint": "POLITICAL PARTYING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "f112d5420b5085b2b50ba32c880214e32bcaf44c20735b51fb118efe78fa830f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKO__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKO",
+    "realm_hint": null,
+    "title_hint": "FILM AND TV MADNESS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "b1619b997546a47e7763620f051dfbbd38b3084e20a20ce91f20223f114a0a76",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKP__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKP",
+    "realm_hint": null,
+    "title_hint": "POP STARS OF PRINT",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "a625725312d0c0e14728eca796a86b680eeed5e922907947fb984db851cdddf5",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKQ__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKQ",
+    "realm_hint": null,
+    "title_hint": "THE SOUNDS OF MUSIC",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d9954053996beea84850d0f39cc26d7366eedc53735724d380d298d1fb0def7a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKR__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKR",
+    "realm_hint": null,
+    "title_hint": "COMPUTER GAMES",
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      7
+    ],
+    "text_sha256": "c288ecf8039191d0004b867c698ffefa065a62442d0c08881c8ccf0436f15afb",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKS__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKS",
+    "realm_hint": null,
+    "title_hint": "THE SPORTING LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "147494bc409e0ea37c65f9c52d2627bb7491d9f04586fefc5dd1f066231273f6",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKT__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKT",
+    "realm_hint": null,
+    "title_hint": "INLAWS AND OUTLAWS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "ea99dd9c90aa5eb023ddf74db1940af5817335b2044ac30949f6e1d8bbc23e64",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKZ__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "cfa01d46659a0fa978427a96f7d75205c33d40b855405116abafe473440bdcc9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKZ__0021",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "c9ebf246e184d5f6d949ac9084d42f4f8549c0f76c6352863f07423f985f3394",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILES__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "8f890a219ff0c1ff6bd253ac4165aaec24b8112342f44eb4ec449467959fd73e",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILES__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "b0384394907e79075249890fd5d97afbf8aa6efd41bbe750fed7b1eec9406c9b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILES__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": "FLIGHT PLANS",
+    "option_marker_count": 3,
+    "choice_digits": [
+      1,
+      2,
+      3
+    ],
+    "text_sha256": "6d342b3e7e42a0c46ac9b8011cc1f30090a8a17f66f3c5810bf8319e0ee860e8",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__RESTORE.OVR__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "eb5f80c107677e1b3f07b8f6792392ba63f91d30a5e042e0d96065238c2924dd",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__RESTORE.OVR__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "b6503db54364f57891a5f86468a412c5384d155d6bb62356faf15eada09d5a57",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__RESTORE.OVR__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "1ecca24b23d14b226ed6fa110daa4543f1142132f3079253d58c9d90bb2b9718",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILEC__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILEC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "7d6a1f2f9c9a657d6aad7c583735a4b3c45adfb00961f3f750c8e9fde0eb66b6",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE100__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE100",
+    "realm_hint": "bio_energy",
+    "title_hint": "EXIT THIS REALM",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "18808c40359eb2668bba02dd42cdb1a91f210db37a02c0250b26994177c0f4bf",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE11A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "38a7651f5e823df1508aa3c5cb3d47ef51a13d54ece5d07c07f9aaf57a0b13a7",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE11B__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11B",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "6102699b250e8127c41b23534f41d9afbc9592e18c800c4cb5429a2bab8a01fb",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE11B__0016",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11B",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "1b4b73a80abd831916291c01ca0b722de4604074f52b1fd42342b100983dc2fa",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE13A__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE13A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      3,
+      7
+    ],
+    "text_sha256": "6196c624e5ae59721e678f89aa2b4222fbd0b5ff73a0d6287286346e0834339a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE13A__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE13A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "c27c8ef8a8c82676b8405b562f99bd84e8f6eed1536943c153ced1db437c52ac",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE13A__0012",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE13A",
+    "realm_hint": "bio_energy",
+    "title_hint": "&TO: DNA MARKETING",
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "b2c9a3cfca8827fa970b847aecf4f63e00e7e7645629ea3a25c4e9725f149b32",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE14A__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE14A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "77d0652118fc397ec981c71304d976603a21d795d6bad8d06d65cdff1c181851",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE14A__0022",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE14A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "2876f3ab2e8b8a6867c4c83b569651a15a1930d762b2b7c50a9beac5802f126a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE400__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE400",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 7,
+    "choice_digits": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "183fb1c00bc51f183bb48522252c665197b456330050866fcd4ac16c99d0173c",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE400__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE400",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "b4eba6bd848d3b898fe2212fbd85a4762eeebfff4af8772f3b279457fdc5c602",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE43A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE43A",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "d8e06c4a58b14f6e67c26f6b49074b4a3bacf7b4f653993555e0981b0347b469",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE43B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE43B",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "58d505d8bbb67559f66e9dbbf0da5c0f241f36c27af0ae09ba9bac10023b3cfa",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE44B__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE44B",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "9e6831dc6d5febf7d5c1dba3ab6a1571ced16c715eb7d007186469a7b30d95ac",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE46A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE46A",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "c3abefef10dbf55e53c8b94f57449169ccc9e2a3aaf3a16c72fb5b7ad9c893af",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILEC__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILEC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "7d6a1f2f9c9a657d6aad7c583735a4b3c45adfb00961f3f750c8e9fde0eb66b6",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": "8 1& **BONUS EVENT**",
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "f3ab153973419a60d20fffd414fae63de8101658e77fe80588d0cac17a97ac33",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": "1& **HONESTY CHECK**",
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a890605f3a26bb2b82e5b92e3b8235356b2cdbcbab3f2a5a7dc6e1874ca3fe81",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": "1& **INSTANT FEEDBACK**",
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "8202b90baa6566ec956fe827a4620386369b8b630eafb74d4d289b537acc966d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "b8671d68aa9552ad5874c84fab67c8e6fa70c124ab66c1312fd637a7c68b29ad",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      8
+    ],
+    "text_sha256": "168f14625eab399de889ef5e618efd2f2a41bcdfb093cf24ba447e5e19a35b8a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "1efae56ffc68b5747ec2488027194f463588fd020cded948c3e4da17fb89029b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "24bca4214d7b836cc6396e0a8e447b898fe218248956d2df3d6652a52f1e4519",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE20A__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE20A",
+    "realm_hint": "emotional_insight",
+    "title_hint": "EXIT THIS REALM",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "18808c40359eb2668bba02dd42cdb1a91f210db37a02c0250b26994177c0f4bf",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE22A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22A",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "7801a29b032ce469536e7236a89fd371f6fd5bddec7beeaf9bd4deccbed482ec",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE22B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "5f11b594703cb96972be082120b0efb04ad5b1169b6139b8fcbd9d6b578736a2",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE22B__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "703913b5187c01301c65d31334652d99a8bc05d9fa842bc9e73a30d45f3eef2c",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "a137f29f8da2eea3f41f11cbff7610e7ac273735e6ec944004cbf6c2c2278787",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "2f0e89336d546d57ae86c09d6d1193bc726b151f3bbaa53c3f9e5f70da37f9c8",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "cceda03545e835eda016aaaf6f6531b0c5d9325b3af7125c366d1e04a271cf5a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "e090f20774bbae97b3386ca88c0691369e566a3f86a61567639b780e4cb5db0d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE300__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE300",
+    "realm_hint": "mental_abilities",
+    "title_hint": "A LITERARY CAREER",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "8731dd7b55e1ae95fb448f1827b9d50f5aa562fd845caa8f7bf15519fdd82323",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "7a7e27d52b3b5485c8cbc3caa50ad66c6bc096e142f989b2d383e3b665de6e18",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "095a384c42d8760912e7f0620217aaec3a094eca89c86cd154372ba12328c41c",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "73be83580e756767d4d4bf824e801f969724b02767da0fbb87fa3bf55b953bb3",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "52998bf503388eb63a7a7e16ecab7345963a0804319db4053b4379a39a4145af",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "6500113a958e17e3c6fc7d991eaea71ac9a73f3f93e9bc6fc3e1cf2f516825e8",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      8
+    ],
+    "text_sha256": "dfd4f16b29548511c4c97e1c7541b2620be70304726d73cea25d5650fc664d02",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0013",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "b92019a96e7a7de7c9555fc5405bef679133dc5fd1544ba759d4af86ce7b8eb0",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0015",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "ee6f000e4b6e2f295fab3e1a6c0760d64270b64dd605d864dd448932922cc862",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0017",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "0379210884d3023f6e708491b1d5826228bb292a8cab0bc49a915a0f6662442b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "9568f8b7e6dcc7f6e57dc694a2d63d33651fe76befa5d18d0a0d38a4c7af6a78",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a4fc1f4743678a24eb607894745bd40740bcab5a83783770eb6085ad73d2f4ae",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "2b41bab0e78f3d4f1159bf21d8eaca3ffc4a3389ffff3540e8d887980dfaeb07",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0013",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "744c4ab226318b6b5563f6d736df77ee1235dc5f0c3b1812fc1a682ecb9e8ec8",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31C__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      8
+    ],
+    "text_sha256": "f25a58b5cd9ad24a7e6ffa312fe74d5600d24cdd69e9a26d5ba9b0a5cead6dd4",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31C__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "8f6d41b65fb6dad60d66d3696870d5e076c40da6d78473323b795455b714e6a5",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31C__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "eeb5fe45c0ce387210243d0e633fdfb94c9c23bb749c28f946ef47d7e96e5925",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "8caa65a0f00da63a1650a4e34b8cb208f40bcc821546aa8a6cc1e05baf8d602d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a64fb4a9647525ca622ec4e69218b7d281a5655a54ea3af7c4f345151b711f10",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 5,
+    "choice_digits": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "dbfda8fb61bd7d14c01043972f5d9289e1193e9a01242461a0d805f1eb2976b5",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "2c9cf102d1ebe38f6d133c0e6b3277f95488ce3a313db4ad05393d3a9994bdc4",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a67e1d3797e298a41361deda9d98095a172311a8634ac87304c29fb3d9c6a524",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "1e8527b0483912f41c9607962028c35921efc72c322965b7addbe46a0ac41a86",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "62458592fc8f44ef4155f425e6bc20186e913bd86d5415db64433adc18691ba9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "65d2b0f6c266dbd83ad995f70021b8ebb26c82d7e47ad03f2f9c01fbb213830c",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0015",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "383fa27040f45b323dd1fb1178bcd6ae101dbd6f091e071ef33a2fff9fe7e0ce",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "cd0af5462e6b34638cf1e6e04d9f6d078d8541cd4fb084a10303ac3f08733b92",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "c76a51bc99d261ee3dc819aa8da6cbd0d9e5231efa7809f109dfaf40f1b19011",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "bf0afa7bad124b7a425528ddb0cc3074adf68b2697b056340554dc6bd8710227",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "5adb1437125cbaabc442a831b10f4a7cfd209c3d1999d6c84e0ba2c4d13d5655",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 5,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "22ba2ccfad105790994f89c23c60869dce42ca58e5d58e912f95303f75587e24",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "59345ef5bc86ce28078b6d2197ed26f8b25e9e161310323140e97748ca85a3a7",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "df5ab3c0937e3a146b4f1092644735cd290fefb219e73e16f9d1b6d7afdf6937",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "3638b3e1591a75648f3e3992d04b3f827a2705ee26bb80b3a2586c2f629c303b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "925165b28dd2796f8a5133f9039a4383c4eea8bd0f23f5ff3f65beccf210aeeb",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "7abd7ba89dc75655743db81a2255a475bcda1fb7e97749193f3449e5890f53e0",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "ebdf7ed10f84bfdabf28be49feb6b73c8de40b04af86428f939a61d4672a8846",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "6ec3df584095ac88c4cd63d3961d16615b79e9b02e959aa3660808453becce11",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0012",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "fc63470e230b49132cea31d32286d651df9957a3feacf794a575aa640345b920",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0013",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "3ff0798a78adfc71c022d5e54df39ff9af6880f71c246fbd0117a5d8c488322f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0014",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "dbd68eb1d55a91393333c32dee9efd370312ab7a7a3f1a9bf0a20914f78ddd86",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0015",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "fc4ae686e7a1a0db08a3ce5345c96d0e51cf6973105ca33d3c9ea64bd2d9ceb4",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0016",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "926aede9d261aff40c4dd3be5a2adbafbc602044b9fd3c2c92e0a3c443a57e9f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0017",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": "6 5 N T Q 3 6 7 A 6 D 2 9 6 3 X 5 2 R 13",
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "41bc81ef565a1f888795e6ac82c6f67bec914d1aef3787e48e31c4c1ea05dc8a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0018",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "58d425dc5984e458d6e2b26e4489ff13d7d126e8b1d86831bdceeaf61206840b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0020",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "1e2c2f38798fe3ee0a720d6862c7c3e5879853da00d7de4dd1704e17c2c19008",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0021",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "94dcfd6c6cf862157eb0add7a8e62ba8dd70c78e2fe5ff18266ff45bb11b5160",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0025",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "0f8bc162be4e0921e2cd80f5b93505c9e6be9171487d5f2fb58b4cdc74e75c2d",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0026",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "a9103b41fcbeeb780e7cab52639910783e09f93e73de6c5fee19461c7994943a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0027",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "b9a97e57b0ed20838fcf6f7e854dc6bcfe6a12292c287d8b43d7eb3b03bffdfe",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0028",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "cc840f08540c6f806e953d34121b0d877b4f1750fccc4f859c5cc48e0c6229e8",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0029",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "5aa5497aa83f2b2910a053a07b0117df630fa4b13d73769f17f8b345e24e3826",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0031",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": "A G B H C I D J E K F L G M N.....( ) 1H",
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "3e31dc0acd1116f59a3d390ba20c8d6892145f32d8d40052b8800a4405cd9058",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0032",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "c1ba2db3b6ee202e1cf89ef128994f9705aba227cf545119b9a2f74ee802d900",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0033",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      3,
+      5
+    ],
+    "text_sha256": "dfec827870df6c8f86b8430b987412a670a1b51872ba4571779ef60ee5b1d089",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0034",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      3,
+      5
+    ],
+    "text_sha256": "e3b23636f456becc8756e0f35966f2971d296fb37446ab08736a24af1d4fe4bc",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0035",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "c36f322f1506c453805abb4e4069feef7f380239da297ed5af284d262b73337a",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "b2c9b3c768f7163a9778f5219018e56f726ffcdcf3e861644f46a9a8b16c5db7",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0057",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "c48db7596448e687e2be885cb1770c57c4833aded758613561ee055e952f6fb9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0059",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "2ff6fec85e59e834006967650a0dfeb56e39ebd31ad575f2399317834bbfb727",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0060",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "2aac1c505f7d483ae7887fcb34afafaa0615e8389cbc9bd35c471713ee70d707",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0061",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      6,
+      8
+    ],
+    "text_sha256": "58899f75adfad6c8f2c5208aed0c911d1f4d29b1f53ecf94d44476dd130185ec",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "c59e92c9697a69f4733a4ebf598448a58db575ab450bba3e7dc4e6853afee01b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0016",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "dfd2f0832737c940c64fd95931bbc2ad84a2a2faffe07d8a38369522be95f5ed",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0017",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      3,
+      7
+    ],
+    "text_sha256": "96f5012bb63c7480b07395f1c65ceb99afce38f06bd555ca64305494960e5809",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0018",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      6,
+      8
+    ],
+    "text_sha256": "6549db984f9e0e1caa954df8684cd0855d047bad19839c3bb266076838a78c67",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "4aadc7799cf7b6123a4cf07263f4efe60cd32a786c579873d21dad0b39534c25",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0026",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "c4afd441929d51193b1f886dbd51f29407ffe8daf1864a1074cc9bdb2b9d34ee",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0027",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "f995d56dc8983ee98f8f0e5d7effec6d71d2bd02e4b2e4c827cb2567a09f45cd",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      8
+    ],
+    "text_sha256": "d6b3a38816b187bb9c7497ad3e89960898a04c4c70930a8d525e14962913cd58",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "d192e21c5b6d658e8a00f4886a9a79bf378347c06f85699eb5538fca848b777b",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "b59c45d70da088194e0201fc0853102080d521e51e0353c62b64fbf1d3044b50",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "d2461db2baddfadee6f2ab29a1e2e67c37732887d306f4350e78ffc3e4d81dcb",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "9f09145ad878236e6a617ecc96c3c7df7d550846216074d9c24e6df64ba945b2",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      3
+    ],
+    "text_sha256": "916b9daa2b3c3274ee855df44ca2af2c2a6c00c3abc4f614fc5c93e3d8f4c460",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0018",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "7e97fd406331095a32a9545bc28eb2e4866d571c3851e12177f64fd15169b945",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "dbd7802402b0c59c8e5aa05124d1a128a6551942a8f6e125eabbb6cbed99be84",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0023",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      5
+    ],
+    "text_sha256": "9a27c6b9c704a5463a3a130c65a3c4a8f3ae6bd3189f680efd9c8193d3fede7f",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0031",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "5a76d749f1db9826eff65c8b8d979eeaaddb6c32aa93eb42aad845672bfa4931",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0033",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "20969353c66fa7424d6a36f7fb772b14ab9973692791e071b1ddd71eb4d99fb9",
+    "byte_offset_hint": null,
+    "prose": null
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0038",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "25003462c03ae461388400f9e5a0b2d2b69c0a4088a9eb9cb63baf3efe505084",
+    "byte_offset_hint": null,
+    "prose": null
+  }
+]

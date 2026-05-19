@@ -1,0 +1,625 @@
+[
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEO",
+    "decoded_text_sha256": "962e3a0e5c87f1215ece9ea060d72de66357a9d2609498fdca442eeae168d8b5",
+    "decoded_char_length": 1736,
+    "decoded_path": "decoded-files.private\\00playable\\FILEO.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "decoded_text_sha256": "5f75542169a7c90c5c0772edb4c33902fb562296a6a63bfb6b809c2dfef91927",
+    "decoded_char_length": 4780,
+    "decoded_path": "decoded-files.private\\00playable\\FILEM.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "decoded_text_sha256": "0d4072658db2bbac353f41b44c726ba508f625446262889d23b28896b82757df",
+    "decoded_char_length": 4002,
+    "decoded_path": "decoded-files.private\\00playable\\FILEK.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKA",
+    "decoded_text_sha256": "fe5dc7e6009d5294d7f151450bc2c9379ae9133248c2e3be39c8c7371f675e7c",
+    "decoded_char_length": 1787,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKA.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKB",
+    "decoded_text_sha256": "966d458e4fdc4c8242cf6a3a40d9469157334f3d76d67d7ce0cb829be21ce1c3",
+    "decoded_char_length": 1683,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKB.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKC",
+    "decoded_text_sha256": "79c4ca0e3e6a99cffc71ca5c6933e4c1b6714eee72aa0ab4003ed5da94e50e9f",
+    "decoded_char_length": 1934,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKC.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKD",
+    "decoded_text_sha256": "847c6e9a7150cfdb5071533fe89b2eacdf2e8e4136e113f118747051d6575cd5",
+    "decoded_char_length": 1957,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKD.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKE",
+    "decoded_text_sha256": "dce1f6b5886afdf429f890b4b5550e218b5c272f3c62f76528e8ef5e4d21fa5d",
+    "decoded_char_length": 1608,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKE.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKF",
+    "decoded_text_sha256": "2472b0f0d408eced73f3f8f9da550db2b32bbf58e50f8264759bf8f62fabe76c",
+    "decoded_char_length": 2026,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKF.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKG",
+    "decoded_text_sha256": "2c8e9f93de7daeadd257b2f71ab12fe9d1d3cc01f7309d029b927cfa09b6499f",
+    "decoded_char_length": 1984,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKG.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKH",
+    "decoded_text_sha256": "0f80ee0e9dcd2a5c6249b7d7344c650ab9407aa2fb35cc544f3106a4a06b99bc",
+    "decoded_char_length": 1975,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKH.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKI",
+    "decoded_text_sha256": "c8654cad9d5ec77a70b16f914db02237832d20c74721bf752110a7411efd1dac",
+    "decoded_char_length": 1785,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKI.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKJ",
+    "decoded_text_sha256": "1d47b8748d40d83d01a757f086943be41cd5ff421dafa2fc43074ab6f010fffa",
+    "decoded_char_length": 1570,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKJ.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKK",
+    "decoded_text_sha256": "57694e1650cc3685dac476128cfdec45150343709f1036e5313bce100baf44e1",
+    "decoded_char_length": 1916,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKK.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKL",
+    "decoded_text_sha256": "b74f9d5019a734f8d81a65bbde147d4cadf78859d52df80340293bf35a11bbd0",
+    "decoded_char_length": 1640,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKL.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKM",
+    "decoded_text_sha256": "a34c3ebd1fe6294a63aa2813675b7c64cc3daf9ec569cd59d12824822b0f4f0f",
+    "decoded_char_length": 1645,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKM.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKN",
+    "decoded_text_sha256": "941fca790c8380635d65e6ddafd4d41bddf0ffeedc8092604ab53191aba1925c",
+    "decoded_char_length": 1709,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKN.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKO",
+    "decoded_text_sha256": "325e7503a9b271535e345195d2d6b9f1a1af9d33238ec13fa486ba63c79fef98",
+    "decoded_char_length": 1697,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKO.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKP",
+    "decoded_text_sha256": "9d33838f1b258c087b30ad37ebac67dc4d05525756b188d98cc97fb9ff3a7156",
+    "decoded_char_length": 2034,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKP.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKQ",
+    "decoded_text_sha256": "aa80ac3c6432f9b531f18a9563cc535e32af46ca3c1a9af692d9b65f07698bfc",
+    "decoded_char_length": 1577,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKQ.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKR",
+    "decoded_text_sha256": "1b1825279fb32d18d567435d57cce1eda4f5f3d39af544d060c07cdb787f6eaa",
+    "decoded_char_length": 2040,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKS",
+    "decoded_text_sha256": "38ab303dff536e8841da33ee4aa3c981a006ee3819e28a27d5a11b31f3c616fe",
+    "decoded_char_length": 2031,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKS.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKT",
+    "decoded_text_sha256": "5c066c37ddd7def0a157b28c02423873a36ea41d9908e22db7a4a31b7757bc08",
+    "decoded_char_length": 1840,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKT.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKU",
+    "decoded_text_sha256": "373ca2d59fc131bb3f83432c12570bea183e760fd9c0abc515a0351a58a53b6a",
+    "decoded_char_length": 1630,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKU.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILEKZ",
+    "decoded_text_sha256": "6adb7e85183402d0c1e276cebce841c251bd7f6344c01a5401ed3f475cc5c93f",
+    "decoded_char_length": 2268,
+    "decoded_path": "decoded-files.private\\00playable\\FILEKZ.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "FILES",
+    "decoded_text_sha256": "e68de17e8723290089fd7fd2f232cd35bd89e1b49a22f0dd7176fbaf7dacdcb5",
+    "decoded_char_length": 1203,
+    "decoded_path": "decoded-files.private\\00playable\\FILES.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "OPEN.OVR",
+    "decoded_text_sha256": "20414510b30a052066fc88d5541434733ca388b77e3be5a99b8fb7d63af89ff6",
+    "decoded_char_length": 18371,
+    "decoded_path": "decoded-files.private\\00playable\\OPEN.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "TARGET.OVR",
+    "decoded_text_sha256": "bdbad288d6d1d4fc966f883bd56c4410f69c8d3a51549f208ed436f873700b86",
+    "decoded_char_length": 32550,
+    "decoded_path": "decoded-files.private\\00playable\\TARGET.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "KITS.OVR",
+    "decoded_text_sha256": "1e989915c303fef3c87ce1b315e8dc7842fbe62ba28fa5503c1f45e0d41b2048",
+    "decoded_char_length": 4864,
+    "decoded_path": "decoded-files.private\\00playable\\KITS.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "MASTER.OVR",
+    "decoded_text_sha256": "f3f09840c2af0afc260c75ffbdde8fb19af289a1859915c376e433ac7cbb469b",
+    "decoded_char_length": 3622,
+    "decoded_path": "decoded-files.private\\00playable\\MASTER.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "INTRMED.OVR",
+    "decoded_text_sha256": "231bf2ff2cfebae65998958a0f5cb42a9958a00cafd255030473415672d16356",
+    "decoded_char_length": 4241,
+    "decoded_path": "decoded-files.private\\00playable\\INTRMED.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "BEGINR.OVR",
+    "decoded_text_sha256": "cc980957a743c8f56eb675595ef4863dbfb143c5b4d1199750fdc8c3ac30a1b2",
+    "decoded_char_length": 4692,
+    "decoded_path": "decoded-files.private\\00playable\\BEGINR.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "GAME.OVR",
+    "decoded_text_sha256": "58c01f53acab17d3012bead243fac645084735772315516c24ada9471e49782b",
+    "decoded_char_length": 1804,
+    "decoded_path": "decoded-files.private\\00playable\\GAME.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "RESTORE.OVR",
+    "decoded_text_sha256": "60946f2fb7d5a805490d80efe90e399a1e9eb2d7b02ca1ad4cc0afdc69f29df5",
+    "decoded_char_length": 2397,
+    "decoded_path": "decoded-files.private\\00playable\\RESTORE.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "SEGUE.OVR",
+    "decoded_text_sha256": "f3006343928606aa523c8e4f955dad122cc7934a0d1b4b6810daecdfaa50c89d",
+    "decoded_char_length": 4782,
+    "decoded_path": "decoded-files.private\\00playable\\SEGUE.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "00playable",
+    "file_name": "SAVE.OVR",
+    "decoded_text_sha256": "51f86920961d3a546cae858bafe81acb9e746aee61b37596578629b0c3b0689f",
+    "decoded_char_length": 5097,
+    "decoded_path": "decoded-files.private\\00playable\\SAVE.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILEC",
+    "decoded_text_sha256": "4f290eebb8965d6e9614bed988df9d3d809f8a2ba66f86f7d1dd67b211f019fb",
+    "decoded_char_length": 3932,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILEC.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE100",
+    "decoded_text_sha256": "b8ae6efce52ca258c5a355d6ad956c6583d1542dad8c9f3caa3e064a47af8645",
+    "decoded_char_length": 2862,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE100.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11A",
+    "decoded_text_sha256": "4b4c40d9916e39a1241ca9549c1f83c597ecccbf049dc6904afced37f7f8f654",
+    "decoded_char_length": 647,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE11A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11B",
+    "decoded_text_sha256": "20dc00b4ea0897485d78648d8842251dc8c34b37e965c6a809be690a22d05cc9",
+    "decoded_char_length": 12810,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE11B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE12A",
+    "decoded_text_sha256": "f1167905b55e1decb98cc3f41a1ec23fe95fe9bbf185a4cfbb7ecead92a513ce",
+    "decoded_char_length": 6227,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE12A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE12B",
+    "decoded_text_sha256": "44b4f223d5a853cb1645a56c1f178123472ed769ecb7ddfddde442014d1e7ed6",
+    "decoded_char_length": 6291,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE12B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE13A",
+    "decoded_text_sha256": "84e7ccc3243565a77dd0a8a523dc2a622aae9c2855270c99f3e686a93b9bcaec",
+    "decoded_char_length": 3995,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE13A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE14A",
+    "decoded_text_sha256": "f5a6ba74f87a01a6e2ccaad3c9ebce8799a893d5c4433bad5e6a8a9b0283294c",
+    "decoded_char_length": 12773,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE14A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE400",
+    "decoded_text_sha256": "ee101b492f98d0430655f3b6cb9ecc1df445ec7422500809608dc3447904e1a7",
+    "decoded_char_length": 3026,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE400.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE41A",
+    "decoded_text_sha256": "bfbba781429ee11c4c21b128b3a1a82ef255f8efee0e08ae973bd389846444c2",
+    "decoded_char_length": 2709,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE41A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE41B",
+    "decoded_text_sha256": "2913b24a35438f59b3984d60ee8e54df14b66eea1d3ad15ab9f8c03964dd9acd",
+    "decoded_char_length": 8564,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE41B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE42A",
+    "decoded_text_sha256": "4cc694d08fb080b8a927cd7635c751edcfe59767b9ff017bddaf45e56dcb85e8",
+    "decoded_char_length": 2725,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE42A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE42B",
+    "decoded_text_sha256": "7a5c9b7876a36e1d08711b1c2fa658b726abad2f9836972c9ed299133341b73f",
+    "decoded_char_length": 9643,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE42B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE43A",
+    "decoded_text_sha256": "55f44192a8284a7995c08af96a7b8353f1594ce978148fc46d8a53f1f178856f",
+    "decoded_char_length": 2709,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE43A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE43B",
+    "decoded_text_sha256": "9fa813d08970632d94ee6eaae59e764c74f9a17694a3a48ab88609f9db89f55a",
+    "decoded_char_length": 9964,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE43B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE44A",
+    "decoded_text_sha256": "940ace2cff04bc10efcfe1e333478e77d47a9408f5f08a6134f56502642b2608",
+    "decoded_char_length": 2836,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE44A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE44B",
+    "decoded_text_sha256": "35fa6a66d971aed4236e7e7f70ab67f17ad437365fc718a3ee466088ae808118",
+    "decoded_char_length": 9668,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE44B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE45A",
+    "decoded_text_sha256": "2b250d4c8bd2aed0ce52ba6b7162c3ac17338384cdf32a1df4ef2334a77d5a9a",
+    "decoded_char_length": 2566,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE45A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE45B",
+    "decoded_text_sha256": "d2d82cfdfd8daad694f8a8b97888fd4ddcc6c96df918970c03022995f0584554",
+    "decoded_char_length": 7845,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE45B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE46A",
+    "decoded_text_sha256": "bd28372e6e883d4c760c54a29f25f093ec8e58fe8c7978117bc957ef75472316",
+    "decoded_char_length": 2943,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE46A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE46B",
+    "decoded_text_sha256": "f8d22556d3d63fb34dcf12ee6cecc352f6d186450185bd8e6742e99ac279bf26",
+    "decoded_char_length": 9403,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE46B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE47A",
+    "decoded_text_sha256": "07e47ec020a86c68291189cc6a9245643849f688f7d65e5874d26a72b7159b85",
+    "decoded_char_length": 2821,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE47A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE47B",
+    "decoded_text_sha256": "c72428fcdda5b9dfc3d0d9faf546843308a5bf6ff2ad87a828592b39173419c0",
+    "decoded_char_length": 9586,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE47B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE48A",
+    "decoded_text_sha256": "09a7aaf8976fe1c7b304502ff949e7d642fc59e19230dfe69d963ae89da27568",
+    "decoded_char_length": 2811,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE48A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE48B",
+    "decoded_text_sha256": "5f304ff3a2cd069edcb9fd4943f1c3e6e9b9c8076a7bc5ebe659d40e02687c6b",
+    "decoded_char_length": 9951,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\FILE48B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "CNTRL.OVR",
+    "decoded_text_sha256": "cc7f9c4b7484a432f791268d1fef3c3046eeefd4fb3f63e35b34053d263ab059",
+    "decoded_char_length": 2186,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\CNTRL.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "R1.OVR",
+    "decoded_text_sha256": "3b745048b1980a730bb1a9fc95c80531d2679bed3bb0bb5c76a6149b487890ca",
+    "decoded_char_length": 4436,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\R1.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "R4.OVR",
+    "decoded_text_sha256": "fe716c7e8c1ee256f4d44a3d4d9e282ddd4878b24193dfb143a52b9ff3ba2e6c",
+    "decoded_char_length": 6752,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\R4.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "SEGUE.OVR",
+    "decoded_text_sha256": "f3006343928606aa523c8e4f955dad122cc7934a0d1b4b6810daecdfaa50c89d",
+    "decoded_char_length": 4782,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\SEGUE.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "SAVE.OVR",
+    "decoded_text_sha256": "51f86920961d3a546cae858bafe81acb9e746aee61b37596578629b0c3b0689f",
+    "decoded_char_length": 5097,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A\\SAVE.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILEC",
+    "decoded_text_sha256": "4f290eebb8965d6e9614bed988df9d3d809f8a2ba66f86f7d1dd67b211f019fb",
+    "decoded_char_length": 3932,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILEC.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "decoded_text_sha256": "fb7246476c170ce2486c204936030feb52a170dc1ccd5f5f517f2463bb3f0289",
+    "decoded_char_length": 5948,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE200.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE20A",
+    "decoded_text_sha256": "5caf85ff4da2c825b67e72aa0c2755d1c69ff6abcffb3d10e8b538c5309ff2f2",
+    "decoded_char_length": 2417,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE20A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE21A",
+    "decoded_text_sha256": "9f3f38432cfcdc52f6ced49892d8c4b2b1dda80a1e676ed71e92be33b3a3e8e3",
+    "decoded_char_length": 5823,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE21A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE21B",
+    "decoded_text_sha256": "a1bcb4e45d63c911b89acd54ac44d714d3450e353abee2eb5a4f218a665c0152",
+    "decoded_char_length": 5870,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE21B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22A",
+    "decoded_text_sha256": "38c9d58171358d00e5d079787f1959b1c451f822289d06a26f81f11107563743",
+    "decoded_char_length": 6243,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE22A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22B",
+    "decoded_text_sha256": "1868a78632ce68d7d241d6f355d5f3c6891b7019cf031eb1274e3a7be2f02eab",
+    "decoded_char_length": 6390,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE22B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23A",
+    "decoded_text_sha256": "51e8dadea4233ccac2f42883f42b7710cfb6b30ed3abe312b244bbcfa3444100",
+    "decoded_char_length": 5741,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE23A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "decoded_text_sha256": "381deff541a3de36468b02122220d373bb2762f817aeb908de797ab00eccfed6",
+    "decoded_char_length": 5344,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE23B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE300",
+    "decoded_text_sha256": "29efe0149a4d81327dbbd08780fd779459fac8f7080a6a9d9d458a766699f3ad",
+    "decoded_char_length": 2226,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE300.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "decoded_text_sha256": "5b1746cc0e104e09805974811ba1cfe8961281ecc0094f27b69c36ce9c1168cc",
+    "decoded_char_length": 6768,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE31A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "decoded_text_sha256": "c0d65fab0f9bf20fd3a33a1c2bdbdb75b04e8e13cbb0984e618b1ac8e5375501",
+    "decoded_char_length": 5887,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE31B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31C",
+    "decoded_text_sha256": "7358855bdd348650a4d89bfad37000b42325dfd691d11be44fd379812268d2ba",
+    "decoded_char_length": 4260,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE31C.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "decoded_text_sha256": "3eb0baa9e344bdb75491a98c283b3419d26913e4b0a0ea54785763c09cc4507b",
+    "decoded_char_length": 7716,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE32A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "decoded_text_sha256": "59b9d9cc5d469345cbaa5192ccbd2555e6f7e7ffae802e410d3e4354fb2b354f",
+    "decoded_char_length": 5745,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE32B.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "decoded_text_sha256": "b36ba56c90a40ac8dd553fb8f130716a702a6618631c3049b8d2eba7c8c3f0e1",
+    "decoded_char_length": 9506,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE32C.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "decoded_text_sha256": "8dec72d0a2074a1b98df1e363ece01f6a559efa838833b4ed0e555eafc97a183",
+    "decoded_char_length": 9690,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE33A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "decoded_text_sha256": "06e41b14d37f749e227cbfe6eca099cb4c30ae9303e58bbf6b35eceeb953ec98",
+    "decoded_char_length": 13383,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\FILE34A.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "CNTRL.OVR",
+    "decoded_text_sha256": "cc7f9c4b7484a432f791268d1fef3c3046eeefd4fb3f63e35b34053d263ab059",
+    "decoded_char_length": 2186,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\CNTRL.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "R2.OVR",
+    "decoded_text_sha256": "4c0680572d67c2ce2b82cb01d24549838f02dfc58b889021bb590d62e372c191",
+    "decoded_char_length": 8105,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\R2.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "R3.OVR",
+    "decoded_text_sha256": "e030213eba8bd5009014cc39ab001742e94e3ecdb466a262c2d070bb34eb3bb2",
+    "decoded_char_length": 8174,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\R3.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "SEGUE.OVR",
+    "decoded_text_sha256": "f3006343928606aa523c8e4f955dad122cc7934a0d1b4b6810daecdfaa50c89d",
+    "decoded_char_length": 4782,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\SEGUE.OVR.decoded.txt"
+  },
+  {
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "SAVE.OVR",
+    "decoded_text_sha256": "51f86920961d3a546cae858bafe81acb9e746aee61b37596578629b0c3b0689f",
+    "decoded_char_length": 5097,
+    "decoded_path": "decoded-files.private\\Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B\\SAVE.OVR.decoded.txt"
+  }
+]

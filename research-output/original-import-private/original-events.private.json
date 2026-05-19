@@ -1,0 +1,2971 @@
+[
+  {
+    "id": "00playable__FILEM__0001",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": "<0F> PSYCHOLOGICAL CONSULTANT",
+    "option_marker_count": 5,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "text_sha256": "e3c6e308db1b0a1e0a6b4164f574d9c1c49396bee1409074ebdbd55806e406d0",
+    "byte_offset_hint": null,
+    "prose": "nfE8D}w oagG.\"\n<,26>- Je)Cocteau3FeLFkSc;<0F>5BSvM:\n<21,>\nUk CURSOR UP (E I)FCURSOR DOWN (E M) E SPACE BARFDH pXs9RETURN 0BEGINNER\nEx:c\\-tTSCn DAght\nmodtY \nuk 'M=d-M|sI#1INTERMEDIATE\nSuggGt&t`Y9 M=d-Sc`%;\n=clud-sJ8coyh%I#2MASTER\n /<0F>Qn@NTcoyh%IChUk Auto-PzBE Int:-PzyI#3PROFESSIONAL CONSULTING\nFE<0E>PsyRdog\\tFP:s<nM\nM?ag:F?KTeyqr/Stud,I@\n SMec;D8Ce^'P}fGsi<P C<sut . w\\h exprX 3PsyRdogYP\n#4P:s<nM M?agem,\n#5Educ P\n# RZ_n pXviA9mHuI@\n<0F> PSYCHOLOGICAL CONSULTANT\n 1 \nMIND MIRROR c)n\"vPuabS tUl *psyRdogYP wEkI1@PSYCHO-DIAGNOSIS: Staff memnr9c)cJpC8Dee view9'^cw,I2@INTERACTION: cw,\n. c)cJpC8DAghtsI3@CLIENT INSIGHT: Teyh<0E>cw, MY}-Sc`8h\\/qr view9'klfFh\\tEyFshntY?;oD:sI4@PROGRESS: Staff\ncw, pr;R?g-*cArk 'cAnkwngI5@GROUP ENCOUNTERS: G}m memnr9cJpC82csti<sI6@SIMULATIONS: Pu;.rklf\n<0F>cw, *^vCiZB'}Ss@ c)Si vPuabS =s sI"
+  },
+  {
+    "id": "00playable__FILEM__0005",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      3
+    ],
+    "text_sha256": "45bb60d5a3d2c2621551d3b0b6076ac7a31722d0ffe2d7fa8bc03dfa3527d03e",
+    "byte_offset_hint": null,
+    "prose": "NQFkSc;<0F>goP: 0MIND TOOLS\nPsyRdogYP Ins sFCCe:\nP}ductgOyFLeCn SkblsI#3MIND PLAY\nShntY?;P_suOsFS`h\\tYN>\nHei FfFThAgh;GamGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEM__0006",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "60a05a5c305ad81661262ebf4bbc3613d7a7de723ee484e1823decd91e42135d",
+    "byte_offset_hint": null,
+    "prose": "M=KTUl9 Lt8Pznn%ISMec;)Ce^ Expr]ti<: 0PSYCHOLOGICAL INSIGHT\nM=d-Sc`8<0F>wf82fE~ncG\npatFpXkntFfut_eI#1CAREER PRODUCTIVITY\nReview <0F>cCe$RoYGFjob\ndec\\i<sFoffY8Xzti<WipsI#2EDUCATION\nUk M=KMe}r *^vCiZBof\nSCn sOu sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEM__0007",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "22ef1c2d60513a2bd5af7c89115e1c79914650f0e1be8c9e2dd797afd5560e4d",
+    "byte_offset_hint": null,
+    "prose": "SMec;D8Ce^'PsyRdogYP Ins <0C>w\\h exprX: 1SELF REFLECTIONS\nMY}-Sc`8.rklf *vCiAs\nwf8sOu sI#2AUTOBIOGRAPHY\nAnPyz8pXc\\8navh P\nprt9'<0F>Lt8H\\tEyI#3HOME LIFE\nCxr;<0F>R?g Xzti<Wips\n <0F>hAk~tGI#4MATING GAME\nSc)<0F>}~ntY 2fE~ncG,\npa;?KpXkntI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEM__0008",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5,
+      6,
+      7
+    ],
+    "text_sha256": "3662039de3f6c991275ba04de6e6e9120613cc71ea6633a4ba4a651808d4b9fa",
+    "byte_offset_hint": null,
+    "prose": "SMec;D8Ce^'CCe$P}ductgOB. w\\h exprX: 4CAREER PLANNING\nPr;<0F>fut_0CJpC8possibS\njob9 <0F>2s<P skblsI#5WORK ARENA\nExprX offY8pdOY9?Kg}m\ndynamYsI#6DECISION MAKING\nAnPyz8<0F>Eg?iz P\nmovGI#7COMPANY STYLE\nRefSc;<0F>DAght9abAt\nD8wElcut_8. =xbOI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEM__0009",
+    "disk_name": "00playable",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      8
+    ],
+    "text_sha256": "1a3bf6611e62a782bc220f0054ef4507def15c12607a496c4005c8e5857f4b4e",
+    "byte_offset_hint": null,
+    "prose": "SMec;D8Ce^'Educ <0C>w\\h exprX: 7LIBERAL ARTISTRY\nSc`8<0F>DAght9abA;bUks,\nauDEsFRCyt:sFCt\\tsI#8PHILOSOPHY AND SCIENCE\nRe-C<Lruc;<0F>D=k abAt\ng1;nam-?Kg1;DeEiGI#9SOCIAL GEOGRAPHY\nSc`8<0F>DAght9abA;xbONsI ~Bn a~z&6D8XsutsI#:HISTORY\nC1t8<0F>DeEB'h\\tEB?d\ncJpC8O <0E>ex2tsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEK__0001",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "HYPER-MANIC",
+    "option_marker_count": 16,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "e2085fc1a0ffe971fc254f7fa87c7cddf0a6eaec21f29fc007bfddae1fb40500",
+    "byte_offset_hint": null,
+    "prose": "Cqcl 3 1 1 /DG8scPG:3NQ dGcrin 3 2 1 :3NQ dGcrin 3 3 1 :3NQ dGcrin 3 4 1 :3 #11 PEPPY\n HYPER-MANIC\n LAID-BACK\n LOW-ENERGY\n #12 INTENSE\n AGITATED\n LOW-KEY\n TRANQUIL\n #13 SAD\n MELANCHOLIC\n HAPPY\n EUPHORIC\n #14 HESITANT\n LISTLESS\n GUNG-HO\n WHOLEHEARTED\n #21 BOSSY\n DICTATORIAL\n SHY\n PASSIVE\n #22 COCKY\n HAUGHTY\n CUTE\n EAGER-TO-PLEASE\n #23 GRUMPY\n HOSTILE\n SWEET\n CONGENIAL\n #24 WHINING\n COMPLAINING\n ENCOURAGING\n NURTURANT\n #31 KNOWLEDGEABLE\n INTELLIGENT\n DUMB\n IGNORANT\n #32 ORGANIZED\n EFFICIENT\n FLAKY\n DISORGANIZED\n #33 CLOSED-MINDED\n LITERAL-MINDED\n IMAGINATIVE\n ORIGINAL\n #34 BY-THE-BOOK\n NARROW-MINDED\n INGENIOUS\n INVENTIVE\n #41 V.I.PI ARISTOCRATIC\n SOCIAL-NOBODY\n INSIGNIFICANT\n #42 PROPER\n PILLAR-OF-THE-COMMUNITY\n ROWDY\n REBELLIOUS\n #43 STRAIGHT-ARROW\n INHIBITED\n FREE-LIVING\n SOCIAL-MAVERICK\n #44 SQUARE\n SMALL-TOWNISH\n SOPHISTICATED\n COSMOPOLITAN\n ^ !---!---!---!---!---!---!---!\n^ Nev$ RCMB OftH Alpys\n 1 \nSPACE BAR fwp9ntweH PLAIN TALK\nSHRINK-RAP (psyRdogYP) wEdsICURSOR LEFT (E J)\nRIGHT (E K) mov8D8sc`e-C}w y}s9D8scPeICURSOR DOWN (E M) mov-tTnex;scPeICURSOR UP (E I) XcPl9pXviA9scPeI 3 \n CONTROL-R Xtriev-^subject\n pXviAslBsav>I"
+  },
+  {
+    "id": "00playable__FILEK__0007",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "f609a89447dd6febf683e3cbe02ffc050301e6ed92c2ec27b159cd5bcb6884bb",
+    "byte_offset_hint": null,
+    "prose": "<0E> feL ThAght-Pzn8.'v8c1t&# 2 BIO-ENERGY 1 Fi.e.: wf8fEceFmUdFvOPOB?Ktem2am,I"
+  },
+  {
+    "id": "00playable__FILEK__0008",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "dabc30e5e56cd5704b74417274cd455691861dbab283a0a18f5e8f53ac31da01",
+    "byte_offset_hint": null,
+    "prose": "<0E> kc<KThAght-Pzn8.'v8c1t&# 2 EMOTIONAL INSIGHT 1 Fi.e.: =t:2s<P LyS\n?gS '|p}yh oD:sI"
+  },
+  {
+    "id": "00playable__FILEK__0009",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "d44fc6028272228d521a6a847420b63985899c4aadd63091d10b752af5e0bef1",
+    "byte_offset_hint": null,
+    "prose": "<0E> DeKThAght-Pzn8.'v8c1t&# 2 MENTAL ABILITIES 1 Fi.e.: kvwSdgeFc1tgOyF=fE~ti/g]spF?Koag= I"
+  },
+  {
+    "id": "00playable__FILEK__0010",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "3c853302902f1843e54439e8e17d011312b35f1c58919066b599897194e4626d",
+    "byte_offset_hint": null,
+    "prose": "<0E> fArD ThAght-Pzn8.'v8c1t&# 2 SOCIAL INTERACTION 1 Fi.e.: czssFtd:?ceFs`h\\tY \nmEP c<v,i<POyI"
+  },
+  {
+    "id": "00playable__FILEK__0012",
+    "disk_name": "00playable",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "*** IMPROPER FILE OR FILE NOT FOUND ***",
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "4cff7ae11e6ca9d0129edd7962ce88daf1855ba7c8c044a79f53280ec729c1e4",
+    "byte_offset_hint": null,
+    "prose": "*** IMPROPER FILE OR FILE NOT FOUND ***\n Inkr;GAME DISKFDH pXs9RETURNI<0F><0E>\nWAlK. 78to: 0DTAlt:nN8Ex:c\\e\n\n#1Sav8D82s<POBof\n 1\n#2Sav8D82s<POBof\n 2\n#3Sav8D82s<POBof\n 3\n#4Sav8D82s<POBof\n 4\n#6PzBLIFE SIMULATION\n\n#7RZ_n D8Ma*MHu"
+  },
+  {
+    "id": "00playable__FILEKA__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKA",
+    "realm_hint": null,
+    "title_hint": "SELF REFLECTIONS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d7e313d5285177e06d92681aa9ba644b7738cf62159e436ee7d22aa11571a890",
+    "byte_offset_hint": null,
+    "prose": "SELF REFLECTIONS\n\"In\"~gY me}r w8k8XfSct&v;<lBAr wvGFbu;D8wv-'Pl mH xv8nH@Wqn I D=l/D#~jGtY DemeFmBey-dazzS.\"\n<,17>- Owv$WHdMl HdmG\n\nMIND MIRROR HabS9. ~gntB?KXfSc;<0F>DAght9f}cdaBtTdaBabA;?Bt`Y@Isn';pXc\\8D=k abA;<0F>klf<0E>moL baY tUl ~nag <0F>wf8succGsfuly?\n\nChUk <8'D8fdrw ex:c\\-*D8C;'yc_N8klf-XfScti< 0EXERCISE 1@SELF PORTRAIT\nCJpC8<0F>klf <0F>[ePI#1EXERCISE 2@SELF-RANGE\nCJpC8<0F>nL\nwEL klvGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKB__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKB",
+    "realm_hint": null,
+    "title_hint": "AUTOBIOGRAPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "aad51ca946b20ad50ea3e341233c87d10d298ca037940ca3841088eba7eb720b",
+    "byte_offset_hint": null,
+    "prose": "AUTOBIOGRAPHY\n\"L8sE;faO S9pC,sFS Roix faO S9am\\.\"\n(FN8RUk9Ar pC,sFw8RUk Ar friHds.)\n<,23>- Jyqu-DMbS\n\nIn Xc<Lruct <0F>Lt8H\\tEyFXzti<Wip9 <0F>pC,9C8'cruciP opEt?c0StC;bBsc` D8c_Xn;sOu @If <0F>pC,9C8v;PgeFsc`8Deca<0C>view DecvwI\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@YOUR MOTHER\nCJpC8qr <0F>[eP MJI#1EXERCISE 2@YOUR FATHER\nCJpC8ho <0F>[eP DiI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKC__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": "HOME LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "8dab063751442db126bebb8172ec831eeb657106a44e24f6feff9c513422beb6",
+    "byte_offset_hint": null,
+    "prose": "HOME LIFE\nWqX c?';. gTaga=Fjhg>y-jog? WqX do-RCOBng=? WqX dT<0F>fUtLs9t_n f}cpnd: /^fEehn L]nd? #^necGsCBevb? #^cJmfOB'twTE mE8szvG? #^damnablBkriA9bus=Gs?\n\nUk<0E>Me}r f=KAt@ moL opEt?;Gam-'Lt8C8oftH 5y&A;6HOMEVH:e(^R?c8 . czrtB<0F>D=k abA;<0F>c_Xn;hAk~tG@ChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@HOUSEMATE vs@IDEAL\nCJpC8pXkn;?K[ePI#1EXERCISE 2@HOUSEMATE vs@SELF\nCJpC8<0F>hAk~t8?K.I# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKC__0001",
+    "disk_name": "00playable",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "3e7c1d6071b06f5b5417ee6d383709ee23796cfc1db2ca6ffddade6bf5f0f5f9",
+    "byte_offset_hint": null,
+    "prose": "EXERCISE 1@HOUSEMATE vs@IDEAL\n 1 \nYOUR HOUSEMATE: A pGso\\;<c8sa[ \"wv togZqr #78^fiMK'bNtS\nv;^nK'}ks.\"\n\n (<0F>`=i<? Typ8*D8nam8'sJe<8 jJ<0C>wv8E xv8wv>I"
+  },
+  {
+    "id": "00playable__FILEKD__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKD",
+    "realm_hint": null,
+    "title_hint": "MATING GAME",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "74dcd8368ec033d2f34b1f7e6e8f1cfdacc7083b181603de6dae6c34397f39b0",
+    "byte_offset_hint": null,
+    "prose": "MATING GAME\nF=PlBO(Crg>!\n\nAn IntMwgHc8Appw?c8 qlp9u9fd:L?K moL myL:iA9'Pl ev,s--D8Lov8GameI\nAnNd8F]nc8prn&DNF\"Lov:9jTrv8truBdTv;wrO8dQn Dee xpp=Gs.\" Bu; doGn';|plBtT.I\nPSa8RUk <8'D8fdrw ex:c\\-*D8Ar;'Love 0EXERCISE 1@CURRENT LOVES\nCJpC8<0F>rv8?K<0F>[ePI#1EXERCISE 2@PAST LOVES\nCJpC8<0F>feL\nnL rvGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKE__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKE",
+    "realm_hint": null,
+    "title_hint": "CAREER PLANNING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "4cbfa1914526ddbe64b863fe3e7fa95649b6dbdda61287eb0123c16efd342dd4",
+    "byte_offset_hint": null,
+    "prose": "CAREER PLANNING\n Z:nP quGti<@\" dT. pn;tTn jH<0C>g}w m?\" RoY8'^cCe$#oftH ~d8e]ti<PlyFbwndlyF A;yc_N8XfScti<I\nIn D#kcti/. c)Eg?iz8<0F>D=k abA;D#opEt?;`ti<I\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@CAREER CHOICE\nCJpC8<0F>~*cCe$RoYGI#1EXERCISE 2@JOB CHOICE\nC<t]L twTd\\sobC jobsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKF__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKF",
+    "realm_hint": null,
+    "title_hint": "WORK ARENA",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "fed71bd3d2c7d891c3a1bfad5fbddb04864d3959c739185ade83dccbe95b924c",
+    "byte_offset_hint": null,
+    "prose": "WORK ARENA\nMuR 'wfe(fxpp=G9#gH:N&/D8job--offY8pdOYsFpUr cJmfY sFfautB~nagem, skbls@J!5*hu~n my`iaI\nBu;sJ8'D8hhqL mJ,9*wf8c)occ_ jH<0C>C8pC;'^teac #mGh smUDlyI\nMIND MIRROR c)n\"vPuabS tUl *czrty DAght9?Kop}v cJmfY *D8WElAXna@ChUk <8'D8fdrw =t}ductEBex:c\\-*offY8pdOYs 0EXERCISE 1@THE BOSS!\nCJpC8<0F>bos9 ?oD:I#1EXERCISE 2@YOUR TEAMMATES\nCJpC8twTcdSaguGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKG__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "DECISION MAKING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0a5842882bc7ef545e443d208179e8246df28e218adef0a997806fb651f62634",
+    "byte_offset_hint": null,
+    "prose": "DECISION MAKING\nW8dTtHKtTXt_n D8Z:nP dec\\i<-~k dbem~ 'HamSt@\"TTn E v;tTn: #D8quGti<: WqD$'t#vbSr *D8m=KtTsuff$D8swng9?KC}w9'At]geA9fEtfeFE t{8Cm9aga=L\"k^'t}ubSs...\"\n\nEffectg8dec\\i<-~k c)n yhiev&bBpXc\\8D=k ?KcSC cJmfY I\nH:e(D8feL RPSng dec\\i<@SMec;<8'DG8ex:c\\G 0EXERCISE 1@SCOUTING A CLIENT\nCJpC8<0F>cw,\n.rklfI#1EXERCISE 2@PROSPECTIVE EMPLOYER\nCJpC8)empry$?K.rklfI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKG__0004",
+    "disk_name": "00playable",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "EXERCISE 2@PROSPECTIVE EMPLOYER",
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "70d5877a5dca9190eb0a463a1cc01a96cccbe176a6c42642cc887b3a8b20832f",
+    "byte_offset_hint": null,
+    "prose": "EXERCISE 2@PROSPECTIVE EMPLOYER\n 1 \nSmpok <0F>bh dec\\i/=vdv-hQ gTabA;gZt ^g1;job@Uk<0E>MY}-Sc`8tTqlp c1t8<0F>gam85n D#ev,I\nTHE EMPLOYER: FeL typ8*D8nam8'D8p}spectg8empry$jTwbl ~k8D8cruciP dec\\i<@Sc`8hQ <0F>scAt XpEt9suggG;D#2s/wbl 2fEmI"
+  },
+  {
+    "id": "00playable__FILEKH__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKH",
+    "realm_hint": null,
+    "title_hint": "COMPANY STYLE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "e187e9363586ac935694f04b739b7f56f33cd1d0d94b7323152263dd7a9f5943",
+    "byte_offset_hint": null,
+    "prose": "COMPANY STYLE\nEnve<m, =fluHc-nxviE@ Eg?iz jYh<0C>wElc)xv8)HEmA9=fluHc8/<0F>wf8?K<0F>wMl n%I\nInLOuti<sF78pe`SFvCB*2s<POy@In D#kcti/. wbl SCn hQ sc`8<0F>wElHve<m,\n<0F>Xsp<k9tTOI\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@YOUR COMPANY\nCJpC8<0F>cJp?B?K<0F>[ePI#1EXERCISE 2@RIVALS\nCJpC8<0F>cJp?y(rgPsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKI__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKI",
+    "realm_hint": null,
+    "title_hint": "LIBERAL ARTISTRY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "776f1b76344998d6483e07447b179e855085ba11bc054a239853c7d5626063c9",
+    "byte_offset_hint": null,
+    "prose": "LIBERAL ARTISTRY\nMIND MIRROR c)n\"ukfu tUl *Hjoy ?Kfd:L?d wt:N_eFwrO:9?KCt\\tsI key:<0E>Lud, (?KevH<0E>=tMwg, teyqr) ncJ-)ytg8pCtYip?;*D8SCn iv,_0 fd:L?d 'bUksFRCyt:sFpr;devM`m,FauDEsF?KCt\\t9R?g-(mea_ably) f}cweeltTweekI\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@AUTHOR COMPARISONS\nCJpC8twTsobC auDEsI#1EXERCISE 2@CHARACTER COMPARISONS\nCJpC8twTd\\sobC RCyt:sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKJ__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": "PHILOSOPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "285026b003a1fab75be8e98e9a90e2df2e7718a6044ff82b42aae476d9afed62",
+    "byte_offset_hint": null,
+    "prose": "PHILOSOPHY\nSCIENCE\nMIND MIRROR HcA]g-. czrtB?Kpr;<0F>DAght9abA;D8G1;IssuG@Actg8c1ti/X5c-pasg8SCn%@ g1;phbos`qr9ex\\;<lB*D8m=d9'hu~n9jTRUk D=labA;Dem<08>C8=vO&tT2fEctwTbaY ex2o,9*=t:fy <0F>m=K <0E>G1;OnG!\n\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAVORITE PHILOSOPHERS\nCJpC8phbos`qr9jJ<0C>imeeI#1EXERCISE 2@FAVORITE SCIENTISTS\nCJpC8sci,\\t9jJ<0C>XspectI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKJ__0004",
+    "disk_name": "00playable",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0795cb4ebb6634bda57547ee90fc20e71630fa66e79f32cf3c7d735aa8ea257f",
+    "byte_offset_hint": null,
+    "prose": "1dBtTM=d-Sc`8D8g1tG;DAght9?Ksag-'D8hu~n ]c0TxnlGodV XpEt&tTHei-QuCt:9j!6D8to8jH cSC D=k #1llBne>>I\nFAVORITE SCIENTIST: Typ8*D8nam8'^sci,\\;. imeeI"
+  },
+  {
+    "id": "00playable__FILEKK__0002",
+    "disk_name": "00playable",
+    "file_name": "FILEKK",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "010e724e2b2ebbbf93eef38d986eaabe311f1a1fe8e491e117f17882aa5a76a5",
+    "byte_offset_hint": null,
+    "prose": "^ddph=F. w<';n xppB*D8Sax]@M?Bpe`S wv8wXtR&E dul wv-fapX 'D8pQ:fu effec;'Hve<m,I\n nex;twTex:c\\-~Bqlp<0C>fd:L?KD8effec;'xbO6*hu~n wf0ChUk <0F>feL psyRo-geog]phYP M=d-Sc`e: 0EXERCISE 1@OPTIMUM HABITAT\nCJpC8dtf:, Hve<m,sI#1EXERCISE 2@LIFE TRAILS\nT]cl<0F>wf8mh]ti<I# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKL__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKL",
+    "realm_hint": null,
+    "title_hint": "HISTORY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "48ee71bc99e39f03e09cdabf4d86ff3e3b752c345c276b14f4afcde22e45a313",
+    "byte_offset_hint": null,
+    "prose": "HISTORY\nA9KCl MCx sa[: \"H\\tEBnrng9tTq jTwrO-O.\" MIND MIRROR fX-. f}c^pasg8ycst?c8'\" Ex2t's\" v:si/'ev:yD ?KPrw9. MAKE UP YOUR OWN MINDI\nNQ O(YOUR Xsp<sibbOBtTwrO8h\\tEy<08>c)Ppy9X-r O!\nUk<0E>CURSOR kSc;^triP rf 0EXERCISE 1@PRESIDENTIAL CAMPAIGN\nCJpC8twTc?d[NGI#1EXERCISE 2@HISTORICAL FIGURES\nCJpC8twTA+StC H:oGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKM__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKM",
+    "realm_hint": null,
+    "title_hint": "RELIGIOUS TOLERANCE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "6184434d24e243b25d7ef0df4a73164a9b07f986fb9f279ca853f4a8369ad40a",
+    "byte_offset_hint": null,
+    "prose": "RELIGIOUS TOLERANCE\nAccEd tTJam-Mi\\<F\"RMhiA9=td:?c8x9dg[&~nk=K=tTpCtiGF=fzm&Dec mutuP ?oosOyF?KXnd:&DecmuR mE8d\\pokKtTvex\n`pXs9eyh oD$D)tTcU2N8 D8cJm/gUd.\"\n\nCJpC XwgiA9nwef9c)Si wvMBd\\cussi<sVMIND PLAY c)qlp czrtB[ea abA;D#Drbwng fiMK'DAgh;?KfaOhI\nPSa8RUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAMOUS PROPHETS\nCJpC8twTXwgiA9p}pqtsI#1EXERCISE 2@FAMOUS RELIGIONS\nCJpC8<0F>Xwgi/ ?oD:I# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKN__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKN",
+    "realm_hint": null,
+    "title_hint": "POLITICAL PARTYING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "f112d5420b5085b2b50ba32c880214e32bcaf44c20735b51fb118efe78fa830f",
+    "byte_offset_hint": null,
+    "prose": "POLITICAL PARTYING\nSJ8pdOYi?9xv8p}v&DNF\"In pdOYsFD8scucr\\- t`\nc<gePs.\" In D#kcti/. c)cJ8tTfd:L?KhQ D#wEk9*<0F>Qn m=K?Kxv8sJ8xrmSssFk=kBffI\nPSa8kSc;jYh ex:c\\8. w\\h try 0EXERCISE 1@POLITICIANS\nCJpC8D8gUK?KD8biI#1EXERCISE 2@POLITICAL PARTIES\nCJpC8<0F>pCtB?KO9rgPI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKO__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKO",
+    "realm_hint": null,
+    "title_hint": "FILM AND TV MADNESS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "b1619b997546a47e7763620f051dfbbd38b3084e20a20ce91f20223f114a0a76",
+    "byte_offset_hint": null,
+    "prose": "FILM AND TV MADNESS\n av:ag8Am:Y)ptR-TV 7 hAr9^day@Plu9moviG@FE moL Am:Y?9D8Luff /D8XM #mE81l D) ReP@DT. dC8pul <0E>cov:9'<0F>m=K?Kexam=8<0F>DAght9abA;Ar scXH q}G? If<0C>C8v;squeam\\h E fa=;'qC;RUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAVORITE STARS\nCJpC8twT'D8g1tsI#1EXERCISE 2@FAVORITE HEROES\nCJpC8twTscXH RCyt:sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKP__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKP",
+    "realm_hint": null,
+    "title_hint": "POP STARS OF PRINT",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "a625725312d0c0e14728eca796a86b680eeed5e922907947fb984db851cdddf5",
+    "byte_offset_hint": null,
+    "prose": "POP STARS OF PRINT\nGeEg8Ma/(1725-92) sa[ O wMl@\" fX>J 'D8pXs9#<8'D8g1;buprk9'wnrtyF?Kc)nev$n XL]=&bu;bBdGpotY gov:nm,s.\"\n\nAnD<BT}lrp8czo& D8\"2iodYP pXs9#D810D mukF^pQ:fu XfScti/'<0F>LN8'm=d.\"\n\nChUk )ex:c\\8=vdv 2iodYPs 0EXERCISE 1@MAGAZINE COMPARISON\nCJpC8<0F>favEO8~gaz=GI#1EXERCISE 2@NEWSPAPER COMPARISON\nCJpC8<0F>favEO8newsp|:sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKQ__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKQ",
+    "realm_hint": null,
+    "title_hint": "THE SOUNDS OF MUSIC",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d9954053996beea84850d0f39cc26d7366eedc53735724d380d298d1fb0def7a",
+    "byte_offset_hint": null,
+    "prose": "THE SOUNDS OF MUSIC\nL<gfMrw w}te: \"MusY #D8fg:sP znguag8'~nk=d.\"\n\nJoi HHdrix s?g \"G1;musY m!expXs9D8DAght9?K=spe 9'D8pe`S\nD8toe.\"\n\nWhTC8<0F>pe`S? Wqn #<0F>toe?\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAVORITE MUSICIAN\nCJpC8twTmusYi?sI#1EXERCISE 2@FAVORITE GROUP\nCJpC8twTmusYP g}msI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKR__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKR",
+    "realm_hint": null,
+    "title_hint": "COMPUTER GAMES",
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      7
+    ],
+    "text_sha256": "c288ecf8039191d0004b867c698ffefa065a62442d0c08881c8ccf0436f15afb",
+    "byte_offset_hint": null,
+    "prose": "COMPUTER GAMES\nWa O Azn T_ jTsa[F\" CJput$Bus=G9*1986 #78D8Auto-Mobb8InduLrB'1921?\"\n\n go;bh ~nufyt_ cJp?iGFb]W DZ}O executg- A;^clueFn:KHg=e:sFbrhi-'sPGmHFCmi-',husiat-ukr9jTC8\"=tTcJput:s,\"\n'cArk<0E>bus=G9ukrs@TqBPl kvw<0E>|pwc 9'D82s<P ESct}nY Auto-Mobb0Or dTDey?\n\nPSa8kSc;)ex:c\\e 0EXERCISE 1@COMPUTER STARS\nCJpC8cJput$=duLrBg1tsI#1EXERCISE 2@COMPUTER SOFTWARE\nCJpC8cJput$gamGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKS__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKS",
+    "realm_hint": null,
+    "title_hint": "THE SPORTING LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "147494bc409e0ea37c65f9c52d2627bb7491d9f04586fefc5dd1f066231273f6",
+    "byte_offset_hint": null,
+    "prose": "THE SPORTING LIFE\nAccEd tTWMwngt<F\" bNtS 'WN:rTp9w//D85y fiMd9'Et<@AnKO p9rL /D85y fiMd9'F]nce.\"\n\nA;^to8jH q}-C8*WE;smplyFNhSt-?KhJe-tQn team9krv8v;<lBa }S modMsFbu;PsTa totem9?Ksymbd9 tribP rgPri-?Kvbzg8myDsI\nMagntB<0F>DAght9abA;D#fiMKbBRUs )ex:c\\e 0EXERCISE 1@PLAYER COMPARISON\nCJpC8twTNhStGI#1EXERCISE 2@TEAM COMPARISON\nCJpC8moL\nSa;favEOeI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKT__0000",
+    "disk_name": "00playable",
+    "file_name": "FILEKT",
+    "realm_hint": null,
+    "title_hint": "INLAWS AND OUTLAWS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "ea99dd9c90aa5eb023ddf74db1940af5817335b2044ac30949f6e1d8bbc23e64",
+    "byte_offset_hint": null,
+    "prose": "INLAWS AND OUTLAWS\nIn \"SympNhB D8Devb\" MYlJagg$s?gF\"Ev:Bc`(^cro=P\nPl <0F>s=n:9sa=ts.\"\n\nGbnr;?KSuwv)zm,>: \"Wqn c<LabuCBduty(tTn d<eFD8pdYe~n(r;#v;^xppB<e.\"\n\nH:8. C8offYiPlBXquGt&tTc<fG9<0F>tru8DAght9abA;=zw9?KAtzw9bBRUs <8'DG8ex:c\\G 0EXERCISE 1@FAMOUS COPS AND OUTLAWS\nCJpC8^gUKguB?K^bi guyI#1EXERCISE 2@FAMOUS GANGS\nCJpC8c` g?g9?Kcro8g?gsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "00playable__FILEKZ__0008",
+    "disk_name": "00playable",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "cfa01d46659a0fa978427a96f7d75205c33d40b855405116abafe473440bdcc9",
+    "byte_offset_hint": null,
+    "prose": "x:3 WAlK. 78to:\n#0Rse6AUTO-PLAY\n\n#1Sav8D82s<POBof\n 1\n#2Sav8D82s<POBof\n 2\n#3Sav8D82s<POBof\n 3\n#4Sav8D82s<POBof\n 4\n#6PzBLIFE SIMULATION\n\n#7RZ_n D8Ma*MHu"
+  },
+  {
+    "id": "00playable__FILEKZ__0021",
+    "disk_name": "00playable",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "c9ebf246e184d5f6d949ac9084d42f4f8549c0f76c6352863f07423f985f3394",
+    "byte_offset_hint": null,
+    "prose": "a kH by3 x:3 WAlK. 78to:\n#0Rse6INTER-PLAY\n\n#1Sav8D82s<POBof\n 1( \n#2Sav8D82s<POBof\n 2( \n#3Sav8D82s<POBof\n 3( \n#4Sav8D82s<POBof\n 4( \n#6PzBLIFE SIMULATION\n\n#7RZ_n D8Ma*MHu"
+  },
+  {
+    "id": "00playable__FILES__0000",
+    "disk_name": "00playable",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "8f890a219ff0c1ff6bd253ac4165aaec24b8112342f44eb4ec449467959fd73e",
+    "byte_offset_hint": null,
+    "prose": "WAlK. 78tT5BLIFE SIMULATION a:3 #1 1\n#2 2\n#3 3\n#4 4"
+  },
+  {
+    "id": "00playable__FILES__0001",
+    "disk_name": "00playable",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "b0384394907e79075249890fd5d97afbf8aa6efd41bbe750fed7b1eec9406c9b",
+    "byte_offset_hint": null,
+    "prose": "#1 1( \n#2 2( \n#3 3( \n#4 4("
+  },
+  {
+    "id": "00playable__FILES__0002",
+    "disk_name": "00playable",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": "FLIGHT PLANS",
+    "option_marker_count": 3,
+    "choice_digits": [
+      1,
+      2,
+      3
+    ],
+    "text_sha256": "6d342b3e7e42a0c46ac9b8011cc1f30090a8a17f66f3c5810bf8319e0ee860e8",
+    "byte_offset_hint": null,
+    "prose": "FLIGHT PLANS\n 1 \nNOVICE: PzB *zrg8w=-EbO /M=KM|s@Sts-by-Ls \"Hei-Coyh%\" deect9. tQCd9<0F>DAght-goPI\nEXPERIENCED: S~+w=-EbO9/M=KM|s@Fat$5y@Opti<P ycG9tTM=KM|s@NT\"Hei-Coyh%.\"\n\nWIZARD: NTw=-cecS@FlBbBD8kN-of-.r-=tuOi<@M=KM|9avababS <lBaft$.'v8cJpSt&^1lmI\nChUk\"5n <0F>Lt8Sou 0NovYe\n#1Ex2iHc>\n#2WizCd\n#3RZ_n ~*mHu"
+  },
+  {
+    "id": "00playable__RESTORE.OVR__0001",
+    "disk_name": "00playable",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "eb5f80c107677e1b3f07b8f6792392ba63f91d30a5e042e0d96065238c2924dd",
+    "byte_offset_hint": null,
+    "prose": "$%<0F>(<06><0C>E)j<0E>\n ,<0C>C. @)j<0E>,g^)B# 1AX[ %B# 2AX[ %B# AW= %B# @Xk @\" VY\"@)C#\n \n ,xN."
+  },
+  {
+    "id": "00playable__RESTORE.OVR__0006",
+    "disk_name": "00playable",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "b6503db54364f57891a5f86468a412c5384d155d6bb62356faf15eada09d5a57",
+    "byte_offset_hint": null,
+    "prose": "\" ~ XE @XL @\" V-\" ~ <0C>K<0C>;(<06><0C>$<06><0C>P(<06><0C>Q3\t,4T$<06><0C>P(<06><0C>Q3\tD4T$<06><0C>P(<06><0C>Q3%B#4T*<06><0C>@4T@)C#<0E>n\"<0E>K<0C>,$k."
+  },
+  {
+    "id": "00playable__RESTORE.OVR__0009",
+    "disk_name": "00playable",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "1ecca24b23d14b226ed6fa110daa4543f1142132f3079253d58c9d90bb2b9718",
+    "byte_offset_hint": null,
+    "prose": "$E<0C>X \"*E<0C>,jt. %C#W<0C> $E<0C>X<0C> A\" %B# 1@W<\"% <0C>XY\"\n \n ,xN."
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": "<0F> PSYCHOLOGICAL CONSULTANT",
+    "option_marker_count": 5,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "text_sha256": "e3c6e308db1b0a1e0a6b4164f574d9c1c49396bee1409074ebdbd55806e406d0",
+    "byte_offset_hint": null,
+    "prose": "nfE8D}w oagG.\"\n<,26>- Je)Cocteau3FeLFkSc;<0F>5BSvM:\n<21,>\nUk CURSOR UP (E I)FCURSOR DOWN (E M) E SPACE BARFDH pXs9RETURN 0BEGINNER\nEx:c\\-tTSCn DAght\nmodtY \nuk 'M=d-M|sI#1INTERMEDIATE\nSuggGt&t`Y9 M=d-Sc`%;\n=clud-sJ8coyh%I#2MASTER\n /<0F>Qn@NTcoyh%IChUk Auto-PzBE Int:-PzyI#3PROFESSIONAL CONSULTING\nFE<0E>PsyRdog\\tFP:s<nM\nM?ag:F?KTeyqr/Stud,I@\n SMec;D8Ce^'P}fGsi<P C<sut . w\\h exprX 3PsyRdogYP\n#4P:s<nM M?agem,\n#5Educ P\n# RZ_n pXviA9mHuI@\n<0F> PSYCHOLOGICAL CONSULTANT\n 1 \nMIND MIRROR c)n\"vPuabS tUl *psyRdogYP wEkI1@PSYCHO-DIAGNOSIS: Staff memnr9c)cJpC8Dee view9'^cw,I2@INTERACTION: cw,\n. c)cJpC8DAghtsI3@CLIENT INSIGHT: Teyh<0E>cw, MY}-Sc`8h\\/qr view9'klfFh\\tEyFshntY?;oD:sI4@PROGRESS: Staff\ncw, pr;R?g-*cArk 'cAnkwngI5@GROUP ENCOUNTERS: G}m memnr9cJpC82csti<sI6@SIMULATIONS: Pu;.rklf\n<0F>cw, *^vCiZB'}Ss@ c)Si vPuabS =s sI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      3
+    ],
+    "text_sha256": "45bb60d5a3d2c2621551d3b0b6076ac7a31722d0ffe2d7fa8bc03dfa3527d03e",
+    "byte_offset_hint": null,
+    "prose": "NQFkSc;<0F>goP: 0MIND TOOLS\nPsyRdogYP Ins sFCCe:\nP}ductgOyFLeCn SkblsI#3MIND PLAY\nShntY?;P_suOsFS`h\\tYN>\nHei FfFThAgh;GamGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "60a05a5c305ad81661262ebf4bbc3613d7a7de723ee484e1823decd91e42135d",
+    "byte_offset_hint": null,
+    "prose": "M=KTUl9 Lt8Pznn%ISMec;)Ce^ Expr]ti<: 0PSYCHOLOGICAL INSIGHT\nM=d-Sc`8<0F>wf82fE~ncG\npatFpXkntFfut_eI#1CAREER PRODUCTIVITY\nReview <0F>cCe$RoYGFjob\ndec\\i<sFoffY8Xzti<WipsI#2EDUCATION\nUk M=KMe}r *^vCiZBof\nSCn sOu sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "22ef1c2d60513a2bd5af7c89115e1c79914650f0e1be8c9e2dd797afd5560e4d",
+    "byte_offset_hint": null,
+    "prose": "SMec;D8Ce^'PsyRdogYP Ins <0C>w\\h exprX: 1SELF REFLECTIONS\nMY}-Sc`8.rklf *vCiAs\nwf8sOu sI#2AUTOBIOGRAPHY\nAnPyz8pXc\\8navh P\nprt9'<0F>Lt8H\\tEyI#3HOME LIFE\nCxr;<0F>R?g Xzti<Wips\n <0F>hAk~tGI#4MATING GAME\nSc)<0F>}~ntY 2fE~ncG,\npa;?KpXkntI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5,
+      6,
+      7
+    ],
+    "text_sha256": "3662039de3f6c991275ba04de6e6e9120613cc71ea6633a4ba4a651808d4b9fa",
+    "byte_offset_hint": null,
+    "prose": "SMec;D8Ce^'CCe$P}ductgOB. w\\h exprX: 4CAREER PLANNING\nPr;<0F>fut_0CJpC8possibS\njob9 <0F>2s<P skblsI#5WORK ARENA\nExprX offY8pdOY9?Kg}m\ndynamYsI#6DECISION MAKING\nAnPyz8<0F>Eg?iz P\nmovGI#7COMPANY STYLE\nRefSc;<0F>DAght9abAt\nD8wElcut_8. =xbOI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEM__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEM",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      8
+    ],
+    "text_sha256": "1a3bf6611e62a782bc220f0054ef4507def15c12607a496c4005c8e5857f4b4e",
+    "byte_offset_hint": null,
+    "prose": "SMec;D8Ce^'Educ <0C>w\\h exprX: 7LIBERAL ARTISTRY\nSc`8<0F>DAght9abA;bUks,\nauDEsFRCyt:sFCt\\tsI#8PHILOSOPHY AND SCIENCE\nRe-C<Lruc;<0F>D=k abAt\ng1;nam-?Kg1;DeEiGI#9SOCIAL GEOGRAPHY\nSc`8<0F>DAght9abA;xbONsI ~Bn a~z&6D8XsutsI#:HISTORY\nC1t8<0F>DeEB'h\\tEB?d\ncJpC8O <0E>ex2tsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "HYPER-MANIC",
+    "option_marker_count": 16,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "e2085fc1a0ffe971fc254f7fa87c7cddf0a6eaec21f29fc007bfddae1fb40500",
+    "byte_offset_hint": null,
+    "prose": "Cqcl 3 1 1 /DG8scPG:3NQ dGcrin 3 2 1 :3NQ dGcrin 3 3 1 :3NQ dGcrin 3 4 1 :3 #11 PEPPY\n HYPER-MANIC\n LAID-BACK\n LOW-ENERGY\n #12 INTENSE\n AGITATED\n LOW-KEY\n TRANQUIL\n #13 SAD\n MELANCHOLIC\n HAPPY\n EUPHORIC\n #14 HESITANT\n LISTLESS\n GUNG-HO\n WHOLEHEARTED\n #21 BOSSY\n DICTATORIAL\n SHY\n PASSIVE\n #22 COCKY\n HAUGHTY\n CUTE\n EAGER-TO-PLEASE\n #23 GRUMPY\n HOSTILE\n SWEET\n CONGENIAL\n #24 WHINING\n COMPLAINING\n ENCOURAGING\n NURTURANT\n #31 KNOWLEDGEABLE\n INTELLIGENT\n DUMB\n IGNORANT\n #32 ORGANIZED\n EFFICIENT\n FLAKY\n DISORGANIZED\n #33 CLOSED-MINDED\n LITERAL-MINDED\n IMAGINATIVE\n ORIGINAL\n #34 BY-THE-BOOK\n NARROW-MINDED\n INGENIOUS\n INVENTIVE\n #41 V.I.PI ARISTOCRATIC\n SOCIAL-NOBODY\n INSIGNIFICANT\n #42 PROPER\n PILLAR-OF-THE-COMMUNITY\n ROWDY\n REBELLIOUS\n #43 STRAIGHT-ARROW\n INHIBITED\n FREE-LIVING\n SOCIAL-MAVERICK\n #44 SQUARE\n SMALL-TOWNISH\n SOPHISTICATED\n COSMOPOLITAN\n ^ !---!---!---!---!---!---!---!\n^ Nev$ RCMB OftH Alpys\n 1 \nSPACE BAR fwp9ntweH PLAIN TALK\nSHRINK-RAP (psyRdogYP) wEdsICURSOR LEFT (E J)\nRIGHT (E K) mov8D8sc`e-C}w y}s9D8scPeICURSOR DOWN (E M) mov-tTnex;scPeICURSOR UP (E I) XcPl9pXviA9scPeI 3 \n CONTROL-R Xtriev-^subject\n pXviAslBsav>I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "f609a89447dd6febf683e3cbe02ffc050301e6ed92c2ec27b159cd5bcb6884bb",
+    "byte_offset_hint": null,
+    "prose": "<0E> feL ThAght-Pzn8.'v8c1t&# 2 BIO-ENERGY 1 Fi.e.: wf8fEceFmUdFvOPOB?Ktem2am,I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "dabc30e5e56cd5704b74417274cd455691861dbab283a0a18f5e8f53ac31da01",
+    "byte_offset_hint": null,
+    "prose": "<0E> kc<KThAght-Pzn8.'v8c1t&# 2 EMOTIONAL INSIGHT 1 Fi.e.: =t:2s<P LyS\n?gS '|p}yh oD:sI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "d44fc6028272228d521a6a847420b63985899c4aadd63091d10b752af5e0bef1",
+    "byte_offset_hint": null,
+    "prose": "<0E> DeKThAght-Pzn8.'v8c1t&# 2 MENTAL ABILITIES 1 Fi.e.: kvwSdgeFc1tgOyF=fE~ti/g]spF?Koag= I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "3c853302902f1843e54439e8e17d011312b35f1c58919066b599897194e4626d",
+    "byte_offset_hint": null,
+    "prose": "<0E> fArD ThAght-Pzn8.'v8c1t&# 2 SOCIAL INTERACTION 1 Fi.e.: czssFtd:?ceFs`h\\tY \nmEP c<v,i<POyI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEK__0012",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEK",
+    "realm_hint": null,
+    "title_hint": "*** IMPROPER FILE OR FILE NOT FOUND ***",
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "4cff7ae11e6ca9d0129edd7962ce88daf1855ba7c8c044a79f53280ec729c1e4",
+    "byte_offset_hint": null,
+    "prose": "*** IMPROPER FILE OR FILE NOT FOUND ***\n Inkr;GAME DISKFDH pXs9RETURNI<0F><0E>\nWAlK. 78to: 0DTAlt:nN8Ex:c\\e\n\n#1Sav8D82s<POBof\n 1\n#2Sav8D82s<POBof\n 2\n#3Sav8D82s<POBof\n 3\n#4Sav8D82s<POBof\n 4\n#6PzBLIFE SIMULATION\n\n#7RZ_n D8Ma*MHu"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKA__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKA",
+    "realm_hint": null,
+    "title_hint": "SELF REFLECTIONS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d7e313d5285177e06d92681aa9ba644b7738cf62159e436ee7d22aa11571a890",
+    "byte_offset_hint": null,
+    "prose": "SELF REFLECTIONS\n\"In\"~gY me}r w8k8XfSct&v;<lBAr wvGFbu;D8wv-'Pl mH xv8nH@Wqn I D=l/D#~jGtY DemeFmBey-dazzS.\"\n<,17>- Owv$WHdMl HdmG\n\nMIND MIRROR HabS9. ~gntB?KXfSc;<0F>DAght9f}cdaBtTdaBabA;?Bt`Y@Isn';pXc\\8D=k abA;<0F>klf<0E>moL baY tUl ~nag <0F>wf8succGsfuly?\n\nChUk <8'D8fdrw ex:c\\-*D8C;'yc_N8klf-XfScti< 0EXERCISE 1@SELF PORTRAIT\nCJpC8<0F>klf <0F>[ePI#1EXERCISE 2@SELF-RANGE\nCJpC8<0F>nL\nwEL klvGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKB__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKB",
+    "realm_hint": null,
+    "title_hint": "AUTOBIOGRAPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "aad51ca946b20ad50ea3e341233c87d10d298ca037940ca3841088eba7eb720b",
+    "byte_offset_hint": null,
+    "prose": "AUTOBIOGRAPHY\n\"L8sE;faO S9pC,sFS Roix faO S9am\\.\"\n(FN8RUk9Ar pC,sFw8RUk Ar friHds.)\n<,23>- Jyqu-DMbS\n\nIn Xc<Lruct <0F>Lt8H\\tEyFXzti<Wip9 <0F>pC,9C8'cruciP opEt?c0StC;bBsc` D8c_Xn;sOu @If <0F>pC,9C8v;PgeFsc`8Deca<0C>view DecvwI\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@YOUR MOTHER\nCJpC8qr <0F>[eP MJI#1EXERCISE 2@YOUR FATHER\nCJpC8ho <0F>[eP DiI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKC__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": "HOME LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "8dab063751442db126bebb8172ec831eeb657106a44e24f6feff9c513422beb6",
+    "byte_offset_hint": null,
+    "prose": "HOME LIFE\nWqX c?';. gTaga=Fjhg>y-jog? WqX do-RCOBng=? WqX dT<0F>fUtLs9t_n f}cpnd: /^fEehn L]nd? #^necGsCBevb? #^cJmfOB'twTE mE8szvG? #^damnablBkriA9bus=Gs?\n\nUk<0E>Me}r f=KAt@ moL opEt?;Gam-'Lt8C8oftH 5y&A;6HOMEVH:e(^R?c8 . czrtB<0F>D=k abA;<0F>c_Xn;hAk~tG@ChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@HOUSEMATE vs@IDEAL\nCJpC8pXkn;?K[ePI#1EXERCISE 2@HOUSEMATE vs@SELF\nCJpC8<0F>hAk~t8?K.I# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKC__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "3e7c1d6071b06f5b5417ee6d383709ee23796cfc1db2ca6ffddade6bf5f0f5f9",
+    "byte_offset_hint": null,
+    "prose": "EXERCISE 1@HOUSEMATE vs@IDEAL\n 1 \nYOUR HOUSEMATE: A pGso\\;<c8sa[ \"wv togZqr #78^fiMK'bNtS\nv;^nK'}ks.\"\n\n (<0F>`=i<? Typ8*D8nam8'sJe<8 jJ<0C>wv8E xv8wv>I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKD__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKD",
+    "realm_hint": null,
+    "title_hint": "MATING GAME",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "74dcd8368ec033d2f34b1f7e6e8f1cfdacc7083b181603de6dae6c34397f39b0",
+    "byte_offset_hint": null,
+    "prose": "MATING GAME\nF=PlBO(Crg>!\n\nAn IntMwgHc8Appw?c8 qlp9u9fd:L?K moL myL:iA9'Pl ev,s--D8Lov8GameI\nAnNd8F]nc8prn&DNF\"Lov:9jTrv8truBdTv;wrO8dQn Dee xpp=Gs.\" Bu; doGn';|plBtT.I\nPSa8RUk <8'D8fdrw ex:c\\-*D8Ar;'Love 0EXERCISE 1@CURRENT LOVES\nCJpC8<0F>rv8?K<0F>[ePI#1EXERCISE 2@PAST LOVES\nCJpC8<0F>feL\nnL rvGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKE__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKE",
+    "realm_hint": null,
+    "title_hint": "CAREER PLANNING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "4cbfa1914526ddbe64b863fe3e7fa95649b6dbdda61287eb0123c16efd342dd4",
+    "byte_offset_hint": null,
+    "prose": "CAREER PLANNING\n Z:nP quGti<@\" dT. pn;tTn jH<0C>g}w m?\" RoY8'^cCe$#oftH ~d8e]ti<PlyFbwndlyF A;yc_N8XfScti<I\nIn D#kcti/. c)Eg?iz8<0F>D=k abA;D#opEt?;`ti<I\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@CAREER CHOICE\nCJpC8<0F>~*cCe$RoYGI#1EXERCISE 2@JOB CHOICE\nC<t]L twTd\\sobC jobsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKF__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKF",
+    "realm_hint": null,
+    "title_hint": "WORK ARENA",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "fed71bd3d2c7d891c3a1bfad5fbddb04864d3959c739185ade83dccbe95b924c",
+    "byte_offset_hint": null,
+    "prose": "WORK ARENA\nMuR 'wfe(fxpp=G9#gH:N&/D8job--offY8pdOYsFpUr cJmfY sFfautB~nagem, skbls@J!5*hu~n my`iaI\nBu;sJ8'D8hhqL mJ,9*wf8c)occ_ jH<0C>C8pC;'^teac #mGh smUDlyI\nMIND MIRROR c)n\"vPuabS tUl *czrty DAght9?Kop}v cJmfY *D8WElAXna@ChUk <8'D8fdrw =t}ductEBex:c\\-*offY8pdOYs 0EXERCISE 1@THE BOSS!\nCJpC8<0F>bos9 ?oD:I#1EXERCISE 2@YOUR TEAMMATES\nCJpC8twTcdSaguGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKG__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "DECISION MAKING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0a5842882bc7ef545e443d208179e8246df28e218adef0a997806fb651f62634",
+    "byte_offset_hint": null,
+    "prose": "DECISION MAKING\nW8dTtHKtTXt_n D8Z:nP dec\\i<-~k dbem~ 'HamSt@\"TTn E v;tTn: #D8quGti<: WqD$'t#vbSr *D8m=KtTsuff$D8swng9?KC}w9'At]geA9fEtfeFE t{8Cm9aga=L\"k^'t}ubSs...\"\n\nEffectg8dec\\i<-~k c)n yhiev&bBpXc\\8D=k ?KcSC cJmfY I\nH:e(D8feL RPSng dec\\i<@SMec;<8'DG8ex:c\\G 0EXERCISE 1@SCOUTING A CLIENT\nCJpC8<0F>cw,\n.rklfI#1EXERCISE 2@PROSPECTIVE EMPLOYER\nCJpC8)empry$?K.rklfI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKG__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKG",
+    "realm_hint": null,
+    "title_hint": "EXERCISE 2@PROSPECTIVE EMPLOYER",
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "70d5877a5dca9190eb0a463a1cc01a96cccbe176a6c42642cc887b3a8b20832f",
+    "byte_offset_hint": null,
+    "prose": "EXERCISE 2@PROSPECTIVE EMPLOYER\n 1 \nSmpok <0F>bh dec\\i/=vdv-hQ gTabA;gZt ^g1;job@Uk<0E>MY}-Sc`8tTqlp c1t8<0F>gam85n D#ev,I\nTHE EMPLOYER: FeL typ8*D8nam8'D8p}spectg8empry$jTwbl ~k8D8cruciP dec\\i<@Sc`8hQ <0F>scAt XpEt9suggG;D#2s/wbl 2fEmI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKH__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKH",
+    "realm_hint": null,
+    "title_hint": "COMPANY STYLE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "e187e9363586ac935694f04b739b7f56f33cd1d0d94b7323152263dd7a9f5943",
+    "byte_offset_hint": null,
+    "prose": "COMPANY STYLE\nEnve<m, =fluHc-nxviE@ Eg?iz jYh<0C>wElc)xv8)HEmA9=fluHc8/<0F>wf8?K<0F>wMl n%I\nInLOuti<sF78pe`SFvCB*2s<POy@In D#kcti/. wbl SCn hQ sc`8<0F>wElHve<m,\n<0F>Xsp<k9tTOI\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@YOUR COMPANY\nCJpC8<0F>cJp?B?K<0F>[ePI#1EXERCISE 2@RIVALS\nCJpC8<0F>cJp?y(rgPsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKI__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKI",
+    "realm_hint": null,
+    "title_hint": "LIBERAL ARTISTRY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "776f1b76344998d6483e07447b179e855085ba11bc054a239853c7d5626063c9",
+    "byte_offset_hint": null,
+    "prose": "LIBERAL ARTISTRY\nMIND MIRROR c)n\"ukfu tUl *Hjoy ?Kfd:L?d wt:N_eFwrO:9?KCt\\tsI key:<0E>Lud, (?KevH<0E>=tMwg, teyqr) ncJ-)ytg8pCtYip?;*D8SCn iv,_0 fd:L?d 'bUksFRCyt:sFpr;devM`m,FauDEsF?KCt\\t9R?g-(mea_ably) f}cweeltTweekI\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@AUTHOR COMPARISONS\nCJpC8twTsobC auDEsI#1EXERCISE 2@CHARACTER COMPARISONS\nCJpC8twTd\\sobC RCyt:sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKJ__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": "PHILOSOPHY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "285026b003a1fab75be8e98e9a90e2df2e7718a6044ff82b42aae476d9afed62",
+    "byte_offset_hint": null,
+    "prose": "PHILOSOPHY\nSCIENCE\nMIND MIRROR HcA]g-. czrtB?Kpr;<0F>DAght9abA;D8G1;IssuG@Actg8c1ti/X5c-pasg8SCn%@ g1;phbos`qr9ex\\;<lB*D8m=d9'hu~n9jTRUk D=labA;Dem<08>C8=vO&tT2fEctwTbaY ex2o,9*=t:fy <0F>m=K <0E>G1;OnG!\n\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAVORITE PHILOSOPHERS\nCJpC8phbos`qr9jJ<0C>imeeI#1EXERCISE 2@FAVORITE SCIENTISTS\nCJpC8sci,\\t9jJ<0C>XspectI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKJ__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKJ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "0795cb4ebb6634bda57547ee90fc20e71630fa66e79f32cf3c7d735aa8ea257f",
+    "byte_offset_hint": null,
+    "prose": "1dBtTM=d-Sc`8D8g1tG;DAght9?Ksag-'D8hu~n ]c0TxnlGodV XpEt&tTHei-QuCt:9j!6D8to8jH cSC D=k #1llBne>>I\nFAVORITE SCIENTIST: Typ8*D8nam8'^sci,\\;. imeeI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKK__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKK",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "010e724e2b2ebbbf93eef38d986eaabe311f1a1fe8e491e117f17882aa5a76a5",
+    "byte_offset_hint": null,
+    "prose": "^ddph=F. w<';n xppB*D8Sax]@M?Bpe`S wv8wXtR&E dul wv-fapX 'D8pQ:fu effec;'Hve<m,I\n nex;twTex:c\\-~Bqlp<0C>fd:L?KD8effec;'xbO6*hu~n wf0ChUk <0F>feL psyRo-geog]phYP M=d-Sc`e: 0EXERCISE 1@OPTIMUM HABITAT\nCJpC8dtf:, Hve<m,sI#1EXERCISE 2@LIFE TRAILS\nT]cl<0F>wf8mh]ti<I# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKL__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKL",
+    "realm_hint": null,
+    "title_hint": "HISTORY",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "48ee71bc99e39f03e09cdabf4d86ff3e3b752c345c276b14f4afcde22e45a313",
+    "byte_offset_hint": null,
+    "prose": "HISTORY\nA9KCl MCx sa[: \"H\\tEBnrng9tTq jTwrO-O.\" MIND MIRROR fX-. f}c^pasg8ycst?c8'\" Ex2t's\" v:si/'ev:yD ?KPrw9. MAKE UP YOUR OWN MINDI\nNQ O(YOUR Xsp<sibbOBtTwrO8h\\tEy<08>c)Ppy9X-r O!\nUk<0E>CURSOR kSc;^triP rf 0EXERCISE 1@PRESIDENTIAL CAMPAIGN\nCJpC8twTc?d[NGI#1EXERCISE 2@HISTORICAL FIGURES\nCJpC8twTA+StC H:oGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKM__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKM",
+    "realm_hint": null,
+    "title_hint": "RELIGIOUS TOLERANCE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "6184434d24e243b25d7ef0df4a73164a9b07f986fb9f279ca853f4a8369ad40a",
+    "byte_offset_hint": null,
+    "prose": "RELIGIOUS TOLERANCE\nAccEd tTJam-Mi\\<F\"RMhiA9=td:?c8x9dg[&~nk=K=tTpCtiGF=fzm&Dec mutuP ?oosOyF?KXnd:&DecmuR mE8d\\pokKtTvex\n`pXs9eyh oD$D)tTcU2N8 D8cJm/gUd.\"\n\nCJpC XwgiA9nwef9c)Si wvMBd\\cussi<sVMIND PLAY c)qlp czrtB[ea abA;D#Drbwng fiMK'DAgh;?KfaOhI\nPSa8RUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAMOUS PROPHETS\nCJpC8twTXwgiA9p}pqtsI#1EXERCISE 2@FAMOUS RELIGIONS\nCJpC8<0F>Xwgi/ ?oD:I# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKN__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKN",
+    "realm_hint": null,
+    "title_hint": "POLITICAL PARTYING",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "f112d5420b5085b2b50ba32c880214e32bcaf44c20735b51fb118efe78fa830f",
+    "byte_offset_hint": null,
+    "prose": "POLITICAL PARTYING\nSJ8pdOYi?9xv8p}v&DNF\"In pdOYsFD8scucr\\- t`\nc<gePs.\" In D#kcti/. c)cJ8tTfd:L?KhQ D#wEk9*<0F>Qn m=K?Kxv8sJ8xrmSssFk=kBffI\nPSa8kSc;jYh ex:c\\8. w\\h try 0EXERCISE 1@POLITICIANS\nCJpC8D8gUK?KD8biI#1EXERCISE 2@POLITICAL PARTIES\nCJpC8<0F>pCtB?KO9rgPI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKO__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKO",
+    "realm_hint": null,
+    "title_hint": "FILM AND TV MADNESS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "b1619b997546a47e7763620f051dfbbd38b3084e20a20ce91f20223f114a0a76",
+    "byte_offset_hint": null,
+    "prose": "FILM AND TV MADNESS\n av:ag8Am:Y)ptR-TV 7 hAr9^day@Plu9moviG@FE moL Am:Y?9D8Luff /D8XM #mE81l D) ReP@DT. dC8pul <0E>cov:9'<0F>m=K?Kexam=8<0F>DAght9abA;Ar scXH q}G? If<0C>C8v;squeam\\h E fa=;'qC;RUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAVORITE STARS\nCJpC8twT'D8g1tsI#1EXERCISE 2@FAVORITE HEROES\nCJpC8twTscXH RCyt:sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKP__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKP",
+    "realm_hint": null,
+    "title_hint": "POP STARS OF PRINT",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "a625725312d0c0e14728eca796a86b680eeed5e922907947fb984db851cdddf5",
+    "byte_offset_hint": null,
+    "prose": "POP STARS OF PRINT\nGeEg8Ma/(1725-92) sa[ O wMl@\" fX>J 'D8pXs9#<8'D8g1;buprk9'wnrtyF?Kc)nev$n XL]=&bu;bBdGpotY gov:nm,s.\"\n\nAnD<BT}lrp8czo& D8\"2iodYP pXs9#D810D mukF^pQ:fu XfScti/'<0F>LN8'm=d.\"\n\nChUk )ex:c\\8=vdv 2iodYPs 0EXERCISE 1@MAGAZINE COMPARISON\nCJpC8<0F>favEO8~gaz=GI#1EXERCISE 2@NEWSPAPER COMPARISON\nCJpC8<0F>favEO8newsp|:sI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKQ__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKQ",
+    "realm_hint": null,
+    "title_hint": "THE SOUNDS OF MUSIC",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "d9954053996beea84850d0f39cc26d7366eedc53735724d380d298d1fb0def7a",
+    "byte_offset_hint": null,
+    "prose": "THE SOUNDS OF MUSIC\nL<gfMrw w}te: \"MusY #D8fg:sP znguag8'~nk=d.\"\n\nJoi HHdrix s?g \"G1;musY m!expXs9D8DAght9?K=spe 9'D8pe`S\nD8toe.\"\n\nWhTC8<0F>pe`S? Wqn #<0F>toe?\nChUk <8'D8fdrw ex:c\\G 0EXERCISE 1@FAVORITE MUSICIAN\nCJpC8twTmusYi?sI#1EXERCISE 2@FAVORITE GROUP\nCJpC8twTmusYP g}msI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKR__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKR",
+    "realm_hint": null,
+    "title_hint": "COMPUTER GAMES",
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      7
+    ],
+    "text_sha256": "c288ecf8039191d0004b867c698ffefa065a62442d0c08881c8ccf0436f15afb",
+    "byte_offset_hint": null,
+    "prose": "COMPUTER GAMES\nWa O Azn T_ jTsa[F\" CJput$Bus=G9*1986 #78D8Auto-Mobb8InduLrB'1921?\"\n\n go;bh ~nufyt_ cJp?iGFb]W DZ}O executg- A;^clueFn:KHg=e:sFbrhi-'sPGmHFCmi-',husiat-ukr9jTC8\"=tTcJput:s,\"\n'cArk<0E>bus=G9ukrs@TqBPl kvw<0E>|pwc 9'D82s<P ESct}nY Auto-Mobb0Or dTDey?\n\nPSa8kSc;)ex:c\\e 0EXERCISE 1@COMPUTER STARS\nCJpC8cJput$=duLrBg1tsI#1EXERCISE 2@COMPUTER SOFTWARE\nCJpC8cJput$gamGI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKS__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKS",
+    "realm_hint": null,
+    "title_hint": "THE SPORTING LIFE",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "147494bc409e0ea37c65f9c52d2627bb7491d9f04586fefc5dd1f066231273f6",
+    "byte_offset_hint": null,
+    "prose": "THE SPORTING LIFE\nAccEd tTWMwngt<F\" bNtS 'WN:rTp9w//D85y fiMd9'Et<@AnKO p9rL /D85y fiMd9'F]nce.\"\n\nA;^to8jH q}-C8*WE;smplyFNhSt-?KhJe-tQn team9krv8v;<lBa }S modMsFbu;PsTa totem9?Ksymbd9 tribP rgPri-?Kvbzg8myDsI\nMagntB<0F>DAght9abA;D#fiMKbBRUs )ex:c\\e 0EXERCISE 1@PLAYER COMPARISON\nCJpC8twTNhStGI#1EXERCISE 2@TEAM COMPARISON\nCJpC8moL\nSa;favEOeI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKT__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKT",
+    "realm_hint": null,
+    "title_hint": "INLAWS AND OUTLAWS",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "ea99dd9c90aa5eb023ddf74db1940af5817335b2044ac30949f6e1d8bbc23e64",
+    "byte_offset_hint": null,
+    "prose": "INLAWS AND OUTLAWS\nIn \"SympNhB D8Devb\" MYlJagg$s?gF\"Ev:Bc`(^cro=P\nPl <0F>s=n:9sa=ts.\"\n\nGbnr;?KSuwv)zm,>: \"Wqn c<LabuCBduty(tTn d<eFD8pdYe~n(r;#v;^xppB<e.\"\n\nH:8. C8offYiPlBXquGt&tTc<fG9<0F>tru8DAght9abA;=zw9?KAtzw9bBRUs <8'DG8ex:c\\G 0EXERCISE 1@FAMOUS COPS AND OUTLAWS\nCJpC8^gUKguB?K^bi guyI#1EXERCISE 2@FAMOUS GANGS\nCJpC8c` g?g9?Kcro8g?gsI# RZ_n pXviA9mHuI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKZ__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "cfa01d46659a0fa978427a96f7d75205c33d40b855405116abafe473440bdcc9",
+    "byte_offset_hint": null,
+    "prose": "x:3 WAlK. 78to:\n#0Rse6AUTO-PLAY\n\n#1Sav8D82s<POBof\n 1\n#2Sav8D82s<POBof\n 2\n#3Sav8D82s<POBof\n 3\n#4Sav8D82s<POBof\n 4\n#6PzBLIFE SIMULATION\n\n#7RZ_n D8Ma*MHu"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILEKZ__0021",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILEKZ",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7
+    ],
+    "text_sha256": "c9ebf246e184d5f6d949ac9084d42f4f8549c0f76c6352863f07423f985f3394",
+    "byte_offset_hint": null,
+    "prose": "a kH by3 x:3 WAlK. 78to:\n#0Rse6INTER-PLAY\n\n#1Sav8D82s<POBof\n 1( \n#2Sav8D82s<POBof\n 2( \n#3Sav8D82s<POBof\n 3( \n#4Sav8D82s<POBof\n 4( \n#6PzBLIFE SIMULATION\n\n#7RZ_n D8Ma*MHu"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILES__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "8f890a219ff0c1ff6bd253ac4165aaec24b8112342f44eb4ec449467959fd73e",
+    "byte_offset_hint": null,
+    "prose": "WAlK. 78tT5BLIFE SIMULATION a:3 #1 1\n#2 2\n#3 3\n#4 4"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILES__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "b0384394907e79075249890fd5d97afbf8aa6efd41bbe750fed7b1eec9406c9b",
+    "byte_offset_hint": null,
+    "prose": "#1 1( \n#2 2( \n#3 3( \n#4 4("
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__FILES__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "FILES",
+    "realm_hint": null,
+    "title_hint": "FLIGHT PLANS",
+    "option_marker_count": 3,
+    "choice_digits": [
+      1,
+      2,
+      3
+    ],
+    "text_sha256": "6d342b3e7e42a0c46ac9b8011cc1f30090a8a17f66f3c5810bf8319e0ee860e8",
+    "byte_offset_hint": null,
+    "prose": "FLIGHT PLANS\n 1 \nNOVICE: PzB *zrg8w=-EbO /M=KM|s@Sts-by-Ls \"Hei-Coyh%\" deect9. tQCd9<0F>DAght-goPI\nEXPERIENCED: S~+w=-EbO9/M=KM|s@Fat$5y@Opti<P ycG9tTM=KM|s@NT\"Hei-Coyh%.\"\n\nWIZARD: NTw=-cecS@FlBbBD8kN-of-.r-=tuOi<@M=KM|9avababS <lBaft$.'v8cJpSt&^1lmI\nChUk\"5n <0F>Lt8Sou 0NovYe\n#1Ex2iHc>\n#2WizCd\n#3RZ_n ~*mHu"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__RESTORE.OVR__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      2
+    ],
+    "text_sha256": "eb5f80c107677e1b3f07b8f6792392ba63f91d30a5e042e0d96065238c2924dd",
+    "byte_offset_hint": null,
+    "prose": "$%<0F>(<06><0C>E)j<0E>\n ,<0C>C. @)j<0E>,g^)B# 1AX[ %B# 2AX[ %B# AW= %B# @Xk @\" VY\"@)C#\n \n ,xN."
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__RESTORE.OVR__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "b6503db54364f57891a5f86468a412c5384d155d6bb62356faf15eada09d5a57",
+    "byte_offset_hint": null,
+    "prose": "\" ~ XE @XL @\" V-\" ~ <0C>K<0C>;(<06><0C>$<06><0C>P(<06><0C>Q3\t,4T$<06><0C>P(<06><0C>Q3\tD4T$<06><0C>P(<06><0C>Q3%B#4T*<06><0C>@4T@)C#<0E>n\"<0E>K<0C>,$k."
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program__RESTORE.OVR__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program",
+    "file_name": "RESTORE.OVR",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "1ecca24b23d14b226ed6fa110daa4543f1142132f3079253d58c9d90bb2b9718",
+    "byte_offset_hint": null,
+    "prose": "$E<0C>X \"*E<0C>,jt. %C#W<0C> $E<0C>X<0C> A\" %B# 1@W<\"% <0C>XY\"\n \n ,xN."
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILEC__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILEC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "7d6a1f2f9c9a657d6aad7c583735a4b3c45adfb00961f3f750c8e9fde0eb66b6",
+    "byte_offset_hint": null,
+    "prose": "ChUk<0E>RePc. w\\h ,:: 1 Bio-En:gBRePm\nWqX Lt8FEc8#dGt=yI#2 Emoti<P Ins RePm\nInt:2s<P skbl9C8tGt>I#3 M,P AbbOi-RePm\nPu;<0F>s~rt9 tGtI#4 SociP Int:yti/RePm\nTrBA;<0F>Cut_P SkblsI@\n <0E>In<0E>RePc'Bio-En:gyF. wbl exprX<0E>Orh=9'Lt8FEc0HQ d[ wv8DG8cruciP eClBmJ,s...I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE100__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE100",
+    "realm_hint": "bio_energy",
+    "title_hint": "EXIT THIS REALM",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "18808c40359eb2668bba02dd42cdb1a91f210db37a02c0250b26994177c0f4bf",
+    "byte_offset_hint": null,
+    "prose": "EXIT THIS REALM\n ~BSav8D#1lc6?Bto0If<0C>xvH';5y&^z<eFv scE8wbl n ggHI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE11A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "38a7651f5e823df1508aa3c5cb3d47ef51a13d54ece5d07c07f9aaf57a0b13a7",
+    "byte_offset_hint": null,
+    "prose": "NQF FjYh dT. pn;tTn?3!#6 apO eggI\n<0E>ST. pn;tTn )eggFdT.? OKF FSt(LC;A; pB?Kk8t<0E>ydk(/. 2A whgwng s2mI\n<0E>ST. pn;tTn\"s2mFdT.? OKF FSt(LC;A; pB?Kk8j6xppHs 4NeOqr <e--jBboD$ D\\\nwfe-?d-c<csti/bus=G9?ypyI<0E> ~Bn =dtf:, O PlF Fbu;D8truD # . LCt&A;a\" ?K)egg\nDN(^whglBfy;.'+j!xv8tTwv8 8EOqr <e--boD C8g1;cCe:\n`pEtfOiG!\n<0E>I 78<0F>,husiam@J! DNF F.'+gZ n boD"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE11B__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11B",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "6102699b250e8127c41b23534f41d9afbc9592e18c800c4cb5429a2bab8a01fb",
+    "byte_offset_hint": null,
+    "prose": "abS 3 )JMZt8'grJ@YA\nd<';pn;tTn c<ceg>I zL egg cJ8D#pBsa[ We'Kn JUST LIKE A VIRGIN@Bu;D8rumE p9W8p9c]wwng s2m@C?';tr!?y<8jH<0E>hEm<-LC;frw% 5HThum@Yawn@It(^fPk PCmI t_n ov$?KgT sSsI c:ta* <0F>z[- OvCi)Modu8d[n';=vO8?B ov:@ST. dec[8tTj!zzzzzzzzzz 7WhUpeeVWhT. g<n^cPl? S2m\nCat%V a=';af][ 'v DNA!\n kvw <0F>kxBFe~S LafR UnO x9Nt]ct&^hEnBEjyu Team@Wh\\twng Re:fulyF. skip dQn<0E> Tun )egg ly *OvCBDEc#1 *^cozBslumnr@ F:tbiz ASr;cJ-f}cOvCi)C,]l@A sRUl ' x9nH s &}fd CqclPo=;Wozni{ 1 kmi-pHZ]bS memb]n8UzG\nexcOem, Dee CrgPI swp /<0F>\"k>-me-sabE\" blu8gH-?Kfr6/dQn DCw='sFj:8. wgh;m\"LC~rcl100\nEd$Pq}m<8Cocktabs@FE two 3BeD C<t}l@PopSs@DCw=@ \nR?c8dT. xv8tTbX>?\nGHZY MM?Rdia@MHLruP bluG@ C_k@ Tamp/T:}r C]mps<08>pn;tTb_L =tTfc<cegablBsi sobs 5LaBrw@Do <0F>wght@Mayn .\nc)avo[<0E>F:tbiz PN}lI gT sSs ftb\"teac'GHZY Eng=e:9b_L9=tT<0F>fdwcSFLrip9off <0F>prccov:9?Kknd9. dQn<0E> Tun 7YA'v8nev$fM;ntt$*.r\nwfeIFAr bbw/yeC9'evduti/x9p}duc&.--^sweZFripeFfruO-brssJ xng pXgn?tlBf}cD8TX8'Lt0KvclM8UpFzd!3@\n 3Egg UpdNe: feL CrgP9'D8S2~tozo^FSZ C8WQ m@ s<C pYk9m Dee sPtBcriG@OhFdeC j6C8. go tTdo? 2Rf CAnK~dlBgZt dXskK?d\nev:yD%I Pl DumbsFbu;. f=PlBgZ <0F>~ke-m <@NQ"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE11B__0016",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE11B",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "1b4b73a80abd831916291c01ca0b722de4604074f52b1fd42342b100983dc2fa",
+    "byte_offset_hint": null,
+    "prose": "D8<8I pnt.\" feM 78s%%: 1\"I acD8Egg M?@I acW8?KWe\n#m8?Kw8C8Pl togZqr.\"\n#3\"MM?RdBBaby@ (LteFbu;a\nkc<d-xnKemoti<?\"\n#5\"HThum@I'c1llB<lBv:Bs~ll\n?Kwf8frw9 A;me.\"\n#7\"J!deec;mBfeZF sfny\ns[8'D8LXZ.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE13A__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE13A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      3,
+      7
+    ],
+    "text_sha256": "6196c624e5ae59721e678f89aa2b4222fbd0b5ff73a0d6287286346e0834339a",
+    "byte_offset_hint": null,
+    "prose": "&TO: Ut:=8C,]l\nBio-LNu9?KPsyRY-H:gBC<dOi/#a fdrws: 1I feM AnoP VhE@Hhh Lte\nFEceI#3I feM feCfu\nsi 5I feM VegZNg8CPm@LQ Lte\nFEceI#7I feM saf8?KxppyI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE13A__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE13A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "c27c8ef8a8c82676b8405b562f99bd84e8f6eed1536943c153ced1db437c52ac",
+    "byte_offset_hint": null,
+    "prose": "DeC F<0F>GtoN8Xceg>@MaBD8fEc8n <0C>/D#2bA9m\\si<@GUKl4I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE13A__0012",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE13A",
+    "realm_hint": "bio_energy",
+    "title_hint": "&TO: DNA MARKETING",
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "b2c9a3cfca8827fa970b847aecf4f63e00e7e7645629ea3a25c4e9725f149b32",
+    "byte_offset_hint": null,
+    "prose": "&TO: DNA MARKETING\nDISTRIBUTION DEPARTMENT@I Lbl dTv;kvw<0E>ao 'mBm\\si//TCgZ PznZ@PSa8iv\\0C_Xn;LNus: I feM.... 2N:vAs@ASrt@Z|pBa\"kOtH <\n^ho;sk*}ofI#4DUm&tTn t]pp&/^qavy\ng]vOB5nZI#6H|pBa\"ban *Cm9rok%\ntruLfulB D8nL 'b1L!\n#8ZUm&tTn fX&f}cwJb\nc<f=em,I@\nDeC F<0F>GtoN8Xceg>@Ao '<0F>m\\si/wbl n t]nsmOt&*cod8sUn aft$<0F>CrgPI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE14A__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE14A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      2
+    ],
+    "text_sha256": "77d0652118fc397ec981c71304d976603a21d795d6bad8d06d65cdff1c181851",
+    "byte_offset_hint": null,
+    "prose": "c1t_8. ng*ghgwng .rklf apkH ^}J ful 'wght<08>qC cwnk ?KtPk sAnd9f}csJej:8*D8hAk@ (go /A;D:8* PiH wEld? 2 trBtTcwmb A;'<0F>crib so\n. c)gTReclD%9AtI Ntemp;fabs@Bu;t<0C>kes kYk ?KpuW ?KCR <0F> F.'+HKm 6D8HCvCKSRUl 'Bus=G9Adm=\\t]ti< 4 sAnKscC-.@ L]nge\nwElKdoGn';kecfriHdlyI cry d}wn9A;D8v\\0Txt(^gUKtrYltTSCn@If<0C>crBruKHAghF. kes f}cn scC><08>~BHKm ~k ^cCe$'D\\ 6 HjoBD8v\\0It(nY8to\nw8softlB?Kn ,:ta=>IAft$ajb8. ng*tToON8D8sAnd9. qC<08>~Bxv8d\\cov:&sJZh opEt?t<08>zB \nmoY<0E>nY8D%9. qC 8 LC;s% ?KbAnc =\nto8 <0E>sAndsI Re:Bv\\-ev,uPlBL`Fbu;. kes s% ?KbAnc%@TqX(^clu0 trYl#tTkes<0E>vin9bAnc P<g Re:fuly SuddHlB. qC fUtLs9*D8xll@SJe<8#cJ%VWhTdT. h`8O \\?3!#2 Didy!\n\n ly *<0F>crib ptR D8dUr@I9O busyFXLSs9fMrw kes9. jump H:gy? dUr `Hs... 6 MJmyI\n ly *<0F>crib ptR D8dUr@I9O L}ngFc<f[, zdBjTcuddS9.? dUr `Hs... 4NeOqr <e--.'+t{8^R?c8<\n^L]ng:I ly nh=KbC9h` <0F>pC,9xv8rf apBf}chJ0LZ(trBsJe<8new@ dUr #puW&`H... 8Br 'ecboD <V c?';gZ\nHAgh '^gUKD%!\n ly *<0F>crib h` Dey'+cJ8*Cm-=-Ccs% \"J!Lik8^Veg=.\" pn;tTjump\njo**D8ff@ dUr `Hs... 3 \n|peC9*qr dXss gQn@Sq smb-6.@ dT. pn;f}cqr? 2LZ(gZ go%V pn;tTn\nt{H Ats[8 sJ8excOem,!\n gZ sTexcO& . gZ <0F>qi L4 *D8crib@CPcdQn E .'+gZ kvw ~nBRe`]ctE9zt$*wfe 4 ne&b_p%FsTD8pa*=\n<0F>"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE14A__0022",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE14A",
+    "realm_hint": "bio_energy",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "2876f3ab2e8b8a6867c4c83b569651a15a1930d762b2b7c50a9beac5802f126a",
+    "byte_offset_hint": null,
+    "prose": "tPk Bh Shot!3@\n DidB|peC9*h#}n@Gr=n%Fq rok9dQn 6.@He(*^tea mUd@ bh wXtR pul9<0F>bznki8apBtTgZ\"1cti/f}c. 1 g]sp <0F>bznki8t lB \nboD xndsIH8srwlBpul9<0F>bznki8L] m *D8ae ftb q pul9. r A;'<0F>crib 3 LC;tTcryI\nH8L`9gr=n ?KSt9gT'<0F>bznki0H8xnd9. <0F>nY8]ttS<08>p}v&<0F>po=t@TeC9?Ksob9C8D8nL |p}yh DG8pe`S 5 ptR ho \"pasg8rokII;j!\\n';wED<0E>boD:ISee <0F>v;~k muR '^spE;'OFq gg-. <0F>bznki8?KLCt9~k ffnBfy-6.@WhBLruggS? 7 squeP dM 6D8new\ngameIH85y9 <0C> ^rng to0 =fectiA9`to\\c#^t]O wbl HdeC<0C>tTsJ8?K=f_iN8oD:9<06>A;<0F>wfe-toe <0F>Aft$xv h#ffFDidBSav-D8}J Wav8h#sc]tRBfy8?KDH ruW off <8'h#5BpH9sJej:8*D8myL:iA9Ats[0 kes9DG8g}wn m9go%? C8DeBrok *wfe? snuggS dQn *D8prcbznkZsFp<d: DG8cosmY puzzSsI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE400__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE400",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 7,
+    "choice_digits": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "183fb1c00bc51f183bb48522252c665197b456330050866fcd4ac16c99d0173c",
+    "byte_offset_hint": null,
+    "prose": "Tqk C8D8paskey9avababS .@ChUk <8tTt{8 .: 1An emboskKpCtB=vO \n#2A B?k:9Club memnrWip cCd\n#3A PTA memnrWip cCd\n#4A R_R memnrWip cCd\n#5A wMfC8MhibbOBcCd\n#6An aft:-hAr9bC cCd\n#7A frppBd\\k\n#8A Pzyto8Club key"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE400__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE400",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "b4eba6bd848d3b898fe2212fbd85a4762eeebfff4af8772f3b279457fdc5c602",
+    "byte_offset_hint": null,
+    "prose": "PXss D8(9) keBWQ9^M=KPr;'<0F>2fE~nc8 *D#1lmI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE43A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE43A",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "d8e06c4a58b14f6e67c26f6b49074b4a3bacf7b4f653993555e0981b0347b469",
+    "byte_offset_hint": null,
+    "prose": "5ceVI dTso\n78Lucco.\"\n Doc #fluL:>@\"CJ8=VTq\nbCncu&fib9C8/D8ry:.\" \"B8quiZFMax,\" say9h#wt0\"WAlK. shn<0E>buG;gUk?\"3@\n A9. 1R Dr@Max P|:tFq gXZ9. *^friHdlBRotCi)~nn:@H#wteFSqrryF#6^cCKtabS pas A;\"SmpE;YOUR L{eview PTA\" p=s@Sq xsn';kH<0C>6D8meZ%s 1\"HQ gH:A9'. `H .r\nhAk ^gUKcauk,\"<0C>sayITqBtrBtT5c8.Fbu;c?'t@TqBdTkvw"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE43B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE43B",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "58d505d8bbb67559f66e9dbbf0da5c0f241f36c27af0ae09ba9bac10023b3cfa",
+    "byte_offset_hint": null,
+    "prose": "wv }J #jamm& sdemn rok pe`S /fdd Raes@SJ8C8evH sOt /D8frE@ off:&^kN@TQ: abov8. C8twTzrg8pdY8offY:9*ftEm@ NmospqX #tHk@Dr@Max decri-D8Xc, cro8pv8 x9SKtT^de~nK mE8pdY8p}tecti<@ croe? FAr bYycS9LdH@GCbag8c?9kvck&ov$bBdM=qu, k[9E dogs@M?BrumE9'k[9?KevH pC,9smok pot@LAK}clmusY d\\t_b D8pey0\"Sgt@K|E,\" say9Dr@P|:tF\"wbl ex5*h#5n Lamp A;D#`hdocauL' 'croe.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE44B__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE44B",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "9e6831dc6d5febf7d5c1dba3ab6a1571ced16c715eb7d007186469a7b30d95ac",
+    "byte_offset_hint": null,
+    "prose": "^}wdyF78W8<c8ps@\"R>empti/#fAnK*do gUK oD:s@Dhg deslBd_ D8krvY8wbl dTw<d:s.\" 8 =trhu>@\"I w<d$jN\nk=d9'p}bSm9pe`S br Ho?\"\n\"JGu9c)qP Pl suff:%@TMl m8j:8. h_t.\" bO8<0F>kn4S tTkes f}czugh%@Sq idsF\"M<ZCBgtt9c)cS?k<0E>sAl.\"3@\n 2\"Onc8I zB*D8devb(Cms@Tqn I p9sav>@NQ mBLEKt{-cC8'mBne>s,\" Da\\BLA tGttiG@Sq ey-.@\"AX<0C>1dBtTgTdQn /<0F>kne- JGus!\" 1\"Tx;sAnd9w<d:fulB|peP%,\"\n. saBcUllyIDa\\BLA knk9 . CH';abA;tTgT/<0F>kne- JGus@Bu;We(opXskKbB<0F>vnRP?c0Sq f=\\q9tGtty% 3 ^dec,FGod-feC 2s<,\nbu;D#devb Luff #^bO scCyIDa\\BLA knk9 . cAlKn =trhu&E =to[N&bBsJ8W{e-em-m wXLS <0E>devb p1R%@Sq c<clud- Xnew&vhE 5 sTdQn /<0F>l4 .'ll\ntrB?yD%<08>kneMISq c?';fh_8A;hQ suR\"dQn-?d-At$go;=@\"BC8<0F>sAl\nwOnG9 JGus,\" W8guWG@OkayFjBvt? wOnG9 JGus 7 w=l6qr@\" WAldn't\npL8 gUKpasi//p]y:.\"\nIn spO8'qrklfFDa\\BsmbG@Sq(kvwn rt9'wbK<-78.@ \"triumph t W8c)}+. ov$ D8LEd@Sq f=\\q9tGtty% JGsi8Le8ng=9h#krm/?Kh#ey-b_n r eA9pasi<@\"Evb #ev:yj:0 Devb(ag,9s_}fKus@God(w]D g}ws@Ar~g>d/#6xnd!\" 2 opXskKbBD#guy's\nfEc0He(^g1;WQ~nIJGsi8Le8k-"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A__FILE46A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A",
+    "file_name": "FILE46A",
+    "realm_hint": "social_interaction",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "c3abefef10dbf55e53c8b94f57449169ccc9e2a3aaf3a16c72fb5b7ad9c893af",
+    "byte_offset_hint": null,
+    "prose": "2 b_lBbAnc$L?d9bBD8dUr 'D8bC@Rh=Gt<-/h#SNqr bik$jykZ spMl A;h#name: \"JOCK TARHEEL.\" H8ptR-. |p}yhFDH vds@\" (xppH%?\" q grfts 2\"I j!xppH&tTn *D8CeaIThAgh;I'Kd}p *tTrolCAnd.\"\nTCqM(ey-nC}w defi?tly<08>rol78^D\\trY;AttEneBtTho@H8dec[-tT5BO cautiAsly@H8grft9aga=F\"I9 r ?\" 4\"Excuk m0I'v8nev$nH ?\naft:-hAr9caf0 do-xppH?\"\nTCqM c?';siz8. m@ ^squCeFDN( s_0Bu;j6C8. do qX? H8dec[-tTRecl. At<08>d<';sAnK78h#type 6\"HeB~n@I'cxppH%VIt(pCty\nto8?KI'cqX dTmBpCt.\"\nH8grft9*ycst?c0H8D=k9q(kH<0C>CAnd@Bu;j:e? WhTdT. rf ? (<0F>yti<? \"HeyF. sAnK78Ar type,\" q XpwG 8\"HMr TCqM@I qC D##De\nspo; pfl}ck.\"\nTCqM sc`-. a m-tQn m<eBrok dQn-tQn kYks@H8c)Xzt8tTDN@He(xKsJ8ff <0F>typ0\"CAlKn,\" q XpwG TCqMFD8bAnc:Fx9^favEO8expXssi<: \"Bus=G9#78WC.\" rol6ho L?d guCK6D8dUr@H8sc?9. m\ndQn a<0C>pllm<08>say: 1\"GUKevH%@I h`8I'c*toe\n D8zt8WQ.\"\nA;D8s '. q PmoL rok9h#cUl@He(feaBCAnKhhh t<8fdksFbu;q kes9m h#tAgh fyi0H8XpwGF\"It(Ppy9WQto8qX.\" 3\"Excuk meFse@AX<0C>Lbl\nkrv d=n:?\"\nH8exam=-. cCefuly<08>rol78^tAr\\t@SquC-/D8rok c)1llBgZ weed@Or ~yn\"nCc@H8eyebPl9. ^we|< 5\"HeyFbossFO(cdKA;qX.\"\n c)5BD#gameIH8kvw9<0F>typ8wMl@ v D1t@NTga*eOqr@H8dec[-tTxv8sJ8ff@\" go;^D=:(Club CCd?\" H8sne:s 7\"I9D85c8jump t< ?\" .\nal \"cauP smbeIH87-<0F>wEldlyFc<f[, NtOud0Bu;q(pry@In<0E>WC /DrugsFD8HemBWQ9m *~nBd\\gu\\G@H8rok9. ov: dUr D8DEATH STAR `H9?KD8sAnK'qavBmZP jdt9<0F>eCs; br wght9~k8. squ=t@A cApS 'pfk:9 Moxwk9d?c8At@Tqy'X ri&/sJZh wbdFzugh ?Ks%%<08>vtY8^shn: GAY NIGHT@TCqM zughs@\"D<';m=KD8shn@Txt(j!tTscC8apBD8wops@Bu;. gott^xv8)aft:-hAr9cCKtTgZ =.\" WQ ho j6. xv0H8W{-h#qi@\"NY8try,\" q say9a<0C>t_n SaveI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILEC__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILEC",
+    "realm_hint": null,
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      2,
+      3,
+      4
+    ],
+    "text_sha256": "7d6a1f2f9c9a657d6aad7c583735a4b3c45adfb00961f3f750c8e9fde0eb66b6",
+    "byte_offset_hint": null,
+    "prose": "ChUk<0E>RePc. w\\h ,:: 1 Bio-En:gBRePm\nWqX Lt8FEc8#dGt=yI#2 Emoti<P Ins RePm\nInt:2s<P skbl9C8tGt>I#3 M,P AbbOi-RePm\nPu;<0F>s~rt9 tGtI#4 SociP Int:yti/RePm\nTrBA;<0F>Cut_P SkblsI@\n <0E>In<0E>RePc'Bio-En:gyF. wbl exprX<0E>Orh=9'Lt8FEc0HQ d[ wv8DG8cruciP eClBmJ,s...I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": "8 1& **BONUS EVENT**",
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "f3ab153973419a60d20fffd414fae63de8101658e77fe80588d0cac17a97ac33",
+    "byte_offset_hint": null,
+    "prose": "8 1& **BONUS EVENT**\nDeC FtTquPtB ^BONUSFwAlK. typ8=tTD#cJput$ dClkcX;abA;.rklf .'v8nev$tdK?y<8Mk? 1SEry.I pn;tTX~**RCg8of\n dsCtm,I#3GZ rL@I w<';fPl DN\ntrYkI#5I j!d<';fd:L?Kj6.\npntI#7S_0WhBvt?"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": "1& **HONESTY CHECK**",
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a890605f3a26bb2b82e5b92e3b8235356b2cdbcbab3f2a5a7dc6e1874ca3fe81",
+    "byte_offset_hint": null,
+    "prose": "1& **HONESTY CHECK**\nTTRecl/<0F>s=c:OyFpSa8D=l'D8dCkGtFmoL embC]ss kcX;. xv0WAlK. n wbwng typ8O = cJput:? 2AX<0C>c]zy? Bug off!\n\n#4I'cv;abA;tTtr!ANYONE \nmBkcXtI#6I'+tMl\"dClkcX;t O wbl\n~k8m8^ntt$2s<I#8WhBvt? If O wbl qlp De\np}g]mFI xv8vD tTrkI@\nTxnl.@ h<GtBscE8x9nH XcEd>I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": "1& **INSTANT FEEDBACK**",
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "8202b90baa6566ec956fe827a4620386369b8b630eafb74d4d289b537acc966d",
+    "byte_offset_hint": null,
+    "prose": "1& **INSTANT FEEDBACK**\nDeC F. c)gT/5y Lt8Sou Fbu;w8P1dBxv8HAgh dN^tTsum~riz8<0F>2s<POy@DT. pn;D8truD? 2Gg8O meVI'cv;=to[N>\nbB^srppBd\\kI#4I d<';tr!D#p}cGs 6YG@I'Krv8tTxv8<0F>sum~ry 8S_0Tqn I'+gg8. mBsum~ry\n'.I@\n PERSONALITY SUMMARY\nBB5y Lt8Sou F. Mect&.rklf D8moL iv?c&club *h\\tEy@C<g]tu s@ ^m=Kp}g]mm:@Kes m<0E>gUKwEk!3 1& **INSTANT FEEDBACK**\nDeC F<0F>2s<POBc)n sum~riz&*DX8"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "b8671d68aa9552ad5874c84fab67c8e6fa70c124ab66c1312fd637a7c68b29ad",
+    "byte_offset_hint": null,
+    "prose": "wEds: C8^bE0DT. fd:L?d? 1Txt(fAr wEdsFChumpL:Fvt\nDXeI#3J!jH I DAgh;O p9saf8to\n5BLt8Sou F. gZ weedI#5YeahFI agX0I'c^bE0 c?\nI dTabA;O?\n#7HCdBHC HC@I'c^bQl of\nRe:fu ghgSsI@\nPSa8d\\XgCKD8zL tGt-mGsag0 v;^bE0A9^5y$'Lt8Sou F"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      8
+    ],
+    "text_sha256": "168f14625eab399de889ef5e618efd2f2a41bcdfb093cf24ba447e5e19a35b8a",
+    "byte_offset_hint": null,
+    "prose": "^memnr 'D8psyRo-geJZrYP MOeVWaBtTgo!3 2 BAD COMMANDVWRONG RESPONSE!\n&<0E>DeC FI acaf][<0C>scXw&m@DT. fd:L?K<0F>:}r? 2I ~d8v :}r@ p}g]c\\\nscXw>I#4 Luff \\n';ffny@I'cp\\kd 6No@PSa8ex5*j:8I w,\nw}ng@ c)I do?\n#8Gg8m8sJ8`ti<sFToF?d\nI'+kes<0E>gam8go%I@\nCEXcti<V p}g]c#`: P aga=<08>d[ v;scXw m@It(^jokeVHehVHehV C8sm:-fzW!3 2 BAD COMMANDVWRONG RESPONSE!\n&<0E>DeC Fwe'X xv p}bSm9 RePcInt:fy0Wbl<0C>pSa8gZ<0E>=Lructi/~nuP\nrf sJ8Recks? I;wbl t{8abA;)hAr E sT'<0F>toe 1S_0I'+HjoBt{ RCg8of\nD8`: \n#3WhBWAlKI 2fEc<0F>wEk@Th\\\n#^pa=I#5I'cv;s_8I'ccJpZ, HAgh 7 ffny@I HjoBDGe\n=t:rmti<sI@\nATTENTION: P}g]c#m\nrfn aga=@ qlp #v;ne>>@FE vw..I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "1efae56ffc68b5747ec2488027194f463588fd020cded948c3e4da17fb89029b",
+    "byte_offset_hint": null,
+    "prose": "A;ea8 FD8zL scXH p9^tG;'<0F>emoti<P c<t}l@HQ d[<0C>1ct? 2CPmly@I'cv;eabBscC>I\nOutL?d%FDukeV 2kBXsp<k sav&D8day@Kes m<0E>gUKwEk@A9. spgg$<06> wfeF<0F>klf-c<f[Hc8wbl t{8cC8'Numnr 1 4I p9erON>@I fM;ripp&offI\nOutL?d%FRueV skstY\\ccPSKAr bluff@A9. wHK<0F>pB<06><0E>jfgS 'wfeFnev$S;dQn <0F>guCK?K.'+n\"w=n:! 6HMpVI pnt&sJe<8tTex5=\nj6p9xppH%IExcMSntV yc_N8Xsp<k sdv&D8p}bSm@YA'v8SCn&D8moL opEt?;Sss/*wf0GT <0E>frw@D<';f COBHPl 8I Hjoy&D8vvMtyI\nWMl sa[FFzW@ RC\\~tY 2s<POBMo=N&D8p}bSm@A9. zUc<06> wfeF<0F>Re:Bsmb8wbl smUD <0F>pNh\t<07>&\"SAY WHAT!\"\n\"YOU DON'T BELIEVE THAT LAST BIT OF FORTUNE-COOKIE BABBLEFDO YOU?\" 2Damn r I do@IntMwg, MegPo-\n~nia(D8tYkZ succGsI#4No@MNt$'fy;I d<';buB?y\n'D#Lt8Sou hypeI#6I j!HjoBptR jN's\nxppH%I#8WhBvt@ Lt8Sou x9me\nsmb sTfCI@\nJ!m>ON8 ^mJ, /<0F>M=KM|F?K.'+dTf=eI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE200__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE200",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "24bca4214d7b836cc6396e0a8e447b898fe218248956d2df3d6652a52f1e4519",
+    "byte_offset_hint": null,
+    "prose": "bug9*<0F>pNh wbl v?\\h\t<07>&WHAT????????????????????????????????!\nDT. nwev8 zL ~rWmMrw LNem,? 2 \"c}ckVIns=c:8fztt:y\ngZ9. v j:8 meI#4Gg8m8^b1k@J!gZ De\nbSs p}g]cgo aga=I#6WhBvt? I'cqX SCn 8Damn r VI'ctU kc_8tTj=e\nmBpB<06> wfeI@\nD<';rok s '<0F>}S a F?K.'+dTf=e!3 <0F>"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE20A__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE20A",
+    "realm_hint": "emotional_insight",
+    "title_hint": "EXIT THIS REALM",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "18808c40359eb2668bba02dd42cdb1a91f210db37a02c0250b26994177c0f4bf",
+    "byte_offset_hint": null,
+    "prose": "EXIT THIS REALM\n ~BSav8D#1lc6?Bto0If<0C>xvH';5y&^z<eFv scE8wbl n ggHI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE22A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22A",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "7801a29b032ce469536e7236a89fd371f6fd5bddec7beeaf9bd4deccbed482ec",
+    "byte_offset_hint": null,
+    "prose": "2 Ats[8wElKsp=9pat@Buzz$c<fusi<VPe`S@TXG@J!jH<0C>DAgh;O p9saf8tT5BLt8Sou F. HKm *^d?g:A9spy8Wip cCeH /fAr jeMs! 1 sAnK?Kmoti/C8fab@YA\ntrBtTnab<0E>jeMISJ8~BcPl<0C>)eXsp<sibS spy8ciZFbu;. gott^n *D8drg:(k6'<0F>v:BQn Auto-Mobb8a<0C>rcJot8P<g<0E>hhhpB'wfe 3 feM ][&?K=vi>@HQ c?\nDeBjd;. CAnK78D\\?\nAX<0C>^hoLag8n mov&tTavo[ Xscue? Pu;/D8b]keFJ{0If DeBtrBtTdrg8. f}czzBtTc]zB. c)k8^t]ffY jacm aqi 5F}zH bBfeCF. XquGt\n2m\\si/tTXt_n D8baeIFy8OFRueF90% 'D8hu~n ]c8#78.@TqBpn;tTn SdFf>FdrgHFbuskdF]b}i&bB)Ats[8fEc0LaBrw@GT <0E>frw 7 \"z|2VSpe&'L VYA\nsmb8rv8?Kg]tOud86MJIPC,9C8^zrkVTqBt{8. D8pCk@TqBnev$Sav8. *D8dCk@186,000 mb-2 kc<K#^zw<0C>c)wv8 znd-c]f;zfR- \"l_R@I;bump9?Kjumps@HEn9bzX@WNR OFMJVSe8Dok cC9Ra us? AX DeBfriHdlBPiHs? WhUWVTx;}ckZ j!m\\kKus@WNROVH:e(?oD:! 2 w\\h<0C>xKjeM9'<0F>QnI cAlKzBdQn sJ8t]cksIPQ$drgeVSvr;mBduLVE6mBruLV ycM:N =tT rcJotE jazzbTLag8'D8hu~n ]c8jH<0C>pn;tTt{8D8Si 4 xt8D\\@It(^smoggBjfgS\nA;D:0B]c8 d\\at:!\n w:8sTcJfB*D8wJb\ncrib@Tqn W8d]g9. =tTD#mZPwc n ~X@ \\n';g<n^rolgUK/<0F>XcEdFMJL: 6 kttS cPmly@MJ'+t{e\ncC8'ev:yD%@HQ fab O \\I wElK#^Tqm8PClfbSK excO iv,_-?KDrbwng r[G@Fab cab9C8s cUl! 8Aqi WCp FytE 2FMJ@LZ(go\nj:8v 2s/x9g<8nfEeIYA'K78tTgZ\"k[dBspye-Wip\n}ckZ Pl<0E>k[9/D8brcltT<0F>prgN8D\\neyznd 2WOh\"sp=e-jdt bumpFMJ(}ckZ znd9/tCgZVK[9'Pl speci-pCk ?KbCk%@MJ(excO>@\"Sw%s!\" Sq L]p9. =tT^c?va Rae\nD}w9. m = sky! 1 soC hhh abov8D8c}wd@YA\nrv8D8pQ$?Kmovem,I go;D8r LuffV w:8bEn puW A;D8spy8HvM`0 g<n^n<0E>feL k[ b1lD8g}fKbCri:@ D8t`! 3 Wriel ?g:@WhBC8Dey\ntEt_ .? \"LZ m8dQn!\"\nMJmy(zugh%@I;a=';ffnyFH<ey@If<0C>w:8^beK.'Ks5tt$Dem@BJb BeeutVBJb Teq]n@Nuk8D8HdBCOB'DPzsVTeyh 'ec^Sss<! 5TeC9?KfeCs<08>cwng sw%I ey-crB m:cyI pn;tTgT/TV\nng DectTspp<0C> sJ8Liby?s@YA'+saB?yD%FdT?yD%Ft Dey'+j!t{8. off D#damn sw%! 7WqeV sab mV zUcdQn!\n pv8rv%lBtTMJmy-PUhISq'+t{8. m\nbr . dQnF5n;<0F>feZ femlB/D8g}fd<08>flBsThhh<08>flBsTrw@MJ kvw9exytlBjYh pBtTgo YA'v81R& PCkVNoah(ArkVK[9'ev:Bag8?KLag0STDG8C8<0F>pe:s@A~z%@\nsmb-a W8zW-. =tT^rYkZBdevY8?Ksw%9. m = hhh-blu8sky 2WqeVD<';me)^D%Ft O\na=';go; sw%I D8t`V D8Y?ke8Stiium@ D8LC 'D8new PPzdium@ ^symph<BbBDr@FauL@ M BMAk! 4 pee-pe>V '+DGe\nMJL:9?KBidi-D=lm next?\nIt(nH dQnhbl s=c8D8wJb@WhBdTDeBkes puW . CAnd? YA'K78tTg}w pEcm=8qubls@Tqn Dey'KgZ<0E>po=t 6DMYiAs<08>cwng a<0C>sw a\n. s tTMJL$nrwISq sw m8rw@Sq sw m8hhh@Oh MJ 'm=eFW81llBkvw jy@I;dTme)^D%Ft O dTgo; sw%@G]vOB#s cUl! 8\"WhUpee!\" WA; c}wdI\"Sw m\njo*me!\"\nSw tXkVLZ(fy8O@OnlB^few kSc;k[9C8bXKtTt{8D#znd-rck&speci-m qX j:8v k[9xv8g<8nfE0AnK"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE22B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "5f11b594703cb96972be082120b0efb04ad5b1169b6139b8fcbd9d6b578736a2",
+    "byte_offset_hint": null,
+    "prose": "2 LC;tT5B*D8s?dbox@A WEtFsqu6boB bzclxe\n^bh vk cJ-m@He(cCry ^club@H8fSx-h#muskS9?KscQls@\"M8Bobo@Gom8<0F>WovMFCJmi8RN.\" 1 L?K?K=spec;D8bulBa\nDAgh q w:8^soggBdi|:I sayF\"STBoboVMBdKnemG\\VW8meZ aga=VBu;D#to8D8iv?tag8#m=0 gUKC8<0F>fAr =R qM9vw? I'v8go;D8WovM.\" 3 hdK<0F>WovM 78^swEd\n?Ksne:@\"M{8mBdayFBobo.\"\n\"NQ St(gZ D#L] Fvk-boyF. pn;^WovM s?dwYh dT.?\"<0C>ak@Z|VAnKv <8qCK'BobTaga=@No;*D#5yg}fK6Sat 5 feM qlpSss@WAldn';. kvw\nOVBody-bubd%(nH d\\cov:>!\nTx;kttS9O@F}cvw /BobT#gZt <lBdecaffe=N&Pssi@Me?jbeF. qi D8hbls 7 hdKA;D8WovM@H8hdds\nA;h#xnd<08>W{8OI\" cut8jH"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE22B__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE22B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "703913b5187c01301c65d31334652d99a8bc05d9fa842bc9e73a30d45f3eef2c",
+    "byte_offset_hint": null,
+    "prose": "~dFBobo,\" say9.@\"Bu;kriAslyFAtbz H<eyF. gott^gZ vk job t<0C>pnn^~k8O bh *D#5yg}fd.\"3@\n *D8s?dbox bubd ^s?KcatS@A bh bossBgel saysF\"MBnam8#N?cBR<Pd@MBDidBQn9D#s?dbox@I d<';pn;"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "a137f29f8da2eea3f41f11cbff7610e7ac273735e6ec944004cbf6c2c2278787",
+    "byte_offset_hint": null,
+    "prose": "2R<nie(MJ LCt9tTEg?iz8D8beDdaBc?dS rOuP@Sq g]b9. bBD8Cc?Ksay9W8pnt9. Si<0E>g}m *s% \"H|pBBeDdaBDeC R<nie.\" 1 pSa><08>rv8D8R?ce\ntTn *D8spotwghtIAslv; jJ<0E>c}wKRe:s@TqBRe$ . 3H|pBC_k-daBDeC jo? TTDN\nslug R<nie? \"bug [eaI ^k[ .rklfFbu;D#spob&R<ni8#tU muR@Tqk ympi8pC,9?KDee dGhn$RbdXn! 5 bob-we& WynGs@YA\nrolqlpSssIAslv; jJ<0E>c}wKsne:s@TqBje$ . 7 xp qlp At<08>gr*?d\nLC;prbwng off keyI Pau McCCtneBs% ^sblBrv8s<g@ L=d^R<Li;s% ^L-C]n8v:si/'^GddH Oldie R<nie(MJ cPl9ev:y<8togZqr D8]ffS@Sq pnt9sJe<8tTpYlD8l4Bnumnr@YAVSq pnt9. cJ8fEprK?KdTD8h<Es 2YAr9TruB#1dyV t{8De\nLag878T=^T_n:I we&tT~k8)ycst?c8speeR@\"W8C8D8wEldF"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "2f0e89336d546d57ae86c09d6d1193bc726b151f3bbaa53c3f9e5f70da37f9c8",
+    "byte_offset_hint": null,
+    "prose": "^nnefytEFPpy91R <0F>cCdiy ReckbUk 2%WMlF F.'v8pakK<06><0E>feL six LagG: s4%FbO%Fc]wwngFplk%FtPk%FLPk%@HQ wAlK. scE8<0F>2fE~nc8a\".ng cub? 1I'ct` 'D8peck Ed: 3NTmE8pussyc6 m0I bO8?d\nczw hdKmBg}fdI#5I'cc<t, n <8'D8qrdILay rwFquiZFcamAfzg>I#7I'c^rveabSFtab-pgg pmpyITotPlBiEabS@Ya' kvw?"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "cceda03545e835eda016aaaf6f6531b0c5d9325b3af7125c366d1e04a271cf5a",
+    "byte_offset_hint": null,
+    "prose": "%WMlF FbBD#to8.'v8devM`&sJ82s<POBskbl9tTqlp<0C>5BD8Gam8'Lt0HQ wAlK<0F>coyh dGcrin <0F>2fE~nc8sTfC? 2 }oki8#cocky@A tAgh\ncJpZOEI#4TARy@MUdy@ k[(tP,>,\nbu;v;^teac5y:I#6Eag$tTpSaeF7abS k[@Ne>s\nklf-c<f[Hc0Lot9'p}m\\eI#8TeacSi:@P`uC@Out-go%IUnklf\\h@HMp9oD$5y:sI@\n <0F>AsSs *<0F>sof;bUdS nKd1m 'beDdaBc{-cUk&bBBobo(5LY s_ge<Ff}L& kOty-wtt:F"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE23B__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE23B",
+    "realm_hint": "emotional_insight",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "e090f20774bbae97b3386ca88c0691369e566a3f86a61567639b780e4cb5db0d",
+    "byte_offset_hint": null,
+    "prose": "%DeC F.'v8soplBgo;tTLC;znlwng <0F>qipX@DT. fd:L?d? 2GZ m8At^InfocJ-L?dFRumpIMov8m8 nex;1lmI#4Hoax jok-C8*bAAAAAAAAAKtateIGZ m8A;'qXI#6PzgiCiz 'oD$p}g]msFqh?\nO.K@LZ(mov8<I#8ToF"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE300__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE300",
+    "realm_hint": "mental_abilities",
+    "title_hint": "A LITERARY CAREER",
+    "option_marker_count": 1,
+    "choice_digits": [
+      1
+    ],
+    "text_sha256": "8731dd7b55e1ae95fb448f1827b9d50f5aa562fd845caa8f7bf15519fdd82323",
+    "byte_offset_hint": null,
+    "prose": "A LITERARY CAREER\n |plB <0F>feL job 6^pXLhiA9pubwW hAk@HQ do- 2fEc/D8tGt9?K=t:views?3 EXIT THIS REALM\n ~BSav8D#1lc6?Bto0If<0C>xvH';5y&^z<eFv scE8wbl n ggHI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "7a7e27d52b3b5485c8cbc3caa50ad66c6bc096e142f989b2d383e3b665de6e18",
+    "byte_offset_hint": null,
+    "prose": "2%Hi Yaah StC9?KStCStsVUng:sP P}ducti<9#fbm /D8FeL DaB6SRUl@TqBpn;. n<0E>LC@STjN(D8tOS 'Ar fwck? 2AciemY ExcMSnceVSuccG9*De\nInfE~ti/SociZy!\n#4SRUl Days@SRUl Days@GUKdd\nGddH Ru8daysI#6AnoP HAk Go-tTOut$Spye 8 G1;B]*RobnryVR of\nM=KThiev-NabnKbBASr;K[I@\n %WMcJ8tTFeL DaB6SRUl@ dayd1m O(^movi8p}ducti<@S=c8"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "095a384c42d8760912e7f0620217aaec3a094eca89c86cd154372ba12328c41c",
+    "byte_offset_hint": null,
+    "prose": "D8LC 'D8fwckF. gZ suggG;D8tOS@ WPl w8cPl O? 2L! KvwSdge:<0E>StEB'a\nS~rtFStudiA9K[!\n#4Rei%F'RO%F'ROh~tYFtaught\n Tf8'^HYkEBStYkI#6Fa;To-6Hamt~n ESm,Cy 8Teyqr Pr;tTB]=-Wah YAD\nFob&bBK[ GHius!"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "73be83580e756767d4d4bf824e801f969724b02767da0fbb87fa3bf55b953bb3",
+    "byte_offset_hint": null,
+    "prose": "dGk@MJFD8t]OEFjump9Wip@Mrs@RNRZtF<0F>teyqrFLCt9^wMcJ tPk@ do-W8rol78tT.? 1An =tMwg, p}fGsi<PF1dy\ntTteyh<0C>D8fyt9'wfeI#3A SfdaBSRUl Teyqr abA;to\npa9/D8wEK'D8LEdI#5 w\\G;2s/*D8wEldF7e\n^c` E\"MC=8Drbl S:ge?tI#7A c<fukdFx]skKbubbS-b]=,\n Lr%BXKxeI@\n %MJ t{-. D8audOEiumFmeZ9<0F>teyqrFMrs@RNRZtF?KSavGVGupV SRUl Pr=cipPFJylD@Rip2FLCt9)Ei, Sct_0H8Xm=d9. of.. 2DYlCavZ;abA;tTcJmO a\ncJput$cJm:ciP /TVI#4A q}!--R<PKReag)5y De\nSi *D8movi8PATTONI#6PZ$SMSr95y D8w\\e,\nhumbS GCdn$*BEING THEREI#8CCl Sag)5y D8pC;of\nSt?SBKubrYl*D8fbc`2001.'"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "52998bf503388eb63a7a7e16ecab7345963a0804319db4053b4379a39a4145af",
+    "byte_offset_hint": null,
+    "prose": "2%YA'v8nH ashn&^dGl?K\\su&sJ8Xct?guC objects@Tqy'X piec-'p|$cov:& bzclsquhgSs@It(^wUd-pup bUkVAn ?tiqu8finr-ba&LEag8syLem@HQ qua=t! 1 snNR O eag:ly@KvwSdge!\nSJ>aB.'+wrO8bUk9.rklfI#3 rol6O Xv:Hc0YA\npn;tTmemEiz8ev:BwEdI#5 f=KO c<fus%@SquhgS9<\np|:? pXf$tUl9?KdiPsI#7CUl pe`S d<';lug dUr L`2s\nCAnd<08>pn;^cJput:I@\n %Mrs@RNRZ;gg-eyh k[ sJ8bUk9?K^pHcbF^LYl'cCb/tT~k8~rk9 VLik8PPedOhY sc]wl9/D8cav8pll@ [e^#tTxnd-wrO8PhoHYi)Stt:s: AFBFC... 2 rv8D8[e^'putt Stt:s\ntogZqr ~k8wEdsI#4Sc]wwng cCb/~rk9 De\npo=t&LYlkem9v:BxrdI#6Wop9uk pHcbs@ReP k[9uk\nsNMwtGFjoy-LYksFzkrsFESPI#8I;Xm=d9. 'M>ievP M<ks\nblum=N ~nuscripts@Qua=t!"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "6500113a958e17e3c6fc7d991eaea71ac9a73f3f93e9bc6fc3e1cf2f516825e8",
+    "byte_offset_hint": null,
+    "prose": "4&Pr=cipP JylD@Rip2 L`9. *D8x+?KLCt9spAt ^Sct_8abA;pXkrv pXciA9bodbBflu[s@H8ak9. j6. pn;tTdTjH<0C>g}w m<08>Xply: 2\"StudBxrdFgZ\"degX8?KwEk\n ^pXLhiA9=LOuti<.\"\n#4\"Jo*D8CmBE n\"pdYe\noffY$E\"m=\\t:.\"\n#6\"A9"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      8
+    ],
+    "text_sha256": "dfd4f16b29548511c4c97e1c7541b2620be70304726d73cea25d5650fc664d02",
+    "byte_offset_hint": null,
+    "prose": "a possibSF De\nhhqL sPCy.\"\n#8\"I d<';pn;tTg}w m@I'+nev:\nycs;t:m=P iuDUd.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0013",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "b92019a96e7a7de7c9555fc5405bef679133dc5fd1544ba759d4af86ce7b8eb0",
+    "byte_offset_hint": null,
+    "prose": "& /D85yg}fd@BoboFD8WE;squ6bulyFspgg:9m@\"Wqn I g}w m I g<n^kbl CJmi- JGu9?KD8Rsubwc)pCty@ <0C>g<n^do?\" 1\"I'cgo tTgZ a s~r;a I c?\ntTHKprfC8?Kqlp hu~nOy.\"\n#3\"I'cgo tTgZ\"job\n]\\8a\nfambB78mBDi\nUncS Sam.\"\n#5\"I'cg<n^dTD8wttSL a I c?,\nD8moLG;'D8toe.\"\n#7\"Inv, )a:osd ff-gfFDN'll\n~k8fdk9peyeabS\nfriHdly.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0015",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "ee6f000e4b6e2f295fab3e1a6c0760d64270b64dd605d864dd448932922cc862",
+    "byte_offset_hint": null,
+    "prose": "& 5yg}fd@LfR to0H:8cJ-D8z?BpsyRdog\\tFDr@BHpy@\"PsyRJZrY9wbl ru*D#c<t=, 78O d[ AfrYa@ dT. pn;tTdTjH<0C>g}w m?\" W8guWG 2\"I pn;tTgZ\"doctEN8=\npsyRdogB78Dr@RuD.\"\n#4\"RYh ~n@PUr ~n@A9rng a I\ngZ gUKg]d-?K^gUKjob.\"\n#6\"I pn;tTrf\"n -w[8Ra=\n'fat-fUKpsyRJZrY cwnYs.\"\n#8\"Inv,<0E>jeM\nInt:ytge\nFUtweC D8cJput:.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31A__0017",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "0379210884d3023f6e708491b1d5826228bb292a8cab0bc49a915a0f6662442b",
+    "byte_offset_hint": null,
+    "prose": "&De)WEm$cJ-< 5yg}fK kc_OBguCd9?KLu\\eF^400 pAnKG:~n ph (DiHLsRwe=) t]=&tTsntf A;drugs@\" dT. pn;tTn jH<0C>g}w m?\" q de~nds 1\"If I'cs~r;?KwMl->ucN&I\nc)wrO8mBQn tYkZ,\" kz .I#3\"A cgb krv?tFnCcotY9ag,,\nycAnt?t: krv GoK'n CAntry.\"\n#5\"BakZbPl 5y:F}clmusYi?IOwn\"club 78D8DeNh StC BC.\"\n#7\"A b]*s_ge<F^movi8LCFDe\nfeL gaBAL}nautF^bbw<aee.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "9568f8b7e6dcc7f6e57dc694a2d63d33651fe76befa5d18d0a0d38a4c7af6a78",
+    "byte_offset_hint": null,
+    "prose": "%\"W:H';. smpokKtTgZ <0F>XpE;cCKtoday?\"\nC_ksV CIA de~nd9 . p}duc8D8=cro=N docum,sI do? 1 ffaz><08>rv8Ludy%\n?KPpy9gZ gUKg]dGI#3 xnKov$D8cCKXluct?tlyI v;PztTbu;. trBxrd:I#5If DeBgav8g]d- TV ptR%,\n.'Kn\"Rhod-sRdCI#7TqBgo;. w}ngVHQ dC8Dey\nsaB"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a4fc1f4743678a24eb607894745bd40740bcab5a83783770eb6085ad73d2f4ae",
+    "byte_offset_hint": null,
+    "prose": "%\"Wan';todaBXpE;cCKday?\"\nOh ohVC|t_>F=t:}gN>FtEt_&bBD8bEn-aga*ShiO8mbOia@HQ dT. Xsp<d? 2\"Ym@RsE;CCKToeVH:8O \\!\nI w, sd[ 5t=uc/D#<e!\"\n#4\"Dh mBgUKg]d-/c<ductVWho\npnt9tTn s~rt?\"\n#6\"CJ hJeFtwTLiby)T:}r\\ts\njump&m0GuG9j6DeBLde?\"\n#8\"A+ # AppS+@A # Amha@C\n# CJmodE0F # L\\a.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "2b41bab0e78f3d4f1159bf21d8eaca3ffc4a3389ffff3540e8d887980dfaeb07",
+    "byte_offset_hint": null,
+    "prose": "%WMlF FhQ dT. 78D#sRUl yCKcut_e? 2Amus swc8'wfeFbu;I'c=\nsRUl SCn\ndevM` mBm=dI#4Tqk weeK[ea ?vBm0F]nkly\nI'KpXf$^R_R sRUlI#6 zN? I'czugh sTxrKI\nd[n';qC j6. j!sa[I#8It(CLEAREDVIt(VEEREDV }i\ntTgHiu9#pav& weedI@\n Eyh sRUl daBkem9toMGsFbu;<8daB. f=K"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31B__0013",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "744c4ab226318b6b5563f6d736df77ee1235dc5f0c3b1812fc1a682ecb9e8ec8",
+    "byte_offset_hint": null,
+    "prose": "%WMlFSweNBPPmsFhQ dT. 78<0F>sRUl pe:s? 1Amus%Fbu;o~t_0HQ dTDey\nexpec;tTgZ =tT^gUKcdSge?\n#3TU wbK?Kc<fus%<08>7e\nD%9spMSKAtFr E w}ngI#5SRUl(cUl excs; D#weed\n1d%FwrO ?KLudy LuffI#7 m=K#jump%<08>rv8De\nvvMtB?KffnBweedI@\n On8daB^wJ) wbdFtoskKxeF}lSr-skN-=tT<0F>czss}J@Sq(Dr@BHpyFD8sRUl PsyRdog\\t@\"YA'v8nH w<d:fu,\" W8guW- czss@\"I pn;. Recl^wL 'dCwng wEd9?Kdec[8jZqr DeBdGcrin <0F>sRUl 2fE~nc8qX 6Hamt~n ESm,Cy.\"\n\nSq pak9A;sJ8p|:sI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31C__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      8
+    ],
+    "text_sha256": "f25a58b5cd9ad24a7e6ffa312fe74d5600d24cdd69e9a26d5ba9b0a5cead6dd4",
+    "byte_offset_hint": null,
+    "prose": "%Lik8O E vtFev:y<e(~jE *Hhh SRUl #luL@ ev:-pXkn;SEX FACTOR cJpwcN-D=k%FSCn%Fc<c,]ti<@A9 FhQ kxuPlBytg8w:8.? AHo;?KkxuPlBytge BSeZh%-ft|p>Fb_L \nffufbSK:otY H:gyI#CRZe%@SecXtlB=t:Gt&bu;v\nyti<I#DAnti-kx@BaYPlBmEP\\tY ?d\nWock&bBkxuP nxviEI@\n %SociP |p}vP@Pe$pXss_0Be O@Be ycst&#/ev:y<e(m=Kd_ D8?xiA9idGc, yeCs@HQ d[ scE8/D8P`uCOBScPe? AOn8'D8moL p`uC k[9=\nsRUlI#BLot9'friHds CFew friHdsFsJ8feM%9of\n=f:iEOyI#DTotP sociP \\dN0IntHk\nfeM%9'sociP =f:iEOyI@\n 2%Oh yeahFw8PmoL fEgo;yiemYs@HQ d[<0E>m=K' ffcti/d_ Hhh SRUl? 1Brbw?;m=d@St] A's 3Duttu m=dFfquGti< of\nauDEOyI#5TotPlBf=t:Gt&*yiemYs 7No;D8nL g]dGFbu;^ffny,\n=dsHd, m=dI@\n % teHag$m=K#dJ=N&bBgzndsFhEm<GFpq}m<GF~t ?Kg}J rOuPs@HQ d[<0E>ev:- pXkn;SEX FACTOR affec;D8yiemY 2fE~nc8' ? 2S:iAsFsuccGsfu Lud, 4A }t8SCn: 6FfnyFz?yFD=k$ bi\ng]dGI#8Brbw?t@D\\t_b%lBEh=PI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31C__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "8f6d41b65fb6dad60d66d3696870d5e076c40da6d78473323b795455b714e6a5",
+    "byte_offset_hint": null,
+    "prose": "%2001: An Ov:qN&TeHag8Odysky@ #RDW cPwng@I'csc]mbwng <0F>m,P p}g]ms; f_D$mea_em,9'<0F>Hhh SRUl 2fE~nc8m!n abEt>@DT. 1Kme? 1\"MBm,P p}g]m9C8f=0I'm\ngZt Pl A's@Ov:r[8RDW.\"\n#3\"NoFI d<';fd:L?d@ doG\nRDW me?? PSa8czrty.\"\n#5\"FEgZ<0E>m,P tGts@I'+t{e\nPl<0E>RDW I c)gZ.\"\n#7\"TMl m8t RDW #cod8 ^DXe\nStt$wEKHd *`X'.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE31C__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE31C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "eeb5fe45c0ce387210243d0e633fdfb94c9c23bb749c28f946ef47d7e96e5925",
+    "byte_offset_hint": null,
+    "prose": "%\"I'csEryFbu;I c?';dTDNF @TqX kem9tTn\"`hu~n :}r' qX@AppC,lB. c?v;D=lcSClBjH <0F>RDW cecuO9C8ov:ri>@DT. c`y?\" 2\"I'+n;RDW #cod8 ^DXe\nStt$wEK LCt9 `S'.\"\n#4\" (go <? I xt8DG8sbly\n=t:rmti<s.\"\n#6\"WhTpnt9tTD=kVT_n O m,\nRDW.\"\n#8\"I c`y@LZ(exprX<0E>RDW Luff\n*?oD$ESct}nY Art9p}g]m.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "8caa65a0f00da63a1650a4e34b8cb208f40bcc821546aa8a6cc1e05baf8d602d",
+    "byte_offset_hint": null,
+    "prose": "pO D8tG;tTng=FD8Lud, nex;tT. j\\2sF\"jYh cdSg8dT. pn;tTgTto?\" j\\2 : 1\"MITFD8pXLhiA9Masyhuktts\nInLOut8'TeRvrgy.\"\n#3\" FBI Aciemy@Or HotM\nM?agem,.\"\n#5\"I'cgo tTHwL *today's\nArmy.\"\n#7\"TeRnYP InLOut8'MPibuFDe\npXLhiA9M=dpX HeiquCt:s.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a64fb4a9647525ca622ec4e69218b7d281a5655a54ea3af7c4f345151b711f10",
+    "byte_offset_hint": null,
+    "prose": "c<v:s #=t:rmt&bBD8exacm<OE@NTtPk d_ D8exam@ p|:9C8pakKAt@A n+r%9rudly@Beg*D8exam= !3 &Whb8pO D8exam9tTn dMg:& }JFD8exacm<OE ak9eyh Lud,F\"WqX dT. pn;tTc<duc;<0F>iv?c&LudiG?\" Wqn O(<0F>t_n<0C>Xply: 2\"HCvCKSRUl 'Bus=Gs\nAdm=\\t]ti<.\"\n#4\"YP8SRUl 'BUk-kes%FDNa-\nba8~nagem,\nStHog]phy.\"\n#6\"UCLA FbcSRUl.\"\n\n#8\"ESct}nY CdSge; Futique\nUng:sOy; S?t^M<YaFCA.\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 5,
+    "choice_digits": [
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "dbfda8fb61bd7d14c01043972f5d9289e1193e9a01242461a0d805f1eb2976b5",
+    "byte_offset_hint": null,
+    "prose": "tGt9f=PlBCrg8?KC8pakKAt@NTtPk d_ D8exam@A n+r%9rudly@LZ<0E>exam= ng=!3 & exacm<OE #De)WEm:@H8prn9 gZt ycst& r cdSg8#^RISKY BUSINESS@In <0F>caeFO rok97e: 2 bSw Pr=cZ<@It(Ung:sOy\n'Ilwv# .I#4TqX(v r\\k<08>LudBxrK?d\nwbl gTtT^cJmfOBcdSgeI#6 sTknsOg8tT<0F>friHds'\nne>sF.'+~k8A;*bus=Gs!\n#8S_pr\\eVPr=cZ/cAlKuk ?\n,:pr\\ .ngL$78.I@\n de)pak9A;D8exams@NTtPk E gZt A;'<0F>kN@WaO ftb q say9\"ng=\" nfE8. t_n ov$<0F>p|:@\"Reiy@Beg=!\"3 4& feL quGti/#^bh <0 (<0F>goP *D#Gam8'Lte? 1Nonl Priz8 PhysYs 3A bbw/ddzrsFE\"cgb\nkrvY8job wfe-to8kc_OyI#5Huh? Gam8'jN? Oh sEryF~nFI\npsn';exytlBpay Nt,i<I#7AciemBAprK BG;Act%@A\nG]mmy@An Emmy@An MVP@ ev:I@\n D=k abA; dKDevb RDW jH<0C>qCF\"Toe(m@PSa8t_n Secti/II\n1KD8deecti<9sb,lBjb8I 1KDecPAd.\"3 & feL kcti/'D8exam= =que-abA;<0F>goPs@I;=clud-UltoN8DGt= quGti<s@<07>wAlK. ]D$do? 2B8)executge 4B8)offY8~nag: 6J!n xppBwv wfe 8Se8O Pl@WrO8qipX@DTO\nPl@FlBtTmUn /gossam$w%s!"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "2c9cf102d1ebe38f6d133c0e6b3277f95488ce3a313db4ad05393d3a9994bdc4",
+    "byte_offset_hint": null,
+    "prose": "f=\\h j!a <0F>m<OE saysF\"Toe(m Secti/I@PSa8t_n Secti/II\n1KD8deecti<9sb,lBjb8I 1KDecPAd.\"3 & feL pC;'D8tG;ak9subtS quGti<9tTdZ:m=8<0F>cCe$objectgG@<07>Eg?iz #go tTknK. Dok bh m<DlBpayRecks? 1IBM E<0E>CIA 3FBI E<0E>DEA 5AFL-CIO E WMfCe 7SAGFAFTRAF?KWrO:s' Gubd\nXs[uPsI@\n m<OE ?vfcGF\"Toe(m Secti/I@PSa8t_n Secti/II\n1KD8deecti<9sb,lBjb8I 1KDecPAd.\"3 %INTERRUPTVLt8Sou Alpy9OpHVL\\tHVWe'v8go;sJ8kriA9tPk tTdo@ #)IntMwgHc8Inc1k p}g]c?Kw8WAlKm,i/D8CIAVDT. pn;=tTqavBCIA kcX;Luff? 1I;fh_- .'Kpul D\\ 3HeavH9v 5Huh?\n\n#7 r VW8go;sJ8qavy\ntPk tTdoI@\n HeyVGo sJej:eFbh Wot? Pul ov:@I pn;tTtPltT.VHav8. fEgottH <0F>ashnm,? WhTkbSKFBI =fE~ntFElv#PXsSy? WhTb]=-pW&Dyzn? WhTasas=N&MCBPynRo;Mey:? xppH&tT.?\nI tMl .FI soplBd<';kvw j6O psVI;cam8*^jO8tab\nDeBcPSKO: \"TrBTh\\.\"\nC). oag=8j6CIA ag,9w:878a k[s? W:8DeBev$k[s? D[ DeBev$zugh? AX DeBPl opEt&f}cC,]l E_`e? Or crn>? C). oag=8^CIA 2s/zugh%?\nTrB^cdKWQ:@I;Lbl wEksI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "a67e1d3797e298a41361deda9d98095a172311a8634ac87304c29fb3d9c6a524",
+    "byte_offset_hint": null,
+    "prose": "&CEKMey:FCIA h<RoFdoGn';cC8abA;jTasas=N&h#ex-wt0YeahFMCBPynRo;Mey:@ <8jTp9JFK(m\\tXss@STjBWAlK. gZ =vdv>? (D8p}bSm? 2HeyVI go;v p}bSm9 <0E>CIAIIf CEKMey$d<';cCeFWAlKwe?\n#4NoFI psn';expect sJZh%\nD#dtf:,@I me)v p}bSmI#6Elv#ru=&DyznVMCBPynRot\nMey:? AslBH B]dSeI#8 Mey$m_d$#tU hot@I pnna\nwrO8^Lt8Sou p}g]mI@\nFORGET THE MARY PYNCHOT ASSASSINATIONVIF IT'S TOO HOT FOR THE KENNEDY'S AND BEN BRADLEE AND THE CIA AND HER OWN CHILDREN--WHY SHOULD YOU GET INVOLVED?3 &TqX p9sJZh . pnt&tTalm8abA;MCBMey$?KD8CIA@Bu;. fEgZ@STSt(gT/ <0E>p}g]m@P:xp9"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "1e8527b0483912f41c9607962028c35921efc72c322965b7addbe46a0ac41a86",
+    "byte_offset_hint": null,
+    "prose": "gZt te>@P:xp9<0F>Nt,i/sp)#WEtH% 2CIA Pl<0E>py!\n\n#4Huh?\n\n#6CIA-CIAFgUd-bye 8I k8j6"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "62458592fc8f44ef4155f425e6bc20186e913bd86d5415db64433adc18691ba9",
+    "byte_offset_hint": null,
+    "prose": "OltrB?oD:I\nP]ctY8Oec2@ `posO8'prc\\?\n\nsoft\ncdd\nwZ\n\nUnd$vr~l cecumL?c-(/D#5nZF6Sat)<0E>nL ?sw$#xrKsT. WAlKxv8kSct&xrKa <0F>?sw:I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "65d2b0f6c266dbd83ad995f70021b8ebb26c82d7e47ad03f2f9c01fbb213830c",
+    "byte_offset_hint": null,
+    "prose": "%REX tah;hcty uoBd[? 2F]nklBI dTv;f=KDG8sbly\ntrYk9amus%I#4I d<';gZ O@PSa8L` mGs%\n mBqiI#6I d<';kvw jN(xppH%Fbu;I\nHjoBD8suspHkI#8Skce;ruoBo;v m'IFxey!"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32A__0015",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "383fa27040f45b323dd1fb1178bcd6ae101dbd6f091e071ef33a2fff9fe7e0ce",
+    "byte_offset_hint": null,
+    "prose": "%ZEw yekru;fTdniltahW !0008 tshdohcysp\"tecXv8uoBevaH ?tah;?}muh fTGn-^htiW\n\n #<0F>Xsp<k? 1 p}g]c#c}ss D8f=e\nwn8ntweH sNe8?KsbwnGsI#3N<8'D8abov0 Oec\\\nkx\\;?KsEd[I#5 ?sw$ Eh=P \"scXw\"\nquGti<: \"<8gUK<e.\"\n#7ygdohcysp fTGiug eh;ni gn[diK\n!Xw lb dno\"si"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "cd0af5462e6b34638cf1e6e04d9f6d078d8541cd4fb084a10303ac3f08733b92",
+    "byte_offset_hint": null,
+    "prose": "4%1@If fg8n:9coL\"ddzrFj6wbl\"six-pylcoL? 1$1.20\n\n#5$1.25\n\n#5$2.25\n\n#5$6.00"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "c76a51bc99d261ee3dc819aa8da6cbd0d9e5231efa7809f109dfaf40f1b19011",
+    "byte_offset_hint": null,
+    "prose": "%1@An `to\\tY ~n #7MBtTn: 1h`efu\n\n#5=dhn?t\n\n#5friHdly\n\n#5wePDy"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0002",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "bf0afa7bad124b7a425528ddb0cc3074adf68b2697b056340554dc6bd8710227",
+    "byte_offset_hint": null,
+    "prose": "%1@An fcS #gH:PlB________ D?\nh#nsqw 1dd:\n\n#5wePDi:\n\n#5w\\:\n\n#5zrg:"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "5adb1437125cbaabc442a831b10f4a7cfd209c3d1999d6c84e0ba2c4d13d5655",
+    "byte_offset_hint": null,
+    "prose": "%1@An =xbO&cOBPpy9xs: 1pe`S\n\n#5|Ctm,s\n\n#5beds\n\n#5SavG"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0004",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 5,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "22ba2ccfad105790994f89c23c60869dce42ca58e5d58e912f95303f75587e24",
+    "byte_offset_hint": null,
+    "prose": "4%2@A cd;#78^hEk *D8sam8pB ^________ #78^dog 1pmpy\n\n#5b<e\n\n#5hAk\n\n#5cN"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0005",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "59345ef5bc86ce28078b6d2197ed26f8b25e9e161310323140e97748ca85a3a7",
+    "byte_offset_hint": null,
+    "prose": "%2@A zm8hEk #7MBtTn: 1srw\n\n#5we{\n\n#5hfgry\n\n#5?gry"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0006",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "df5ab3c0937e3a146b4f1092644735cd290fefb219e73e16f9d1b6d7afdf6937",
+    "byte_offset_hint": null,
+    "prose": "%2@WEl#Xzt&tTpaBa p]ctY8#Xzt&to: 1skbl\n\n#5xpp=Gs\n\n#5wePD\n\n#5c_iosOy"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0007",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "3638b3e1591a75648f3e3992d04b3f827a2705ee26bb80b3a2586c2f629c303b",
+    "byte_offset_hint": null,
+    "prose": "%2@<07>'D8fdrw #moL f78^Xct?gS? 1cywnd:\n\n#5cun\n\n#5squCe\n\n#5tri?gS"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "925165b28dd2796f8a5133f9039a4383c4eea8bd0f23f5ff3f65beccf210aeeb",
+    "byte_offset_hint": null,
+    "prose": "4%3@A f=?ciPlBsuccGsfu doctE Ppy9xs: 1wePD\n\n#5friHds\n\n#5gel friHds\n\n#5~R=G"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "7abd7ba89dc75655743db81a2255a475bcda1fb7e97749193f3449e5890f53e0",
+    "byte_offset_hint": null,
+    "prose": "%3@Wqn\"kriA9cro8occ_9tT^wEk:FO #moL necGsCBtTcPl: 1^pdYe~n\n\n#5^crk friHd\n\n#5^safZB=spectE\n\n#5^fEe~n"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "ebdf7ed10f84bfdabf28be49feb6b73c8de40b04af86428f939a61d4672a8846",
+    "byte_offset_hint": null,
+    "prose": "%3@On8OecA;'D8fdrw #f78D8XL@<07>#O? 1nab\n\n#5bznkZ\n\n#5p=lpaja~s\n\n#5t>dBnC"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "6ec3df584095ac88c4cd63d3961d16615b79e9b02e959aa3660808453becce11",
+    "byte_offset_hint": null,
+    "prose": "%3@A ly pdOYi)#7MBtTn: 1Mect>\n\n#5jab>\n\n#5d\\7>\n\n#5p}ud"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0012",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "fc63470e230b49132cea31d32286d651df9957a3feacf794a575aa640345b920",
+    "byte_offset_hint": null,
+    "prose": "4%4@A tHn#~tR Ppy9=vdvG: 1c<tGt?ts\n\n#5^czBcArt\n\n#5judgG\n\n#5spectNEs"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0013",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "3ff0798a78adfc71c022d5e54df39ff9af6880f71c246fbd0117a5d8c488322f",
+    "byte_offset_hint": null,
+    "prose": "%4@A wEk$jTD}w9^wXnR =tTh#~R=8#^(?): 1sabote_\n\n#5PiH\n\n#5XwgiA9nut\n\n#5fxppbB~rri&2s<"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0014",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "dbd68eb1d55a91393333c32dee9efd370312ab7a7a3f1a9bf0a20914f78ddd86",
+    "byte_offset_hint": null,
+    "prose": "%4@If\"drfkH f}g S|97 feZ *1 kc<dFhQ ~nBfeZ c)q S| *10 kc<dsFasum D8sam8]t8'sobriZy? 170 feZ\n\n#560 feZ\n\n#535 feZ\n\n#510 feZ"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0015",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "fc4ae686e7a1a0db08a3ce5345c96d0e51cf6973105ca33d3c9ea64bd2d9ceb4",
+    "byte_offset_hint": null,
+    "prose": "%4.Six 2 c, '$1200 #D8sam8a fAr 2 c, 'hQ muR? 1$1800\n\n#5$1600\n\n#5$1400\n\n#5$1200"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0016",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "926aede9d261aff40c4dd3be5a2adbafbc602044b9fd3c2c92e0a3c443a57e9f",
+    "byte_offset_hint": null,
+    "prose": "4%5@Gad=8#Xzt&tT)ae5n8a _________ #tT^hu~n b]= 1=fE~ti<\n\n#5^job\n\n#5^friHd\n\n#5famby"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0017",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": "6 5 N T Q 3 6 7 A 6 D 2 9 6 3 X 5 2 R 13",
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "41bc81ef565a1f888795e6ac82c6f67bec914d1aef3787e48e31c4c1ea05dc8a",
+    "byte_offset_hint": null,
+    "prose": "%5@In<0E>fdrw kri-'numnr9?KStt:sFcAn;eyh 6 do-v;xv8)A E\"7 fdrw nex;aft$O@HQ ~nB6(dT. cAnt?\n6 5 N T Q 3 6 7 A 6 D 2 9 6 3 X 5 2 R 13\n\n#54\n\n#55\n\n#56"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0018",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "58d425dc5984e458d6e2b26e4489ff13d7d126e8b1d86831bdceeaf61206840b",
+    "byte_offset_hint": null,
+    "prose": "%5@HAk cN9C8gH:PlB_______ D)dogs 1s~lSr\n\n#5dd:\n\n#5fi:c:\n\n#5bhg:"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0020",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "1e2c2f38798fe3ee0a720d6862c7c3e5879853da00d7de4dd1704e17c2c19008",
+    "byte_offset_hint": null,
+    "prose": "4%6@S?K#tTdG:;a pt$#to: 1oce?\n\n#5c?y<\n\n#5mAnta=\n\n#5f\\h"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0021",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "94dcfd6c6cf862157eb0add7a8e62ba8dd70c78e2fe5ff18266ff45bb11b5160",
+    "byte_offset_hint": null,
+    "prose": "%6@D<PKm\\kK18 hAr9'wEkFbu;q wEk&4/5 to0HQ ~nBhAr9do-q wEl/ful toe? 190 hArs\n\n#572 hArs\n\n#540 hArs\n\n#5C?v;n dZ:m=>I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0025",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "0f8bc162be4e0921e2cd80f5b93505c9e6be9171487d5f2fb58b4cdc74e75c2d",
+    "byte_offset_hint": null,
+    "prose": "%7@A ~n w/$180 *D8rtt:y@ nex;daBq rL <e-DeK'D#amAnt@Eyh daBD:eaft$q rL <e-DeKa muR a q rL<0E>daBnfE0HQ muR do-q xv8aft$DX8days? 1$93.33\n\n#5$60.00\n\n#5$86.67\n\n#5$100.00"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0026",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "a9103b41fcbeeb780e7cab52639910783e09f93e73de6c5fee19461c7994943a",
+    "byte_offset_hint": null,
+    "prose": "%7@<07>'D8fdrw #Sa;78D8oD:s? 1baebPl 5y:\n\n#5zwy:\n\n#5judge\n\n#5cAr;XpEt:"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0027",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "b9a97e57b0ed20838fcf6f7e854dc6bcfe6a12292c287d8b43d7eb3b03bffdfe",
+    "byte_offset_hint": null,
+    "prose": "%7@Wqn<0E>fdrw wEd9C8C]ng&=tT^kntHceFj6#D8feL Stt$'D8fArD wEd?\n\nW8D8d?c8tTgel sa[ pnt> 1s\n\n#5d\n\n#5t\n\n#5w"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0028",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "cc840f08540c6f806e953d34121b0d877b4f1750fccc4f859c5cc48e0c6229e8",
+    "byte_offset_hint": null,
+    "prose": "4%8@If 2-1/3 pAnd9'potNo-coL 14 c,sFhQ muR wbl 10 pAnd9coL? 160 c,s\n\n#558 c,s\n\n#570 c,s\n\n#555 c,s"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0029",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "5aa5497aa83f2b2910a053a07b0117df630fa4b13d73769f17f8b345e24e3826",
+    "byte_offset_hint": null,
+    "prose": "%8@If Stev8Job9typ-40 wEd9*1 m=ut8?KStev8Wozni{ typ-180 wEd9*1 1/2 m=utGFhQ ~nBidOi<P wEd9m!Job9typ8tTequP Wozni{(wElaft$Dey'v8boD wEk&<8hAr? 14800 wEds\n\n#51200 wEds\n\n#5300 wEds\n\n#53000 wEds"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0031",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": "A G B H C I D J E K F L G M N.....( ) 1H",
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "3e31dc0acd1116f59a3d390ba20c8d6892145f32d8d40052b8800a4405cd9058",
+    "byte_offset_hint": null,
+    "prose": "%8@On8Stt$#w}ng *D8fdrw kriG@ WAlK Stt$n?\nA G B H C I D J E K F L G M N.....( ) 1H\n\n#5N\n\n#5I\n\n#5B"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0032",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "c1ba2db3b6ee202e1cf89ef128994f9705aba227cf545119b9a2f74ee802d900",
+    "byte_offset_hint": null,
+    "prose": "4%9@Trip wEk98 hAr9eyh daB680 ddzr92 hAr\n*idOi/wEk92 hAr92 daBov:to8 jYh q Xceg-to8?K<e-xlf@HQ ~nBday9m!q wEltTeCn $9680? 111 days\n\n#57 days\n\n#58 days\n\n#59 days"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0033",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      3,
+      5
+    ],
+    "text_sha256": "dfec827870df6c8f86b8430b987412a670a1b51872ba4571779ef60ee5b1d089",
+    "byte_offset_hint": null,
+    "prose": "%9.If\"gdKbC 70 =R-rng #cu;=tTtwTpiec-sT <8piec8#3/4 a rng a<0E>oD:Fj6#D8SngD 'D8WEt$piece? 130 =RG\n\n#540 =RG\n\n#550 =RG\n\n#560 =RG"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0034",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 4,
+    "choice_digits": [
+      3,
+      5
+    ],
+    "text_sha256": "e3b23636f456becc8756e0f35966f2971d296fb37446ab08736a24af1d4fe4bc",
+    "byte_offset_hint": null,
+    "prose": "%9@B #30 yeC9dd@To #twTto-a dKa B p94 yeC9ago@HQ dK#To? 152 yeC9dd\n\n#58 yeC9dd\n\n#527 yeC9dd\n\n#547 yeC9dd"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32B__0035",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32B",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "c36f322f1506c453805abb4e4069feef7f380239da297ed5af284d262b73337a",
+    "byte_offset_hint": null,
+    "prose": "%9@ChY #tTLywW a crud8#to: 1vugC\n\n#5M \n\n#5dulnGs\n\n#5p}jecti<"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0011",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "b2c9b3c768f7163a9778f5219018e56f726ffcdcf3e861644f46a9a8b16c5db7",
+    "byte_offset_hint": null,
+    "prose": "6#A\"I cAlKSav8mBhJ8tQnFD#cAntryFD#5nZ-- A;suff: g1;XgXts.\"3- Chr\\t`qr Cdumbus"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0057",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "c48db7596448e687e2be885cb1770c57c4833aded758613561ee055e952f6fb9",
+    "byte_offset_hint": null,
+    "prose": "%DeC FD8PsyRo-mZrY Dg\\i/w\\q9tTgZ <0F>1cti/ zL mGsage 2\"I fd:LUKO\nDAgh;O ps\nfzky.\"\n#4\"I d[n';fd:L?KO@I;?vy>\nm0I;p9weed.\"\n#6\"I d[n';gZ OFbu;O p9k=da\nk=kB?KI 7&DN.\"\n#8\"AnKFAnKO fac=N%II fd:LUKD8mGsage\""
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0059",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "2ff6fec85e59e834006967650a0dfeb56e39ebd31ad575f2399317834bbfb727",
+    "byte_offset_hint": null,
+    "prose": "%DeC FNASA sci,\\t9C8=t:Gt&*<0F>1cti<9 pXc> scXH 1 goP #OKFbutFSt(fy8OIL%u\\tY xbO9d<';R?geI#3It(j!mE8gibnr\\h m0Is\nD#smpokKtTn cSv:?\n#5I do)gZ O@Bu;mBX> scbls\nne&sJ8p]xtasI#7Up mBdQn-D=k%II;brw9mBrw@I;m-sc]mbSs"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0060",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "2aac1c505f7d483ae7887fcb34afafaa0615e8389cbc9bd35c471713ee70d707",
+    "byte_offset_hint": null,
+    "prose": "2& F=P QuGti<@Wqn<0E>fdrw wEd9C8C]ng&=tT^kntHceFj6#D8feL Stt$'D8zL wEd?\n\n#utoN8D8|h}d\\iy =tMwgHce 1\"a\" #D8obviA9?sw: 3 f=P wEK#\"d\\guL%.\"\n\n#5\"t,\" I D=k@WhTkvws?\n\n#7\"a,\" bu;\"u,\"\n\"i\" PsTfOI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE32C__0061",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE32C",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      6,
+      8
+    ],
+    "text_sha256": "58899f75adfad6c8f2c5208aed0c911d1f4d29b1f53ecf94d44476dd130185ec",
+    "byte_offset_hint": null,
+    "prose": "exacm<OE =t:rmts: \"Toe(m@Pa9<0F>tG;bUkSt9 f}nt@B8s_8<0F>nam8#/<0F>?sw$WeZ<08>~BgTvw@Hav8^nY8wfe.\"3 & (D8feL Stt$'D8f=P wEKjH<0E>fdrw ~k8^kntHce?\nNO THE DESIGNERS OF WORLD ROOM IS HEADWARE AMATEURS IN THERE FOR PSYCHOPHARMACOLOGY 2\"A\" #D8obviA9?sw: 4I d<';xv8^clu8?KcAldn't\ncC8SssI#6In mBcecS9\"P\" #Ppy9De\nzL wEdI#8\"A\" E \"D\" boD fO nYMyI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 6,
+    "choice_digits": [
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "text_sha256": "c59e92c9697a69f4733a4ebf598448a58db575ab450bba3e7dc4e6853afee01b",
+    "byte_offset_hint": null,
+    "prose": "2%FXddi8Bzz$rok96. prby@H87-tTspo;.ng \"cJ:s\"\nmdKDemFuk DemFcruW Dem@ do-q D=l'<0F>R?c-*D8InduLry? 1A s~r;k[@KvwSdgeabS@A gUd\n=t:n ^DeectEI#3A sAndFv-vnknk k[@Ref$to\nbus=Gs-ycAnt dsCtm,I#5SweZ@P}bablB^gUKzy; bu;vt\n^D=k:@LZ(trBD8Mab RUmI#7Z?yFoag=Ng0A gUK=t:n fE\nscript-wrO dsCtm,I@\n %FXddi8Bzz$pr[-hoklf /h#=s =tThu~n nN_0H8PmoL d\\cov:&Luca\nSpiMnrg jH DeBw:8popSKk[s@WqX wbl<0C>fO *V[eTCEp? H8k-. a.. 2A s~r;cUki0TAgh m=d@PossibS\np}duc$~t:iPI#4DsHdabSFfoag=NgeFv;tU\ns~rt@A p}spec; LudiTqiI#6H8c)k8. wrO script9fE\nANIMAL HOUSE IV E POLICE ACADEMY VI#8S~r;?Kc1tg0If<0C>c?\nc<t}l <0F>v\\i<CBL1kI@\n 2&FXddi8Bzz$xnd9.\"tG;fEm@\"T{8a muR to8a<0C>78a rng a<0C>f=\\h *twTm=utG.\"\nSReftM FbcAptOud8ScP8Itec1@<07>job wAlK. pXf:? 2Deect% 4P}duc: 6ActE/ytXss 8Scrip;wrO ?KXkCRI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0016",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "dfd2f0832737c940c64fd95931bbc2ad84a2a2faffe07d8a38369522be95f5ed",
+    "byte_offset_hint": null,
+    "prose": "4%SFAS Itec7@<07>g1;movi8p9deect&bBSt?SBKubrYk? 2`2001?' Or movi8abA;HQ I\nCam8tTLov8D8BJb?\n#4I d<';paBmuR Nt,i/to\ndeectEs@I gTtTfbm9 LCsI#6YA'+saB`2001.' I D=lh#nL\nmovi8p9Up *SmokeI#8SblBquGti<@MBMa*M?FSt?,\ndeect&D85 Pl-to8g1tGt!"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0017",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      3,
+      7
+    ],
+    "text_sha256": "96f5012bb63c7480b07395f1c65ceb99afce38f06bd555ca64305494960e5809",
+    "byte_offset_hint": null,
+    "prose": "%SFAS Itec7@<07>movi8LCXKJylNYhds<? 1In ev:Bmovi8s=c8EaBR[:,\nJylx9nH 5y D8sam8pCtI#3I rv&ho *PNt< 5Jyljo? Wa q * g1t\ng?gL$movie?\n#7On8FSw Ov$D8C4U(NGtI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0018",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      6,
+      8
+    ],
+    "text_sha256": "6549db984f9e0e1caa954df8684cd0855d047bad19839c3bb266076838a78c67",
+    "byte_offset_hint": null,
+    "prose": "%SFAS Itec7@<07>movi8LCXKHCr\\/FEd? 2Ra[:9'D8LoL Ark 4I rv&ho a Indi)J<-=\nTQ: D8Inf:vI#6StC WC9#D8g1tG;fwclof\nPl toGI#8Bzd:fn$p9h#nL!"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      5,
+      7
+    ],
+    "text_sha256": "4aadc7799cf7b6123a4cf07263f4efe60cd32a786c579873d21dad0b39534c25",
+    "byte_offset_hint": null,
+    "prose": "%SFAS Itec7@<07>movi8LCXKPZ$SMSrs? 1Be TqX 3I feM sTsbly@I WAlKkvwFbut\nI c?';Xmemnr@Wa O StC WCs?\n#5WhTcCG?\n\n#7 P=lP?D$moviGI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0026",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "c4afd441929d51193b1f886dbd51f29407ffe8daf1864a1074cc9bdb2b9d34ee",
+    "byte_offset_hint": null,
+    "prose": "<0F> 4%SFAS Itec11@<07>TV WQ LC9ErY IdS? 2I saw ho <c0I;p9/60\nm=utG@NoFsJ8BBC p}g]mI#4DynatyVH8p9g1t!\n\n#6SN_daBN Lge 8M<tBPyD/XrfsI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE33A__0027",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE33A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "f995d56dc8983ee98f8f0e5d7effec6d71d2bd02e4b2e4c827cb2567a09f45cd",
+    "byte_offset_hint": null,
+    "prose": "%SFAS Itec11@<07>TV kri-#^MCBTySr MUX P}ducti<? 1If O(v;PBS I d<';ptR O 3Lav:n8?KSheSy 5Huh? I ptR sT~nBWQsFI c?'t\nkes t]ckI#7MCBHCt~nFMCBHCt~n@I rv>\n WQI@\n %SFAS Itec11@<07>TV kri-LCXKRob*Wbwams? 2I d<';ptR Dok k=K'WQs 4MElsJZh%@I d[n';ptR O 6MEl?KM=dyFO p9mBfavEOe 8CJ>BHAr RYxrKPriE@He\nPsTLCXKa\"spye~nI@\n %SFAS Itec11@<07>TV WQ LCXKSC^DAgzs? 1SJ8pro8to8so| 78DPzs 3FPc<cXL 5Nev$qCK'qr 7Wan';W8*Sm:~n II?"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0000",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      8
+    ],
+    "text_sha256": "d6b3a38816b187bb9c7497ad3e89960898a04c4c70930a8d525e14962913cd58",
+    "byte_offset_hint": null,
+    "prose": "%WqX dT. D=lD8xlrw&qiquCt:9'D8Encycrp>i^CPtEni^#rcN>? 2L^JdzFneC<0E>pXLhiA9SPk\nInLOut8?KD8G1;BUk9CEpI#4SJej:8*CPtEnia 6PaiHaFneC CP TeRFD8Rok\nBQl\nD8HQCKHugq9Lib]ryI#8Cambr[geFMas@neC MITFHCvCd's\nW[H$Lib]rB?KBoL/GCdHI@\n cab f}cLog)t{-. fd$D8tfnMFpa;D8GCdH\nc}sk9D8CxrS9Rg$6Mas@Av0Encycrp>i^CPtEniaVA cOBbrcl'XKbrYlbubd%9fy8D8LXZ c<ceP )=n$pCk: neNlB>O&zwnsFtH_&MmsFp>?tY plks<08>XpE;tTJoi MottF^cJMBwJ?Fs~rtFcut_>FcJpasi<N8(evH jb8try tTkYlqr nYot=8xbO)@Sq(^crk;cJput$f1ltotPlBd>YN& vti/ scXH9wbl X5c8finr-ba&LEag8syLems@Sq ~k-qr wv a P:s<nM DeectE 'D#moL svbb\\hFbUk\\h GtabwWm,I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0001",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      3,
+      5,
+      7
+    ],
+    "text_sha256": "d192e21c5b6d658e8a00f4886a9a79bf378347c06f85699eb5538fca848b777b",
+    "byte_offset_hint": null,
+    "prose": "4&Whb8krv teaFMs@Mot;exam=-.@Sq(Ppy9/D8rok-A; tri-wnguP pe`S; Dok jTc)tPkFwrO8?K~nipuN8Mect}n9 Meg?c0H$feL opXssi/'... 1IntMwg,FDAghtfuFwMl\n=fEm>@IdeP \"E.C.\"\n#3YA'+n g1; wb]rBwEk,\nfbe-XkCR\nD8~b-}JI#5 cut8bu;dumb@Sq xs\n[ea<08>obviAslBd<'tI#7Sq 7-<0F>eXv:,Fffny\nLyS@Bu;. w<';zL rng qXI@\nWhb8sipp teaF. R6abA;<0F> g}fd@Sq kem9=t:Gt>I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0003",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 3,
+    "choice_digits": [
+      4,
+      6,
+      8
+    ],
+    "text_sha256": "b59c45d70da088194e0201fc0853102080d521e51e0353c62b64fbf1d3044b50",
+    "byte_offset_hint": null,
+    "prose": "]X speciG--cut_&*GutHnrg wt:yB?Ks`h\\tYN&*ESct}nY LO:N_0H$hfR # .'X.. 2A pQ:fu Sft-b]=>FwneC\nD=k:@P:fec; \"E.C.\"\n#4A c?d[N8 D8O]l Ronrts\nsRUl 'MZ|hysYsI#6A pot,iP ex2;*at}rgYP\nweNqr-cat ?KUFO s %sI#8H$k=da' 2s<@Mayn .'+jo=\nqr pr;tTGc|8?KfS8wGtI@\n alqr *jYh dsCtm, 6Encycrp>i^CPtEni^. m LCt@Sq(vncJmOtPI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0008",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      4,
+      6
+    ],
+    "text_sha256": "d2461db2baddfadee6f2ab29a1e2e67c37732887d306f4350e78ffc3e4d81dcb",
+    "byte_offset_hint": null,
+    "prose": "4%Ms@Mot;pnt9. t{8D8SgHdCBSReftM Cut_8ScP8jYh me}r9<0F>=tMSctuP |tOudeISCS Itec1@<07>job wAlK. pXf:? 2EdO%FkSct%FXv\\ wEks\n'oD:sI#4SecXtCiPFfb%Fp}ducti<\nwEkI#6ArtwEl?KdGhn wEk 8C1tg8wrO%I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0009",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      5
+    ],
+    "text_sha256": "9f09145ad878236e6a617ecc96c3c7df7d550846216074d9c24e6df64ba945b2",
+    "byte_offset_hint": null,
+    "prose": "%Ms@Mot;pnt9. t{8D8SgHdCBSReftM Cut_8ScP8jYh me}r9<0F>=tMSctuP |tOudeISCS Itec1@In jYh dsCtm, wAlK. pXf$tTLC;<0F>cCe:? 1SciHce 3N<-fYti/(biog]phi-?d\nhQ-to's)I#5Magaz=e 7FYti<I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0010",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      3
+    ],
+    "text_sha256": "916b9daa2b3c3274ee855df44ca2af2c2a6c00c3abc4f614fc5c93e3d8f4c460",
+    "byte_offset_hint": null,
+    "prose": "%Ms@Mot;pnt9. t{8D8SgHdCBSReftM Cut_8ScP8tTdZ:m=8<0F>job pXf:HceISCS Itec1@In jYh posOi/wAlK. pXf$tTLC;<0F>cCe:? 1Ac;a drg$ D8EdOEiP\nDeectEI#3LeCn typ%Ffb%FbUkkes% 5WEl qi 'Sec_Oy 7B8^Gof:-Rfn$*D8Art\nDsCtm,I@\n %Ms@Mot;pnt9. t{8D8SgHdCBSReftM Cut_8ScP8tTdZ:m=8<0F>job pXf:HceISCS Itec1@In jYh 'D8fdrw dsCtm,9wAlK. 78tTLCt? 2Lib]ry 4Adm=\\t]tg8offYG 6Art9?KG]phY9DsCtm, 8CJput$C;zbI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0018",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "7e97fd406331095a32a9545bc28eb2e4866d571c3851e12177f64fd15169b945",
+    "byte_offset_hint": null,
+    "prose": "%SCS Itec4<08>C8abA;tTaprKD8 Priz8 nL bUk@<07>'DG8dT. RUk? 1N{&LfR bBWbzo B_}ughs 3Ch4 Yeag:(Autobiog]phy 5FE<0E>Gip2 bBR@Reag)(a tdd\ntTBen Robozo)I#7JOt:bug P:fum8bBTJ Robb=sI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0019",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      6
+    ],
+    "text_sha256": "dbd7802402b0c59c8e5aa05124d1a128a6551942a8f6e125eabbb6cbed99be84",
+    "byte_offset_hint": null,
+    "prose": "%SCS Itec4@<07><8'D8fdrw bUk9wAlK. gg8tT v:BspeciP friHd? 2Rememb]nc8'Th%9Pat 4 HdBBibS (15D C,_BK%\nJamG' v:si<)I#6CdSct&Poem9bBAlSn G=snrg 8 Do-WoM)W?t? bBT@LeCyI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0023",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 2,
+    "choice_digits": [
+      1,
+      5
+    ],
+    "text_sha256": "9a27c6b9c704a5463a3a130c65a3c4a8f3ae6bd3189f680efd9c8193d3fede7f",
+    "byte_offset_hint": null,
+    "prose": "%SCS Itec6@ TahOi)SRUn$#qX@ g]s9hu;#1dy@ tAr '\\znKdutB#5 yeCs@ChUk<0E>wrO$jok cdSct&wEk9.'+br P<g 1WbwacB_}ughs 3Stsqn K% 5HCSqu*RJ?cG 7Hft$ThJps<I"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0031",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "5a76d749f1db9826eff65c8b8d979eeaaddb6c32aa93eb42aad845672bfa4931",
+    "byte_offset_hint": null,
+    "prose": "2 R{e(P}gXss\n Gu:nY^M_P\n 2MYqzngMo(Dav[\n Blu8Boy\n 2Am:Y)GoDY\n Art\\t(MoD$bBWh\\tSr\n 2 M<^L\\a!!!!!\n Wah%t/C}ss DMapX\n 2UncS SacW?t9YAV(PoL:)\n MAn;RuWmE8FyG\n 2L.A@OlympY StNuG\n StCrBN \n 2GCdH 'ECDlBDM s\n Sf@/D8Isl@'D8G]nd8JZte\n 2Campn+SAp C)bBH?dBAndy\n Miami Lib]rBM_P9bBEKRuWa\n 4%SCS Itec10@Encycrp>i^CPtEni^pnt9tTs_veB<0F>g]sp 'D8Ar;WEldI<07>'DG8#<0F>favEOe? 1 R{e(P}gXss 3Am:Y)GoDY 5UncS SacW?t9YAV(PoL:)\n\n#7GCdH 'ECDlBDM sI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0033",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      4
+    ],
+    "text_sha256": "20969353c66fa7424d6a36f7fb772b14ab9973692791e071b1ddd71eb4d99fb9",
+    "byte_offset_hint": null,
+    "prose": "%SCS Itec10@<07>'D8fdrw wEk9'C;dT. s=c:MyFh<GtlBpXf:? Ly wbl n pf\\qKbBd\\RCg8E wEk 1Gu:nY^M_P 3Blu8Boy 5MAn;RuWmE8FyG 7SfdaB/D8IsznK'D8G]nde\nJZteI@\n %SCS Itec10@E.C@ao96cJmfYN <0E>sub_b)~sks@ f]nl`=i<9C8cruciP .\ntTE.C@SMec;<0F>favEO8wEl'C;am<g DGe 2 MCbS StNu8'Dav[ by\nMYqzngMoI#4 M<^L\\a 6 StCrBN 8 Di8CAntB(Frr[a) Lib]ry\nm_P9bBEKRuGRaI@\n SCS Itec11@OkayFPYasoFjYh 'D8fdrw Ct\\t9dT. kvw wMl HAgh nam8twT'Dee wEks?3 2Ronr;G]xm\n BPDus\n 2Hi:<ymA9BosR\n Ja2 Johns\n 2ThJa Ga=sbEAgh\n V=c, v)Gogh\n 2MYqzngMo\n Le<CdTd^V=ci\n 2Jam-Wh\\tSr\n G]n;WUd\n 2SPviE DPi\n GeEg-Se_N\n 2HMmu;Newt<\n Jyks/Pdzck\n 2Dav[ Hockney\n MagrOte\n 4%SCS Itec12@OkayFPYaso@If<0C>cAlKRUk\"pa=t tTkes bB<8'D8fdrw pa=t:sFjTwAlK. pYk? S=c:OBcAnts 2Hi:<ymA9BosR 4MYqzngMo 6SPviE DPi 8Dav[ HockneyI"
+  },
+  {
+    "id": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B__FILE34A__0038",
+    "disk_name": "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B",
+    "file_name": "FILE34A",
+    "realm_hint": "mental_abilities",
+    "title_hint": null,
+    "option_marker_count": 1,
+    "choice_digits": [
+      7
+    ],
+    "text_sha256": "25003462c03ae461388400f9e5a0b2d2b69c0a4088a9eb9cb63baf3efe505084",
+    "byte_offset_hint": null,
+    "prose": "2% b]nK'chCZt8d[ Ms@Mot;smoke? 1 quGti/#brgYP 3I d<';78ambhuA9quGti<s 5HQ WAlKI kvw?\n\n#7G]ssI"
+  }
+]

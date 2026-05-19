@@ -1,0 +1,233 @@
+<CTRL0E>
+Use these modifiers to qualify
+the thought you are scoping.
+
+<PAGE>
+
+Check 3 1 1 on these scales:
+
+Now describe 3 2 1 :
+
+Now describe 3 3 1 :
+
+Now describe 3 4 1 :
+
+#11 PEPPY
+HYPER-MANIC
+LAID-BACK
+LOW-ENERGY
+#12 INTENSE
+AGITATED
+LOW-KEY
+TRANQUIL
+#13 SAD
+MELANCHOLIC
+HAPPY
+EUPHORIC
+#14 HESITANT
+LISTLESS
+GUNG-HO
+WHOLEHEARTED
+#21 BOSSY
+DICTATORIAL
+SHY
+PASSIVE
+#22 COCKY
+HAUGHTY
+CUTE
+EAGER-TO-PLEASE
+#23 GRUMPY
+HOSTILE
+SWEET
+CONGENIAL
+#24 WHINING
+COMPLAINING
+ENCOURAGING
+NURTURANT
+#31 KNOWLEDGEABLE
+INTELLIGENT
+DUMB
+IGNORANT
+#32 ORGANIZED
+EFFICIENT
+FLAKY
+DISORGANIZED
+#33 CLOSED-MINDED
+LITERAL-MINDED
+IMAGINATIVE
+ORIGINAL
+#34 BY-THE-BOOK
+NARROW-MINDED
+INGENIOUS
+INVENTIVE
+#41 V.I.P.
+ARISTOCRATIC
+SOCIAL-NOBODY
+INSIGNIFICANT
+#42 PROPER
+PILLAR-OF-THE-COMMUNITY
+ROWDY
+REBELLIOUS
+#43 STRAIGHT-ARROW
+INHIBITED
+FREE-LIVING
+SOCIAL-MAVERICK
+#44 SQUARE
+SMALL-TOWNISH
+SOPHISTICATED
+COSMOPOLITAN
+^ !---!---!---!---!---!---!---!
+^ Never Rarely Often Always
+1
+SPACE BAR flips between PLAIN TALK and SHRINK-RAP (psychological) words.
+CURSOR LEFT (or J) and RIGHT (or K) move the scope-arrow across the scale.
+CURSOR DOWN (or M) moves to next scale.
+CURSOR UP (or I) recalls previous scale.
+3
+CONTROL-R retrieves a subject
+previously saved.
+
+<PAGE>
+
+Press RETURN to continue.
+
+<PAGE>
+
+Here's what you came up with.
+
+<PAGE>
+
+x:
+
+These words summarize the results of your Mind-Scope. A more precise reflection is available in the Mind Maps of each Thought-Plane.
+
+Press RETURN for details.
+
+<PAGE>
+
+THE MIND MAPS
+2
+Keys (1) through (4) flash the Mind Maps derived from the thought scales just completed.
+
+<PAGE>
+
+You can view the Mind Maps with your joystick by simultaneously pressing the joystick button and moving the joystick in a diagonal direction as shown below:
+
+<,10>BIO-<,23>EMOTIONAL
+<,8>ENERGY \\ / INSIGHT
+<,18>O
+<,8>MENTAL / \\ SOCIAL
+<,5>ABILITIES<,23>INTERACTION
+
+If a subject is extreme, it's plotted away from the center. If it's moderate, close to the center. You can view these Mind Maps any time after completing the scales.
+
+^
+<PAGE>
+
+<CTRL0E>
+The first Thought-Plane you've created is 2 BIO-ENERGY 1 , i.e.: life force, mood, vitality and temperament.
+
+<PAGE>
+
+<CTRL0E>
+The second Thought-Plane you've created is 2 EMOTIONAL INSIGHT 1 , i.e.: interpersonal style and angle of approach to others.
+
+<PAGE>
+
+<CTRL0E>
+The third Thought-Plane you've created is 2 MENTAL ABILITIES 1 , i.e.: knowledge, creativity, information grasp, and imagination.
+
+<PAGE>
+
+<CTRL0E>
+The fourth Thought-Plane you've created is 2 SOCIAL INTERACTION 1 , i.e.: class, tolerance, sophistication and moral conventionality.
+
+<PAGE>
+
+You have scoped
+^ as much more 3 than
+^ as slightly more 3 than
+^ about as 3 as
+^
+<BELL>
+
+you have scoped
+^ as much more 4.
+^ as slightly more 4.
+^ about as 4.
+^
+<BELL>
+
+Press (
+) to see the Mind-Map of ^
+Which drive? (1) or (2)
+(Press ESC to abort.)
+
+Insert disk, then press RETURN.
+Enter file name:
+
+(If the disk needs to be formatted first, press CONTROL F.)
+
+**** WARNING: ****
+Formatting will destroy all data
+currently on this disk!
+1
+Are you sure? (Y)es or (N)o
+
+File exists - Overwrite? (Y)es or (N)o
+**** ERROR SAVING FILE! ****
+Press RETURN to continue.
+
+<PAGE>
+
+*** IMPROPER FILE OR FILE NOT FOUND ***
+Insert GAME DISK, then press RETURN.
+
+<CTRL0F>
+
+<CTRL0E>
+
+Would you like to:
+
+#0Do Alternate Exercise
+
+#1Save the personality of
+1
+#2Save the personality of
+2
+#3Save the personality of
+3
+#4Save the personality of
+4
+#6Play LIFE SIMULATION
+
+#7Return to the Main Menu
+
+@
+
+<CTRL0F>
+^ No additional selections
+1
+Use Cursor Keys and press RETURN to select a subject. You may choose up to four.
+Press ESC to return to previous menu.
+
+<PAGE>
+
+<CTRL0F>
+These are the Macro-Thoughts you chose. To alter or to add additional entries, type in your changes.
+
+^ 1.
+
+^ 2.
+
+^ 3.
+
+^ 4.
+
+CURSOR UP and DOWN (or CONTROL J and CONTROL K) move between fields.
+Press RETURN on blank entry or fourth entry to go on to the scales.
+Press ESC to return to previous menu.
+
+<PAGE>
+
+<CTRL0F>

@@ -1,0 +1,168 @@
+The SOUP KITCHEN is jammed with down-and-outers. The hall reeks of boozy breath, unwashed bodies, cigarette smoke and the pungent odor of bean soup. A social worker is on one side signing up derelicts for part-time work. A minister is preaching to a group of gloomy down-and-outers. Some winos are off in a corner passing around a bottle of muscatel. Some wary Blacks are hanging out across the room waiting for something to happen. What's happening, apparently, is you.
+
+<PAGE>
+
+2A wizened Black man approaches. He studies you very carefully with a cool expression. Then he breaks into a grin and says: "Yo Blood. What's happenin'?"
+
+#2"Good question. I'll reward you well
+if you can tell me."
+He grins and shrugs. "I can't tell you nothin'. If I knew I wouldn't be here."
+
+#4"Excuse me, Sir. I must talk to the
+minister over there."
+"Prayin' ain't gonna save yo' butt. You stuck here jes' like the rest of us Zebras."
+
+#6"Not much, man, I'm looking to make
+a move."
+He flashes you another appraising look. He's trying to figure you out. "Let me know when you make a play. Maybe we'll move with you."
+
+#8"I frankly don't have a clue. Who's
+in charge here anyway?"
+This provokes a good laugh. "Good question. You find out--you lemme know."
+
+@
+A jiving Black man approaches, looks you in the eyes, and laughs knowingly. "What you think of Prince?" he asks.
+
+#1"I often stay with Rainier at the
+Palace when I visit Monaco."
+"The Palace? I never been there. That where the action is?"
+
+#3"Prince who? You mean the Englishman
+who married Lady Di?"
+"No, man, I'm talkin' spaghetti. You putting me on?"
+
+#5"Prints? You talking finger prints?
+I ain't done nothing."
+"Easy, Blood. We in this together."
+
+#7"That Purple Rain will heal your
+pain. It's baad, real baad."
+He holds out his hand and you give him five.
+
+@
+2The minister leaves his group and approaches. Your companion drifts away as the minister greets you. "Welcome friend. May God be with you! Would you like to witness for the Lord?"
+
+#2"Thank you, Reverend, but I belong
+to another church."
+As he tries to explain how we're all children of the same God, you make a speedy departure.
+
+#4"Hallelujah, Reverend. I'm always
+ready to witness for the Lord."
+He invites you over to join his prayer group, but you lag behind, taking in the rest of the scene.
+
+#6"Sorry man, that's just not my
+thing."
+He starts a long harangue about salvation and sin and evil and repentance. You don't want to hear it so you walk away.
+
+#8"You are most kind. But I'm really
+here to watch."
+He starts preaching to you, but his heart isn't in it. He guesses you're too sophisticated to take him seriously. Shortly, he returns to his flock.
+
+@
+The grey-haired minister accosts you; your companion retreats. The minister pats the Bible in his hand. He booms out in a pulpit voice, "Sinner, have you heard the good news?"
+
+#2"No, I haven't had a chance to talk
+to my broker yet."
+Improvising, he assures you that, "God is the Broker of Life. An unlimited credit-line comes with the Lord." You are amused. He soon runs out of steam.
+
+#4"Praise the Lord," you exclaim. "I'm
+ready for the Word."
+"Then join us Brother, and find God." You swear you will, but first you have to find the bathroom. He gives you directions.
+
+#6"That old time religion don't make
+it anymore, Rev."
+He assures you that Jesus is as new as tomorrow's paper. You pat him on the shoulder and point him back to his prayer group.
+
+#8"Sinners, winners, losers, users.
+They're all saints to me."
+He's confused by your poise but keeps preaching repentance. You tell him thanks, but you're having lunch with the Pope on Saturday.
+
+@
+2An old crone with a brown paper bag flashes a toothless smile. "Let's play a little game of Survival. You put your passkey in the bag. I put mine in. Winner gets both. Okay?"
+
+#1"I don't think it's quite come to a
+question of survival, my dear lady."
+"If you ain't got nothing, you got nothing to lose." You find her charming, in a weird way. You check to see if you have any passkeys left.
+
+#3"I'm sure gambling must be against
+the rules here."
+She cackles. She knows that you're out of your element. She enjoys your discomfort.
+
+#5"Hey, why not? I got nothing to
+lose."
+You never pass up a bet. You check your pockets for passkeys.
+
+#7"Whose survival are we talking
+about? I think I'll pass."
+You're amused but you're not about to be taken by this old woman.
+
+@
+A grizzled old wino with stained, slept-in clothes, lurches over, clutching his brown-bagged bottle. Between bouts of drooling he mumbles, "You like Thunderbird?"
+
+#1"What do you have in that bottle, my
+dear man?"
+He offers it to you, but you politely refuse. The one thing you won't compromise is your preference for vintage wine. He offers it again.
+
+#3"A Thunderbird's too flashy. A Chevy
+station wagon is my kind of car."
+But he seems to be talking about the bottle he's holding. You wonder if it's grape juice or diet cola.
+
+#5"Give me that bottle. I'm dry as a
+bone."
+Before you can take the bag, you spot the social worker looking over in your direction.
+
+#7"It's not Chateau Lafitte. But why
+not? I'll go for your low."
+But then you have second thoughts. There are limits. The question is, how thirsty are you?
+
+@
+2Before things can go any further with the paper bag, the Social worker comes over. He hands you a quarter and points to a phone. "Maybe you'd like to make a call."
+
+#1You call your lawyer.
+
+You get his new secretary. She laughs when you tell her where you are. Your lawyer's gone for the day. He'll get back to you tomorrow.
+
+#3You call your minister, priest or
+rabbi.
+You'd call all three if you had enough quarters.
+
+#5There's no one to call, so you
+pocket the coin.
+You pick up the receiver and fake a call. Then you fish in the coin return, checking for change. No luck.
+
+#7You call a street-smart fixer named
+Tony.
+You get his girl friend. She laughs when you tell her where you're calling from. Tony's gone to Las Vegas. You wish him luck, but you don't say what kind.
+
+@
+The social worker approaches, putting an end to your companion's paper-bag routine. He says in an obnoxiously cheerful manner, "Would you like some honest hard work?"
+
+#2"We could discuss over lunch how my
+background might fit your needs."
+He looks at you like you're one of those nuts who got brainwashed in some MBA program.
+
+#4"I'll take any honest job. Just give
+me a chance."
+He offers you a job digging ditches. The pay is $2.07 an hour. You're pleased. At least it might be a start in the right direction. You hope.
+
+#6"Job? I'm here for that night on the
+town Electronic Arts promised me."
+He tries to tell you how rewarding and fun honest work can be. You tell him to tell it to the guys who designed this Life Simulation.
+
+#8"Thanks, but I never sign anything
+without my lawyer's advice."
+As you talk with him, you find, to your surprise, that your lawyer is the one hiring all this cheap labor--to dig himself a swimming pool.
+
+@
+At this point a Salvation Army Officer approaches you. She smiles cheerfully. "You have been a most charming guest," she says. "You probably would like to see more of our city. Would you like to select a passkey to another Zone?" She holds out several.
+
+<PAGE>
+
+CHOOSE ONE:
+At this point a Salvation Army Officer approaches, smiling broadly. She says, "Congratulations! You've won the Grand Prize. You're KING OF THE BOWERY! You win a life-time food-stamp card plus perpetual free denture care. You'll be guest of honor at our Charity Christmas Dinner."
+
+<PAGE>
+
+At this point a Salvation Army Officer comes running over. "Oh dear," she says. "I'm afraid you must go. Would you follow me?" She leads you to the exit and smiles sweetly. "Better luck next time," she says. The door opens, you step outside and the door closes behind you. You're out in the Plaza again.
+
+<PAGE>

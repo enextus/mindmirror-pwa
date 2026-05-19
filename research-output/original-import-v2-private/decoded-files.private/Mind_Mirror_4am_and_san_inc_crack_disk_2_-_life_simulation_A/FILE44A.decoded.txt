@@ -1,0 +1,45 @@
+2None other than the Reverend Jessie Lee Dixon is there to greet you. "Welcome to the house of God and His only Son, Jesus, who died for our sins. Will you accept Jesus as your savior?"
+
+#2"There can't be too much religion in
+this crazy world."
+The Reverend looks you over, approving your righteous attitude. "I hope you're prepared to help the Lord's work."
+
+#4"My hope and faith are in the Lord;
+I'm here to pray."
+Reverend Jessie Lee is delighted. "A million dollars couldn't buy the healing grace we are about to receive. I hope you're ready for these heavenly gifts."
+
+#6"I'm ready for anything, Rev."
+
+Hmm. The Reverend isn't sure about you. But still, the Lord turns away no paying customer. "Priceless gifts await you."
+
+#8"What a fascinating scene! I'm truly
+looking forward to the occasion."
+The Reverend blinks. He's seen a lot, but you're new to him. Well, you look affluent and who can judge the mystery of God's ways. He'll give you a try.
+
+@
+Reverend Jessie Lee Dixon, Bible in hand, is waiting by the church door. "Welcome to the Lord's Bargain Basement. God's son, Jesus, died for our sins. Are you ready for His priceless gifts?"
+
+#1You smile graciously. You love to
+watch village peasants at worship.
+Reverend Dixon is intrigued. When ritzy folks show up in a Gospel Church, they're usually hurting and ready to pay well for the healing grace.
+
+#3You smile tightly. At least Gospel
+churches are decent and moral.
+Reverend Dixon is glad to see you. He's sized you up as a sedate believer who may be ready to pay for some rousing Pentecostal wrestling with the Devil!
+
+#5You smile weakly. A Pay-for-Prayer
+preacher may not like poor folks.
+The Reverend frowns, sensing your financial situation may be weak. However, he's always hopeful and says, "Praise the Lord."
+
+#7You grin. A fundamentalist church!
+What a unique experience!
+Your grin is suspicious. You may be a reporter from one of those liberal, Godless magazines like TIME. But he decides to take a chance on you.
+
+@
+He puts his arm around you. "We are blessed! He who died for our sins has vowed to show up this night. For nonmembers, a one hundred dollar good-will donation, cash, check or Master Card, will allow you to take part in our special evening." When you don't reach for your money, he removes his arm. He's sorrowfully firm. "Come to church on Sunday. Tonight's for the chosen."
+
+<PAGE>
+
+He puts his arm around you. "Tonight's a special night," he says confidentially. "Our savior Jesus will be here to heal you of all suffering of body, mind and soul. One hundred dollars for nonmembers is the offering, cash, check or major credit card." He's amazed when you pull out a membership card to his church. But he's a pro. He'll get your donation later. He takes your card and ushers you in saying, "Come in to the house of the Lord!"
+
+<PAGE>

@@ -1,0 +1,45 @@
+2The uniformed doorman, Minsky by name, is escorting a well-dressed couple to their limo. He turns to you as you approach. "Good evening," he says politely. "May I help you?" You say:
+
+#2"I thought I might drop in for a
+drink and some supper."
+Minsky has memory problems. "I'm afraid I have forgotten your name. Or is one of our members expecting you?"
+
+#4"I'm a stranger here. Could I come
+in and make a phone call home?"
+Minsky looks you over carefully. He believes deeply in the exclusivity of The Club. You obviously don't belong here, but you look harmless enough....
+
+#6"Evening, Boss. Tony asked me to
+drop by for a drink."
+Minsky gulps and activates his memory circuits. You look like trouble. But he never could deal with rowdy funsters. Tony? Tony? Who could Tony be?
+
+#8"Good evening." You nod and keep
+walking towards the door.
+Minsky's impressed by your savoir faire. He feels he should know you. He asks deferentially, "Which member is expecting you?" You smile. He cogitates.
+
+@
+The Doorman, known as Minsky, comes over to greet you. He doesn't think you belong, but (although he doesn't like to admit it) he's been mistaken before. "May I help you?" he asks politely.
+
+#1"You are so kind," you murmur as you
+wait for him to open the door.
+He's intimidated. He's been in charge here for a long time and he hates surprises. You continue to wait for the door to be opened.
+
+#3"Nice place," you say timidly. "Do
+you mind if I take a look around?"
+He does a double take. He's ready to give you the boot, but he remembers the time he gave the bum's rush to Howard Hughes.
+
+#5"I'm kinda down on my luck at the
+moment. Could I talk to the boss?"
+You didn't have to tell him that you're down and out, he's paid to know that. But you look peaceful. He bends over in a professorial way.
+
+#7You smile confidently and say, "I'd
+like to see the manager."
+Hmm. He's puzzled. You're obviously not intimidated by his old-world facade. He decides to proceed respectfully.
+
+@
+He clears his throat. "The Bankers Club is for members only," he says. At this moment a limo pulls up to the curb. The driver opens the door and two very important looking men from the Texas Instrument Company get out. Minsky steps in front of you to greet them and show them inside. He returns. "I'm sorry, but the club is private. Come back tomorrow if you wish to see the manager about a membership." So much for the Bankers Club.
+
+<PAGE>
+
+He clears his throat. "The Club is for members only," he says apologetically. He shows his surprise as you hand him your Bankers Club Membership Card. He blinks and makes a quick recovery. "But, of course," he stutters. "How nice to see you again." He opens the door and bows as you walk in.
+
+<PAGE>

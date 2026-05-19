@@ -1,0 +1,420 @@
+4%1. If five beers cost a dollar, what will a six-pack cost?
+
+#1$1.20
+
+#5$1.25
+
+#5$2.25
+
+#5$6.00
+
+@
+%1. An optimistic man is likely to be:
+
+#1hopeful
+
+#5indignant
+
+#5friendly
+
+#5wealthy
+
+@
+%1. An uncle is generally ________ than
+his nephew.
+
+#1older
+
+#5wealthier
+
+#5wiser
+
+#5larger
+
+@
+%1. An inhabited city always has:
+
+#1people
+
+#5apartments
+
+#5birds
+
+#5leaves
+
+@
+4%2. A colt is like a horse in the same way that a ________ is like a dog.
+
+#1puppy
+
+#5bone
+
+#5house
+
+#5cat
+
+@
+%2. A lame horse is likely to be:
+
+#1slow
+
+#5weak
+
+#5hungry
+
+#5angry
+
+@
+%2. Work is related to pay as practice is related to:
+
+#1skill
+
+#5happiness
+
+#5wealth
+
+#5curiosity
+
+@
+%2. Which of the following is most unlike a rectangle?
+
+#1cylinder
+
+#5cube
+
+#5square
+
+#5triangle
+
+@
+4%3. A financially successful doctor always has:
+
+#1wealth
+
+#5friends
+
+#5girl friends
+
+#5machines
+
+@
+%3. When a serious crime occurs to a worker, it is most necessary to call:
+
+#1a policeman
+
+#5a close friend
+
+#5a safety inspector
+
+#5a foreman
+
+@
+%3. One item out of the following is unlike the rest. Which is it?
+
+#1nail
+
+#5blanket
+
+#5pink pajamas
+
+#5teddy bear
+
+@
+%3. A lying politician is likely to be:
+
+#1elected
+
+#5jailed
+
+#5disliked
+
+#5proud
+
+@
+4%4. A tennis match always involves:
+
+#1contestants
+
+#5a clay court
+
+#5judges
+
+#5spectators
+
+@
+%4. A worker who throws a wrench into his machine is a (an):
+
+#1saboteur
+
+#5alien
+
+#5religious nut
+
+#5unhappily married person
+
+@
+%4. If a drunken frog leaps 7 feet in 1 second, how many feet can he leap in 10 seconds, assuming the same rate of sobriety?
+
+#170 feet
+
+#560 feet
+
+#535 feet
+
+#510 feet
+
+@
+%4.Six per cent of $1200 is the same as four per cent of how much?
+
+#1$1800
+
+#5$1600
+
+#5$1400
+
+#5$1200
+
+@
+4%5. Gasoline is related to an airplane as _________ is to a human brain.
+
+#1information
+
+#5a job
+
+#5a friend
+
+#5family
+
+@
+%5. In the following series of numbers and letters, count each 6 that does not have an A or a 7 following next after it. How many 6's do you count?
+6 5 N T Q 3 6 7 A 6 D 2 9 6 3 X 5 2 R
+
+#13
+
+#54
+
+#55
+
+#56
+
+@
+%5. House cats are generally _______ than dogs.
+
+#1smaller
+
+#5older
+
+#5fiercer
+
+#5bigger
+
+@
+%5. Read the three statements below.
+Boyd is younger than Charles.
+Alice is older than Charles.
+David is younger than Boyd.
+Which one of the following is true?
+
+#1Boyd is younger than Alice.
+
+#5Alice is younger than Boyd.
+
+#5Alice and Boyd are the same age.
+
+#5None of the other answers.
+
+@
+4%6. Sand is to desert as water is to:
+
+#1ocean
+
+#5canyon
+
+#5mountain
+
+#5fish
+
+@
+%6. Donald missed 18 hours of work, but he worked 4/5 time. How many hours does he work on full time?
+
+#190 hours
+
+#572 hours
+
+#540 hours
+
+#5Cannot be determined.
+
+@
+%6. Read the three statements below.
+Boyd is younger than Charles.
+Alice is older than Charles.
+David is younger than Boyd.
+Which one of the following is true?
+
+#1Charles is older than David.
+
+#5David is older than Charles.
+
+#5Charles and David are the same age.
+
+#5None of the other answers.
+
+@
+%6. Read the three statements below.
+Boyd is younger than Charles.
+Alice is older than Charles.
+David is younger than Boyd.
+Which one of the following is true?
+
+#1David is the youngest.
+
+#5Alice is the youngest.
+
+#5Boyd is the youngest.
+
+#5Charles is the youngest.
+
+@
+4%7. Read the three statements below.
+Boyd is younger than Charles.
+Alice is older than Charles.
+David is younger than Boyd.
+Which one of the following is true?
+
+#1Alice is the oldest.
+
+#5Boyd is the oldest.
+
+#5Charles is the oldest.
+
+#5David is the oldest.
+
+@
+%7. A man won $180 in the lottery. The next day he lost one-third of this amount. Each day thereafter he lost one-third as much as he lost the day before. How much does he have after three days?
+
+#1$93.33
+
+#5$60.00
+
+#5$86.67
+
+#5$100.00
+
+@
+%7. Which of the following is least like the others?
+
+#1baseball player
+
+#5lawyer
+
+#5judge
+
+#5court reporter
+
+@
+%7. When the following words are arranged into a sentence, what is the first letter of the fourth word?
+
+she the dance to girl said wanted
+
+#1s
+
+#5d
+
+#5t
+
+#5w
+
+@
+4%8. If 2-1/3 pounds of potatoes cost 14 cents, how much will 10 pounds cost?
+
+#160 cents
+
+#558 cents
+
+#570 cents
+
+#555 cents
+
+@
+%8. If Steve Jobs types 40 words in 1 minute and Steve Wozniak types 180 words in 1 1/2 minutes, how many additional words must Jobs type to equal Wozniak's work after they've both worked one hour?
+
+#14800 words
+
+#51200 words
+
+#5300 words
+
+#53000 words
+
+@
+%8. The first two statements are true. 1)An efficient programmer must be able to code rapidly. 2)Carla can code rapidly. 3)Therefore, Carla is an efficient programmer.
+
+#1The third statement is uncertain.
+
+#5The third statement is true.
+
+#5The third statement is false.
+
+#5The second statement is false.
+
+@
+%8. One letter is wrong in the following series. What should that letter be?
+A G B H C I D J E K F L G M N.....( )
+
+#1H
+
+#5N
+
+#5I
+
+#5B
+
+@
+4%9. Trip works 8 hours each day at 80 dollars per hour and in addition works 2 hours per day overtime for which he receives time and one-half. How many days must he work to earn $9680?
+
+#111 days
+
+#57 days
+
+#58 days
+
+#59 days
+
+@
+%9.If a gold bar 70 inches long is cut into two pieces so that one piece is 3/4 as long as the other, what is the length of the shorter piece?
+
+#130 inches
+
+#540 inches
+
+#550 inches
+
+#560 inches
+
+@
+%9. Bing is 30 years old. Tim is two times as old as Bing was 4 years ago. How old is Tim?
+
+#152 years old
+
+#58 years old
+
+#527 years old
+
+#547 years old
+
+@
+%9. Chic is to stylish as crude is to:
+
+#1vulgar
+
+#5elation
+
+#5dullness
+
+#5projection
+
+@
+You're interrupted by the exam monitor. "Put your pencil down. Close your test booklet. Open your test booklet to page 24 and read the directions for Section III silently as I read them aloud."
+
+<PAGE>

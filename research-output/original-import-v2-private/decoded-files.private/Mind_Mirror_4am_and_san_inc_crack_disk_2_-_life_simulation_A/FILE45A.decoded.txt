@@ -1,0 +1,49 @@
+2The woman by the door has a plump, well-scrubbed appearance. Her hair is drawn up in a no-nonsense bun. As you reach her, she flashes you a regulation smile.
+
+#2You're unafraid. You nod and keep
+walking into the Hall.
+The lady in the uniform is impressed. She holds up her hand politely to ask you something. What could she want?
+
+#4You smile back and say, "Could you
+please help me, Ma'am?"
+She smiles sympathetically. She says she'd be pleased to, but there may be a small problem of your eligibility.
+
+#6You say, "Hey Mama, I've come for my
+man Tony. He works in the kitchen."
+She seems confused. "There's something we have to straighten out first," she says. What's she talking about?
+
+#8"What a charming spot you have here.
+Mind if I look around?" You ask.
+She blushes apologetically as you eyeball the scene. She holds out her hand. What does she want, your autograph?
+
+@
+As you reach the door, the uniformed woman raises her ivory hand to her lips and coughs. "We welcome all who are needy. But, you must have an eligibility card to enter the soup kitchen."
+
+#1You laugh confidently. "Eligibility!
+No problem, my dear, I assure you."
+She's obviously impressed by your air of quiet importance. But she holds out her hand expectantly.
+
+#3You blush with embarrassment. You
+don't want to cause a commotion.
+She smiles sympathetically. She's pleased by your middle-class manners and suspects you don't really belong down here in a soup kitchen.
+
+#5You smile timidly while you search
+your jeans. You can play this game.
+She flashes you that patient social worker smile. She probably thinks she's seen you here before and is trying to remember your hard-luck story.
+
+#7You shrug, "Cards, ID's. Numbers.
+Licenses. Dog tags. Whatever."
+She smiles nervously. She secretly admires your free spirit, but she can't ignore the rules and regulations.
+
+@
+"To enter, you must have an official welfare eligibility card stamped by the Social Security Office," she says. Seeing that you don't have one, she adds, "Go to the City Hall first thing in the morning." She's sympathetic but firm.
+
+Can you believe that! Even here, at the bottom of the ladder, there seems to be Social Status Ritual. What an uptight place this is! It must be Planet Earth!
+
+<PAGE>
+
+"To enter, you must have an official welfare eligibility card stamped by the Social Security office," she says.
+
+You hold out your welfare eligibility card. She takes it and steps aside saying, "Make yourself at home." You walk into the hall. Are you ready to deal with the bottom of the social order?
+
+<PAGE>

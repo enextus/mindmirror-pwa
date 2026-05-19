@@ -1,0 +1,120 @@
+These are the passkeys available to you. Choose one to take with you:
+
+#1An embossed party invitation
+#2A Bankers Club membership card
+#3A PTA membership card
+#4A church membership card
+#5A welfare eligibility card
+#6An after-hours bar card
+#7A floppy disk
+#8A Playtime Club key
+@
+Your home zone is the
+The passkey for this zone is
+Good Luck!
+
+^
+<PAGE>
+
+
+
+<CTRL0F>
+You find yourself back in the central plaza. You have:
+
+
+<CTRL0F>
+^ U I O
+^ J K
+^ N M ,
+
+The diagram above shows the keys you use to select the 8 zones which surround the plaza. Pressing one of these keys gives the description of a zone. When you have selected the zone you wish to approach, press the RETURN KEY.
+
+Pressing the SPACE BAR gives a list of the passkeys you have.
+
+Pressing ANY OTHER LETTER KEY gives a picture of the full plaza.
+
+<PAGE>
+
+Pressing the (9) key shows a Mind Plot of your performance within this realm.
+
+<PAGE>
+
+RITZ RESTAURANT
+An ultra-palatial building with French Empire decor and marble columns. The parking lot is jammed with Rolls Royces guarded by uniformed chauffeurs. Two doormen in formal dress stand by the entrance.
+
+<PAGE>
+
+BANKERS CLUB
+An imposing granite structure with a canopied entrance and a uniformed guard. A bronze plaque reads:
+MEMBERS ONLY.
+
+<PAGE>
+
+SUBURBAN^ RANCH HOUSE
+A garden party is underway. A sign by the mailbox reads: Dr. Max Papert, Dentist. The host, in a blazer, and his wife are greeting guests.
+
+<PAGE>
+
+REVIVAL^ CHURCH
+A store-front revival meeting. A neon sign advertises: SINNERS REPENT. You hear sounds of wild hymn-singing. A preacher stands at the entrance.
+
+<PAGE>
+
+SOUP KITCHEN
+A broken-down slum building. Derelicts are coming and going. A woman in a Salvation Army uniform stands by the door.
+
+<PAGE>
+
+DEATH-STAR^ BAR
+Through the blackened windows of the run-down building, you hear blaring rhythms and raucous merriment. A bouncer in a black leather jacket stands at the entrance.
+
+<PAGE>
+
+YUPPIE^ PARTY
+As the stylish guests walk up to the house, their names are checked on a list held by a sophisticated Black man wearing a turtle-neck sweater. Music from THE TALKING HEADS blasts from within.
+
+<PAGE>
+
+PLAYTIME^ MANSION
+The Place of the Beautiful People--starlets,models, movie directors, rock musicians. The mansion is set back from the street. As cars drive up they are checked by six security guards with lists and walkie-talkies.
+
+<PAGE>
+
+<CTRL0E>
+That's the way! Keep it up!
+
+
+<CTRL0E>
+Not quite. Remember who you are and what you have!
+
+
+<CTRL0E>
+Beware! You only have one key!
+Check your Mind Map for guidance.
+
+<PAGE>
+
+<CTRL0F>
+
+^ RITZ RESTAURANT
+^ ______
+^ /__ __\\
+^ // || \\\\
+^ BANKERS CLUB /\< @ || @ \>\\ PLAYTIME
+^ //\\\\ || //\\\\ MANSION
+^ // \\\\ || // \\\\
+^ || @ \\\\||// @ ||
+^ SUBURBAN||_____\\ /_____||YUPPIE
+^RANCH HOUSE| ______()______ |PARTY
+^ || / \\ ||
+^ || @ //||\\\\ @ ||
+^ \\\\ // || \\\\ //
+^ \\\\// || \\\\//
+^ REVIVAL \\\< @ || @ \>/ DEATH-STAR
+^ CHURCH \\\\__||__// BAR
+^ \\______/
+
+^ SOUP KITCHEN
+<23,0> Press the (0) key for help.
+
+<PAGE>

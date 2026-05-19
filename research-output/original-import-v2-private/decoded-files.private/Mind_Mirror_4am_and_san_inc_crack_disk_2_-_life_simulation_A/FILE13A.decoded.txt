@@ -1,0 +1,139 @@
+4%UTERINE CENTRAL CALLING: Fetus Alert. Select your Base Camp for this Exploratory Mission. Scan Environmental Surveys. Indicate preferred time/space coordinates of your birthplace.
+
+#1Italy, 2525 AD.
+
+#3China, 1800 AD.
+
+#5France in the Middle Ages.
+
+#7Australia, 1920 AD.
+
+@
+%Birth Landing Control requests you select base on new planet. Please review cultural-climate briefings for each space/time vector and indicate preference.
+
+#2Israel, 1960.
+
+#4Athens during Peloponnesian War.
+
+#6Hawaii, 1920.
+
+#8Lunar City, 2001.
+
+@
+%Planetary Planners suggest you review options and choose desired landing site on new planet.
+
+#2Japan, 1986.
+
+#4Troy in Ancient Times.
+
+#6California in the Middle Ages.
+
+#8Deep Space Resort, 2525.
+
+@
+%Habitat Selection Survey. In order to avoid crowding on the planet of your birth, please indicate your space/time preferences.
+
+#1United German Empire, 3001 AD.
+
+#3India Under British Rule, 1800 AD.
+
+#5Middle East, Time of Christ.
+
+#7San Francisco, 1920.
+
+@
+%GENETIC CONSUMER SATISFACTION POLL.
+DNA Central would like to know how you feel about the current Racial Brand choices. Please indicate your opinion about the options.
+
+#2I'll create my own race, thanks.
+
+#4They're all yucky.
+
+#6What ever race I get is fine.
+
+#8All races are great!
+
+@
+3ALL SYSTEMS GO! Uterine Central Interrupt. Final Entry Check. URGENT! Please indicate Bio-status and Psychic-energy Condition.
+
+<PAGE>
+
+&TO: Uterine Central
+Bio-status and Psychic-energy Condition is as follows:
+
+#1I feel Animal Vigor. High Life
+Force.
+#3I feel fearful and sad.
+
+#5I feel Vegetative Calm. Low Life
+Force.
+#7I feel safe and happy.
+
+@
+Dear , your estimate received. May the force be with you on this perilous mission. Good luck.
+
+<PAGE>
+
+Maternal central calling. Hi ya, babe. This is Mom up here in the cabin. Looks A-OK for landing. Thanks for choosing my womb. Next time you get born hope, you'll fly Mom. How do you feel?
+
+<PAGE>
+
+&FINAL BIO-STATUS REPORT FOR MATERNAL CENTRAL:
+Dear Mom, thanks for the lift and the furnished womb. And the rad chromosomes. My current bio-energy status is...
+
+#2Agitated and excited.
+
+#4Sick, worried.
+
+#6Joyful anticipation.
+
+#8Booming enthusiasm.
+
+@
+Dear , your estimate received. Unfasten your seat belt and put your knees in their full upright and locked position.
+
+<PAGE>
+
+Final briefing from DNA quality control. Dear , congratulations. You are cleared for birth. Good luck! You're being born at a most exciting (yawn) time. Please indicate bio-status.
+
+<PAGE>
+
+&TO: DNA MARKETING and DISTRIBUTION DEPARTMENT. I still do not know the aim of my mission on Target Planet. Please advise. Current status: I feel.....
+
+#2Nervous. Alert. Zappy as a kitten on
+a hot skin roof.
+#4Doomed to be trapped on a heavy
+gravity planet.
+#6Happy as a babe in arms looking
+trustfully for the best of breast!
+#8Zoomed to be freed from womb
+confinement.
+@
+Dear , your estimate received. Aim of your mission will be transmitted in code soon after your arrival.
+
+<PAGE>
+
+TRAVELLER ALERT This is UTERINE CONTROL To determine re-entry readiness, please answer the following navigational question as posed by Monty Python: What is the Meaning of Life?
+
+#2Life's a game. We make up the rules
+and search for something to say.
+Or are we just simply spiralling coils of self-replicating DNA?
+
+#4For me, this life is a sad vale of
+tears. I really have nothing to say.
+Scientists think that we're just simply coils of self-replicating DNA.
+
+#6Whether life's real or a hoax, I'm
+enjoying God's jokes.
+Sperm, egg or yolk? I'm blissed out to be folks. And CA C'EST the meaning of life.
+
+#8Is God really real or is there some
+doubt? I'm sure we can sort it out.
+What is life? What is fate? Heaven or Hell? Do we reincarnate? Is mankind evolving or is it too late? Come, let's solve the mystery of Life!
+
+@
+
+<CTRL0F>
+WHOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOSH! We have a launch! Passenger capsule ejected. Afterbirth equipment jettisoned. Birth sequence complete! Happy Birthday to !
+
+<PAGE>
