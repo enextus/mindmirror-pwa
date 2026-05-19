@@ -1,0 +1,168 @@
+The RITZ RESTAURANT has a high ceiling, subdued lighting, lush plants. There's a splashy fountain and marble statues. Ahead of you are cream colored walls, pink table cloths, fresh flowers. It's crowded with French Empire chairs and tables. Asplender in black tie and tails, furs and evening gowns, the crowd resembles a gathering of penguins and polar bears. The music of a string quartet plays behind the hum of polite chatter.
+
+<PAGE>
+
+2The headwaiter greets you at the door, looks you over surgically and sternly announces, "I'm frightfully sorry, but formal dress is expected." You respond:
+
+#2"How embarrassing. My bags were lost
+by the airline. Can you help?"
+Sympathetic to your plight, he allows you to pass. You head on into the restaurant.
+
+#4"Oh I'm sorry, perhaps I should
+leave."
+With an air of superiority, he informs you that the Duke is tolerating such inappropriate attire out of regard for his guest of honor, Sir Douglas Adams.
+
+#6"You mean you don't like these
+threads, my man?"
+Assuming you are a friend of the eccentric guest of honor, he allows you to pass. It's Party Time!
+
+#8"But of course. This is the latest
+on the Riviera."
+The head waiter bows, acknowledging you as a trend-setter. You shoot him an amused shrug, and head on into the restaurant.
+
+@
+The owner of the restaurant greets you with manic fierceness. "Welcome to the Ritz. Can I offer you a drink?" He grimaces and impatiently repeats himself. "I said, do you want a drink?"
+
+#1"Certainly. A kir royal, if you
+please."
+The owner snaps his fingers maniacally and gives your order to a waiter. He scurries away to greet another guest.
+
+#3"Sure. A white wine spritzer, if you
+don't mind."
+The owner looks at you with surprise and gives your order to a passing waiter. He claps his brow and darts over to accost a new arrival.
+
+#5"Yeah, a Michelob light for the
+winner."
+Ah hah! You have him baffled. He can't place you. He points you toward the bar and walks away, his head lowered, muttering to himself about Americans.
+
+#7"Anything for a buzz, my man!" you
+say cheerfully.
+The owner smiles blankly. Your worldly manner has thrown him off balance. He clenches his teeth. Veins appear on his forehead. He beckons to a waiter.
+
+@
+2A friendly looking fellow with an English accent approaches and shrugs. "I looked all over the galaxy to find a place for the season. What's your favorite watering spot?"
+
+#1"It's so hard to find an
+undiscovered beach these days."
+"You're so right," he says. "The night sky on the planet Krikkit is the least interesting sight in the whole universe."
+
+#3"You can't beat the swimming pool at
+the Holiday Inn," you say brightly.
+"Holiday Inn? Is that the new resort on Vortaqua, planet of the heart-shaped Hot Tub Lakes?" You had in mind the one near Disneyland.
+
+#5"When you gotta go, you gotta go.
+Find the nearest bush."
+He looks at you, startled, then laughs, thinking you're a rich eccentric who is putting him on. "Don't panic!" He shouts. You head for the free bar.
+
+#7"I always try to go where the
+buzzers are, don't you?"
+He looks at you uneasily, suspecting you're taste is too avant-garde for him. "I don't know the word `buzzers'," he says. "Don't panic," sez you.
+
+@
+Sir Douglas Adams is an Englishman with a walrus moustache. He mops his brow and says as a greeting, "I'm so glad to return to civilization! I've been seeing my son at Gordonstone."
+
+#2"Isn't that where that poor nerd
+Prince Charles went to school?"
+You discuss the respective merits of Scotland vs. Vogsphere for a thrilling half-hour before his gigantic wife comes over and mercifully drags him off.
+
+#4"Oh, what a shame. I hope you are
+covered by Blue Cross."
+He looks at you in consternation. He's had too much to drink. "Is the Blue Cross a medal from the Queen?" You're not up to explaining it to him.
+
+#6"Gee, that's tough. When does he get
+out on parole?"
+You got him with that. He thinks you're being very, very witty. He erupts with a hearty laugh. "That's priceless! I must tell Ford Prefect." Off he totters.
+
+#8"Don't you think those Scottish
+schools are a tad too muscular?"
+You nailed him, right in the middle of his school-tie snobbery! He laughs deferentially and asks you to dine with him and Ford Prefect next week.
+
+@
+2A wired woman standing nearby steps over and grabs your arm. "Oh my God! Didn't we meet in the kitchen at Biff and Peggy's affair last year?"
+
+#2"No. I'm sorry but I don't believe
+we've met before."
+Insisting that you have met before, she spouts a litany of foreign names and alien places, until she exhausts her knowledge of geography.
+
+#4"My goodness. Are they really having
+an affair! That sounds immoral."
+She swats you appreciatively with her fan as she laughs. "I must say," she says, "you are a wit."
+
+#6"Sounds like some scene. What a drag
+I missed it."
+She tells you (in strictest confidence) that the event was hardly the highlight of the social season. Still, you figure it might have been fun to crash.
+
+#8"Which Biff and Peggy? The
+Rothschilds or the Mellons."
+She's impressed. She launches into a gossipy account of how one of them jilted a junky saxophone player for a Negro trumpet player. You walk away.
+
+@
+An attractive waitress appears by your side. She asks you if you'd care for a canape.
+
+#2"Thanks so much, but I'm watching
+my diet."
+You're slightly offended when she glances quickly at your mid-section and nods with understanding.
+
+#4"Can of peas? Why thank you so much.
+If it's no trouble."
+She looks at you in confusion. She says she'll talk to the chef and undulates away.
+
+#6"Naw, I'd rather have a can o' Bud."
+
+She winks at you and whispers, "Me, too." Congratulations. You may have met a kindred soul in this up-tight group.
+
+#8"Thanks so much. I'll have some of
+the grey Beluga."
+Not sure what that is, she holds the tray out for you to help yourself.
+
+@
+2A busy looking woman, with pen and pad, approaches you. "I write the society column for the TIMES. What do you think of the Duke's party?"
+
+#1"Freddy always knows how to throw
+an outstanding bash."
+She pumps you for the next half-hour, trying to get some good dirt on the Duke. You are teasingly discreet. You're pumping her to get some hot gossip.
+
+#3"It's an honor and thrill to be
+here. I'll never forget it."
+Debating to herself the quotability of the remark, she tries to decide whether you're being aristocratically withering or just plain square.
+
+#5"Free booze and free grub are always
+welcome."
+She wonders whether you're being ultra chic, a student of Zen Buddhism, or just a clod.
+
+#7"To tell you the truth, I find it
+pretty boring. No action here."
+She disapprovingly suggests you join the rowdies in the cocktail lounge. "That terrible Tony is hanging around." Tony! Sounds hot. You head for the lounge.
+
+@
+Before you can do anything, you are summoned over to join the Duke. "So glad you could come to my intimate little bash."
+
+#1"Nice to see you sober for a change,
+Freddy."
+The Duke giggles and starts pawing you. "Oh please, don't tempt me so, Freddy," you tease. This heightens the Duke`s ardor. You pat him and move on.
+
+#3"I can't wait to tell the folks back
+home about this."
+Smiling graciously, he encourages you to enjoy yourself, then turns to the next guest.
+
+#5"Thanks for letting me in, Duke.
+This sure beats McDonalds!"
+The Duke says he isn't surprised. No Scotsman was ever able to keep up with him. He turns to the next guest.
+
+#7"Hey, Duke, let's get this party
+happening."
+The Duke sighs. "Quite right. It's not like London in the 60's." You chat nostalgically about those bygone days, then he turns to greet another guest.
+
+@
+At this point an aide to the Duke approaches and with a gracious smile, says, "It's been such a pleasure having you with us, the Duke would like you to have a token of his esteem." He holds out a silver tray with passkeys on it. "Choose any one you care for."
+
+<PAGE>
+
+CHOOSE ONE:
+A beaming aide to the Duke walks up and announces, "The Duke extends his congratulations. You have won the Zaphod Beetlebrox Medal! Awarded for poise, elegance and improbability!" How about that! Your prize: a life-time membership in the Royal Hunt Club! And you are the guest of honor at an exclusive banquet at Betelgeuse Five.
+
+<PAGE>
+
+Oh oh! Sir Douglas Adams rushes up to you with an insane gleam in his eye. He speaks slowly with controlled rage. "Someone seems to have made a terrible mistake. Panic is in the air! I'm afraid that I must ask you to leave." He leads you to the service entrance. The door slams behind you. Out in the Plaza again.
+
+<PAGE>

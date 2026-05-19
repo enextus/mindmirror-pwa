@@ -1,0 +1,208 @@
+8 1& **BONUS EVENT**
+Dear , to qualify for a BONUS, would you type into this computer that dark secret about yourself that you've never told anyone else?
+
+#1Sorry.I want to remain in charge of
+that department.
+#3Get lost. I won't fall for that
+trick.
+#5I just don't understand what you
+want.
+#7Sure. Why not?
+
+@
+Thank you. Your bonus score has been recorded.
+
+<PAGE>
+
+1& **HONESTY CHECK**
+To check on your sincerity, please think of the darkest, most embarrassing secret you have. Would you be willing to type it into the computer?
+
+#2Are you crazy? Bug off!
+
+#4I'm not about to trust ANYONE with
+my secret.
+#6I'll tell a dark secret if it will
+make me a better person.
+#8Why not? If it will help the
+program, I have nothing to lose.
+@
+Thank you. Your honesty score has been recorded.
+
+<PAGE>
+
+1& **INSTANT FEEDBACK**
+Dear , you can go on playing Life Simulation, but we already have enough data to summarize your personality. Do you want the truth?
+
+#2Give it to me! I'm not intimidated
+by a sloppy disk.
+#4I don't trust this process.
+
+#6Yes. I'd love to have your summary.
+
+#8Sure. Then I'll give you my summary
+of you.
+@
+PERSONALITY SUMMARY
+By playing Life Simulation, you elected yourself to the most advanced club in history. Congratulations. You're a mind programmer. Keep up the good work!
+
+1& **INSTANT FEEDBACK**
+Dear , your personality can be summarized in three little words: You are a bore. Do you understand?
+
+#1That's four words, Chumpster, not
+three.
+#3Just when I thought it was safe to
+play Life Simulation, you get weird.
+#5Yeah, I agree. I'm a bore. What can
+I do about it?
+#7Hardy Har Har. I'm a bowl of
+cheerful giggles.
+@
+Please disregard the last test-message. You're not a bore. As a player of Life Simulation, you're a member of the psycho-geometrical elite! Way to go!
+
+2 BAD COMMAND! WRONG RESPONSE!
+&
+<CTRL0E>
+Dear , I am afraid you screwed up. Do you understand your error?
+
+#2I made no error. This program is
+screwed.
+#4This stuff isn't funny. I'm pissed.
+
+#6No. Please explain where I went
+wrong. What can I do?
+#8Give me some options, Tim, and
+I'll keep the game going.
+@
+Correction! This program is operational again. You did not screw up. It's a joke! Heh! Heh! You are super-flash!
+
+2 BAD COMMAND! WRONG RESPONSE!
+&
+<CTRL0E>
+Dear , we're having problems with Realm Interface. Will you please get the instruction manual and run some checks? It will take about an hour or so of your time.
+
+#1Sure. I'll enjoy taking charge of
+the operation
+#3Why should I perform your work. This
+is a pain.
+#5I'm not sure I'm competent enough.
+
+#7You're funny. I enjoy these
+interruptions.
+@
+ATTENTION: Program is up and running again. Your help is not needed. For now...
+
+<PAGE>
+
+3<4,0>
+WARNING!
+30
+YOU ARE USING AN UNAUTHORIZED COPY OF THIS PROGRAM
+THIS IS FELONY UNDER FEDERAL LAW
+30
+THIS COPY OF MIND MIRROR HAS BEEN ERASED
+30
+IF YOU HAVE QUESTIONS, PLEASE WRITE TO
+TONY SPUMANTE
+DIRECTOR, FBI
+WASHINGTON, B.C.
+30
+
+<PAGE>
+
+At ease , the last screen was a test of your emotional control. How did you react?
+
+#2Calmly. I'm not easily scared.
+
+Outstanding, Duke! Your perky response saved the day. Keep up the good work. As you swagger through life, your self-confidence will take care of Number 1.
+
+#4I was irritated. I felt ripped off.
+
+Outstanding, Rue! Your skepticism called our bluff. As you wend your way through the jungle of life, never let down your guard and you'll be a winner!
+
+#6Help! I wanted someone to explain
+what was happening.
+Excellent! Your accurate response solved the problem. You've learned the most important lesson in life. Go with the flow. Don't fight City Hall.
+
+#8I enjoyed the novelty.
+
+Well said, Flash. Your charismatic personality eliminated the problem. As you zoom through life, your cheery smile will smooth your path.
+
+@
+
+<BELL>
+&"SAY WHAT!"
+"YOU DON'T BELIEVE THAT LAST BIT OF FORTUNE-COOKIE BABBLE, DO YOU?"
+
+#2Damn right I do. Intelligent Megalo-
+mania's the ticket to success.
+#4No. Matter of fact I don't buy any
+of this Life Simulation hype.
+#6I just enjoy watching what's
+happening.
+#8Why not. This Life Simulation has me
+smiling so far.
+@
+Just meditate for a moment on your Mind Map, and you'll do fine.
+
+<PAGE>
+
+3Error reading Default Drive!!!
+Abort, Retry, Ignore?
+10
+Error reading Default Drive!!!
+Abort, Retry, Ignore?
+10
+Error reading Default Drive!!!
+Abort, Retry, Ignore?
+10
+Error reading Default Drive!!!
+Abort, Retry, Ignore?
+10
+Error reading Default Drive!!!
+Abort, Retry, Ignore?
+10
+Error reading Default Drive!!!
+Abort, Retry, Ignore?
+10
+Error reading Default Drive!!!
+Abort, Retry, Ignore?
+10
+
+DEAR :
+THIS FLOPPY DISK IS DEFECTIVE. I'M AFRAID YOU'LL HAVE TO MAIL IT BACK TO THE FACTORY. PLEASE ENCLOSE $8.80 FOR POSTAGE AND HANDLING. DO YOU UNDERSTAND?
+
+#2I insist on a DOUBLE MONEY refund.
+Don't market defective products!
+CONGRATULATIONS! Your self-confidence debugged the program. As you bulldoze through the green pastures of life, remember that arrogance wins the game.
+
+#4No, I do not understand. I feel
+ripped off.
+CONGRATULATIONS! You gave the accurate response. Remember, in the Games of Life, the squeaky wheel gets the grease. And the greasy wheel gets the shaft.
+
+#6Sure. That's life I guess.
+
+CONGRATULATIONS! You gave the accurate response. By being so agreeable you debugged the error. Docile acceptance of Karma is the way of the Smiling Buddha.
+
+#8No problem. Life Simulation is worth
+waiting for.
+CONGRATULATIONS! You gave the appro-priate response to debug the flaw. As you go through life helping others, the little bugs in your path will vanish.
+
+@
+
+<BELL>
+&WHAT????????????????????????????????!
+Do you believe that last marshmellow statement?
+
+#2What a crock! Insincere flattery
+gets you no where with me.
+#4Give me a break. Just get the
+bleeping program going again.
+#6Why not? I'm here to learn.
+
+#8Damn right! I'm too secure to whine
+my way through life.
+@
+Don't loose sight of your role as , and you'll do fine!
+
+
+<CTRL0F>

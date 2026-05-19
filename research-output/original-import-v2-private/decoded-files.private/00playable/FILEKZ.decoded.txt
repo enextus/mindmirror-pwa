@@ -1,0 +1,145 @@
+CURSOR UP and DOWN (also CONTROL J and CONTROL K) move between entries.
+Press RETURN on blank entry or fourth entry to go on to the scales.
+Press ESC to return to previous menu.
+
+<PAGE>
+
+<CTRL0E>
+Mirror, mirror on the wall,
+who's the...
+
+<PAGE>
+
+AUTO-PLAY
+
+Type in the names of up to four subjects you wish to Micro-Scope.
+
+<PAGE>
+
+Type in the names of the clients or subjects you wish to Micro-Scope.
+
+<PAGE>
+
+Type in the names of the people or concepts you wish to Micro-Scope.
+
+<PAGE>
+
+Type in names of subjects to be explored with the Micro-Scope.
+
+<PAGE>
+
+^ 1.
+
+^ 2.
+
+^ 3.
+
+^ 4.
+
+<PAGE>
+
+Here's what you came up with.
+
+<PAGE>
+
+x:
+
+Would you like to:
+#0Repeat AUTO-PLAY
+
+#1Save the personality of
+1
+#2Save the personality of
+2
+#3Save the personality of
+3
+#4Save the personality of
+4
+#6Play LIFE SIMULATION
+
+#7Return to the Main Menu
+
+@
+
+<CTRL0E>
+To spread the light: be the candle
+or the mirror that reflects it.
+
+<PAGE>
+
+INTER-PLAY
+Enter the names of the players or teams who wish to magnify their THOUGHTS about one person, place, or concept. Comparing results may spark discussion.
+
+<PAGE>
+
+Type in the names of the players for this group session. Use Mind Mirror as a way to contrast ideas and stimulate discussions.
+
+<PAGE>
+
+Type in the names of the players who wish to compare ideas. The discussions which result may help clarify communications in your organization.
+
+<PAGE>
+
+Type in the names of the teachers and students who wish to compare their thoughts. Use the comparisons to stimulate discussion.
+
+<PAGE>
+
+Player 1.
+
+Player 2.
+
+Player 3.
+
+Player 4.
+
+<PAGE>
+
+<CTRL0F>
+Now enter the name of the person, place or concept you wish to magnify and reflect.
+
+Press RETURN when the entry is complete.
+
+<PAGE>
+
+<CTRL0F>
+Okay, now everyone but x please turn away from the terminal.
+
+<PAGE>
+
+<CTRL0F>
+3 x 1 , press RETURN when you're alone.
+
+<PAGE>
+
+<CTRL0F>
+Okay x, mark 3 1 on these scales:
+
+Well done, x. You can take a break. Now it's y's turn.
+
+<PAGE>
+
+<CTRL0F>
+Well done, x. Now call everyone back to the terminal.
+
+<PAGE>
+
+as seen by
+
+x:
+
+Would you like to:
+#0Repeat INTER-PLAY
+
+#1Save the personality of
+1's
+#2Save the personality of
+2's
+#3Save the personality of
+3's
+#4Save the personality of
+4's
+#6Play LIFE SIMULATION
+
+#7Return to the Main Menu
+
+@

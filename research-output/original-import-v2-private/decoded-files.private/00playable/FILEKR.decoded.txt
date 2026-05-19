@@ -1,0 +1,53 @@
+COMPUTER GAMES
+Was it Alan Turing who said, "The Computer Business in 1986 is like the Auto-Mobile Industry of 1921?"
+
+You got big manufacturing companies, brash Detroit executives without a clue, nerd engineers, brigades of salesmen, armies of enthusiast-users who are "into computers," and of course the business users. They all know the applications of the personal Electronic Auto-Mobile. Or do they?
+
+Please select an exercise.
+
+#0EXERCISE 1. COMPUTER STARS
+Compare computer industry greats.
+#1EXERCISE 2. COMPUTER SOFTWARE
+Compare computer games.
+# Return to previous menu.
+
+@
+EXERCISE 1. COMPUTER STARS
+1
+The Computer Industry became The Computer Culture in 1990 when everyone between 16 and 36 had learned to drive a PC. Most just wanted an affordable, efficient tool for reflecting thoughts.
+
+This marked the end of the Computer Tycoons--the legendary hackers, the go-go entrepreneurs, the kid geniuses.
+
+COMPUTER HERO: Trivial pursuit time! Get nostalgic! Think back! Enter the name of a Computer Hero from the 1980's.
+
+<PAGE>
+
+COMPARISON HERO: Enter the name of another computer hero from back then. Only one (1) Steve to a customer.
+
+<PAGE>
+
+EXERCISE 2. COMPUTER SOFTWARE
+1
+By 1990 Personalized Computers clearly were extensions of the mind--indispensable head-tools to clarify thinking and communication. Everyone, save a few lovable wood-pulp eccentrics, drove around in customized headware programs monitoring their private MOS's (Mind Operating Systems).
+
+Recall the quaint applications software of the 1980's! Unwieldy. Impersonal! Lumbering data-trucks.
+
+STANDARD PROGRAM: Enter the name of a software program from the 1980's.
+
+<PAGE>
+
+IDEAL PROGRAM: Enter the name of your ideal program.
+
+<PAGE>
+
+Does it amaze you to be assigning human characteristics (mood, emotion, creativity, cultural style) to firms like IBM? To machines? To software? You may be surprised at how much you learn.
+
+<PAGE>
+
+Steve Jobs Commodore
+John Scully Atari
+Marvin Minsky Zork I-II-III
+Alan Kay One-on-One
+IBM Word Star
+Apple Flight Simulator
+

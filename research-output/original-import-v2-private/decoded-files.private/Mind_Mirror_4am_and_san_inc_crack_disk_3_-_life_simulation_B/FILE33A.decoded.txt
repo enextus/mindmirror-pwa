@@ -1,0 +1,433 @@
+2%Freddie Blazer looks at you warily. He likes to spot young "comers" and mold them, use them, crush them. What does he think of your chances in the Industry?
+
+#1A smart kid. Knowledgeable. A good
+intern for a Director.
+#3A sound, no-nonsense kid. Refer to
+business-accounting department.
+#5Sweet. Probably a good lay; but not
+a thinker. Let's try the Mail Room.
+#7Zany, imaginative. A good intern for
+script-writing department.
+@
+%Freddie Blazer prides himself on his insight into human nature. He almost discovered Lucas and Spielberg when they were pimpled kids. Where will you fit in Video Corp? He sees you as...
+
+#2A smart cookie. Tough mind. Possible
+producer material.
+#4Dependable, unimaginative, not too
+smart. A prospect for studio head.
+#6He can see you writing scripts for
+ANIMAL HOUSE IV or POLICE ACADEMY V.
+#8Smart and creative. If you can
+control your visionary streak.
+@
+2&Freddie Blazer hands you a test form. "Take as much time as you like as long as you finish in two minutes."
+Scheftel Film Aptitude Scale Item 1. Which job would you prefer?
+
+#2Directing.
+
+#4Producer.
+
+#6Actor/actress.
+
+#8Script writing and research.
+
+@
+"I'll be honest with you kid," says Freddie, sincerely. "I swear you're going to have a blast with this next part. Trust me, baby, you'll love it."
+
+&Freddie Blazer smiles conspiratorially as he hands you a test folder. "The film industry is going crazy over this."
+Scheftel Film Aptitude Scale Item 1. Which job would you choose?
+
+#1Director of feature films.
+
+#3Director of TV prime-time shows.
+
+#5Actor/Actress in TV.
+
+#7Director of Special Effects.
+
+@
+"I'll be honest with you kid," says Freddie, sincerely. "I swear on my mother that this next part is a most revealing X-ray of your mind."
+
+SFAS Item 2. Which of these movies have you seen? Enter "Y" for yes if you've seen the movie, "N" for no if you haven't. Press RETURN when you've completed the list.
+
+<PAGE>
+
+4Ghandi
+Doctor Zhivago
+My Fair Lady
+Bridge on the River Kwai
+4Citizen Kane
+Annie Hall
+Fanny and Alexander
+The 7th Seal
+4Gone with the Wind
+Sound of Music
+Star Wars
+Dirty Harry
+4Rocky II
+The Late Great Planet Earth
+Patton
+Smokey and the Bandit
+4Police Academy
+Rocky
+The Bible
+Porky's
+4Deep Throat
+National Lampoon's Vacation
+Airplane
+Animal House
+4Up In Smoke
+One Flew Over the Cuckoos' Nest
+Blues Brothers
+Network
+4Clockwork Orange
+`2001'--A Space Odyssey
+Some Like It Hot
+Dr. Strangelove
+SFAS Item 3. Which of these movies have you seen? Enter "Y" for yes if you've seen the movie, "N" for no if you haven't. Press RETURN when you've completed the list.
+
+<PAGE>
+
+4Passage to India
+My Dinner with Andre
+The Shining
+Reds
+4The World According to Garp
+Mad Max
+Amadeus
+Prizzi's Honor
+4Beverly Hills Cop
+The Empire Strikes Back
+The Empire Strikes Back
+An Officer and a Gentleman
+4Red Dawn
+Sudden Impact
+Code of Silence
+Rocky IV
+4Porky's II: The Next Day
+Rambo
+Bachelor Party
+Prince: Purple Rain
+4Flashdance
+Footloose
+Ghostbusters
+Any X-rated film
+4Trading Places
+Airplane
+Risky Business
+The Gods Must Be Crazy
+4The Meaning of Life
+Stop Making Sense
+Close Encounters of the Third Kind
+Blade Runner
+4%SFAS Item 4. If you could take only one of these movies to a desert island to see over and over again, which one would you select?
+
+#1Doctor Zhivago.
+
+#3Sound of Music.
+
+#5Rocky.
+
+#7One Flew Over the Cuckoos' Nest.
+
+@
+%SFAS Item 4. If you could take only one of these movies to a remote jungle to see over and over again, which one would you select?
+
+#2Star Dust Memories.
+
+#4The Late Great Planet Earth.
+
+#6National Lampoon's Vacation.
+
+#8`2001.'
+
+@
+%SFAS Item 4. If you could take only one of these movies to another galaxy to see over and over again, which one would you select?
+
+#1My Dinner with Andre.
+
+#3The Empire Strikes Back.
+
+#5Rambo.
+
+#7Airplane.
+
+@
+%SFAS Item 4. If you could take only one of these movies on the Space Ship to Andromeda to see over and over again, which one would you select?
+
+#2Mad Max.
+
+#4Sudden Impact.
+
+#6The Breakfast Club.
+
+#8Stop Making Sense.
+
+@
+4%SFAS Item 5. Which movie would you prefer to see over and over again?
+
+#1My Fair Lady.
+
+#3Star Wars.
+
+#5The Bible.
+
+#7Blues Brothers.
+
+@
+%SFAS Item 5. If you were locked in a motel room for two years, which movie would you prefer to see over and over?
+
+#2Fanny and Alexander.
+
+#4Patton.
+
+#6Airplane.
+
+#8Trading Places.
+
+@
+%SFAS Item 5. Which movie would you choose, if you were forced to watch it over and over?
+
+#1The Shining.
+
+#3The Empire Strikes Back.
+
+#5Bachelor Party.
+
+#7Risky Business.
+
+@
+%SFAS Item 5. If you lived in a small town with one theater and the theater only showed one movie over and over again, which movie would you prefer it to be?
+
+#2Amadeus.
+
+#4Code of Silence.
+
+#6Ghostbusters.
+
+#8Close Encounters of the Third Kind.
+
+@
+4%SFAS Item 6. Which movie would you select to go in your Time Capsule?
+
+#1Bridge on the River Kwai.
+
+#3Dirty Harry.
+
+#5Porky's.
+
+#7Network.
+
+@
+%SFAS Item 6. Which movie would you mail into the future, if the post office accepted future mail?
+
+#2The 7th Seal.
+
+#4Smokey and the Bandit.
+
+#6Animal House.
+
+#8Dr. Strangelove, Or How I Came To
+Love The Bomb.
+@
+%SFAS Item 6. Which movie would you select for your descendents to see?
+
+#1Reds.
+
+#3An Officer and a Gentleman.
+
+#5Prince: Purple Rain.
+
+#7The Gods Must Be Crazy.
+
+@
+%SFAS Item 6. Which movie do you think would be most enjoyed one hundred years from now?
+
+#2Prizzi's Honor.
+
+#4Rocky IV.
+
+#6Any X-rated film.
+
+#8Blade Runner.
+
+@
+4%SFAS Item 7. Which great movie was directed by Stanley Kubrick?
+
+#2`2001?' Or that movie about How I
+Came to Love the Bomb?
+#4I don't pay much attention to
+directors. I go to films for stars.
+#6You'll say `2001.' I think his best
+movie was Up in Smoke.
+#8Silly question. My Main Man, Stan,
+directed the 5 all-time greatest!
+@
+%SFAS Item 7. Which movie starred Jack Nicholson?
+
+#1In every movie since Easy Rider,
+Jack has been playing the same part.
+#3I loved him in Patton.
+
+#5Jack who? Was he in that great
+gangster movie?
+#7One Flew Over the Cuckoo's Nest.
+
+@
+%SFAS Item 7. Which movie starred Harrison Ford?
+
+#2Raiders of the Lost Ark.
+
+#4I loved him as Indian Jones in
+Towering the Inferno.
+#6Star Wars is the greatest flick of
+all times.
+#8Bladerunner was his best!
+
+@
+%SFAS Item 7. Which movie starred Peter Sellers?
+
+#1Being There.
+
+#3I feel so silly. I should know, but
+I can't remember. Was it Star Wars?
+#5Who cares?
+
+#7The Pink Panther movies.
+
+@
+SFAS Item 8. Which TV shows do you watch often? Enter "Y" for yes if you've seen the show often, "N" for no if you haven't. Press RETURN when you've completed the list.
+
+<PAGE>
+
+26O Minutes
+Masterpiece Theatre
+2Civilization (Bronowski)
+Carl Sagan's Universe
+2Dallas
+Dynasty
+2Hee Haw
+Magnum P. I.
+2The A-Team
+Tic Tac Dough
+2Watch Test Patterns while stoned
+David Letterman
+2Saturday Night Live
+Hill Street Blues
+2Avoid TV to do something original
+Monty Python
+SFAS Item 9. Which TV shows do you watch often? Enter "Y" for yes if you've seen the show often, "N" for no if you haven't. Press RETURN when you've completed the list.
+
+<PAGE>
+
+2McNeil--Lehrer Report
+Dick Cavett
+2Face the Nation
+William Buckley
+2Johnny Carson
+As The World Turns
+2C.H.I.P.s
+Christian Broadcasting Network
+2Love Boat
+Family Feud
+2M.A.S.H. (reruns)
+Mork and Mindy
+2Dr. Ruth Westheimer
+Star Trek (reruns)
+2Twilight Zone (reruns)
+Alistair Cooke
+4%SFAS Item 10. If you were stranded for years on a desert island (like your living room) which of these T.V series would you select?
+
+#1Masterpiece Theatre.
+
+#3Dynasty.
+
+#5Tic Tac Dough.
+
+#7Hill Street Blues.
+
+@
+%SFAS Item 10. If you were confined to a space ship traveling several light years to visit the Klingon Galaxy, which of these TV series would you take on video cassette?
+
+#2Carl Sagan's Universe.
+
+#4Magnum P. I.
+
+#6David Letterman.
+
+#8Monty Python.
+
+@
+%SFAS Item 10. If you were held hostage for two years by Libyan Terrorists or the forces of Reverend Moon, which of these TV series would you request?
+
+#1Dick Cavett.
+
+#3As The World Turns.
+
+#5Family Feud.
+
+#7Star Trek (reruns).
+
+@
+%SFAS Item 10. If you were living in seclusion in a cabin on the top of a Sacred Mountain in Tibet for two years, which of these TV show would you bring with you?
+
+#2William Buckley.
+
+#4Christian Broadcasting Network.
+
+#6Mork and Mindy.
+
+#8Alistair Cooke.
+
+@
+
+<CTRL0F>
+4%SFAS Item 11. Which TV show stars Eric Idle?
+
+#2I saw him once. It was on 60
+minutes. No, some BBC program.
+#4Dynasty! He was great!
+
+#6Saturday Night Live.
+
+#8Monty Python reruns.
+
+@
+%SFAS Item 11. Which TV series is a Mary Tyler Moore Production?
+
+#1If it's not PBS I don't watch it.
+
+#3Laverne and Shirley.
+
+#5Huh? I watch so many shows, I can't
+keep track.
+#7Mary Hartman, Mary Hartman. I loved
+that show.
+@
+%SFAS Item 11. Which TV series starred Robin Williams?
+
+#2I don't watch those kind of shows.
+
+#4Mork something. I didn't watch it.
+
+#6Mork and Mindy, it was my favorite.
+
+#8Comedy Hour with Richard Prior. He
+also starred as a spaceman.
+@
+%SFAS Item 11. Which TV show starred Sara Douglas?
+
+#1Some prime time soap like Dallas.
+
+#3Falconcrest.
+
+#5Never heard of her.
+
+#7Wasn't she in Superman II?
+
+@
+
+<CTRL0F>
+You've finished the Scheftel Scales. Freddie Blazer throws your test papers in the waste basket. "Psychometrics! I use'em for toilet paper. Only one thing counts in the film biz. Bull..." The phone rings. Freddie listens and lets loose with obscenities too lewd for the home computer market. He winks. "Know what, kid? I've just been fired!" "For bad language?" you gasp. He picks up the phone. "Watch this. Get me MGM," he shouts to the phone. "David, baby! It's a deal. I'll run your studio for you. And I'll bring Rambo." He winks again. "See ya around, kid."
+
+<PAGE>

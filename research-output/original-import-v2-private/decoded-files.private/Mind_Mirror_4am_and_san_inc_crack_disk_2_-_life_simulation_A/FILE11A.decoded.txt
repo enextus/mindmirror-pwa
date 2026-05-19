@@ -1,0 +1,25 @@
+Now, , which do you want to be?
+
+!#6The awaiting egg.
+
+<CTRL0E>
+So you want to be an egg, do you? OK, , let's start out that way and see if the yolk's on you.
+
+#2A wiggling sperm.
+
+<CTRL0E>
+So you want to be a sperm, do you? OK, , let's start out that way and see what happens.
+
+#4Neither one--why bother with this
+life-and-conception business anyway.
+
+<CTRL0E>
+You may be indifferent to it all, , but the truth is that you started out as a sperm and an egg and that's a wiggly fact you'll just have to live with.
+
+#8Either one--both are great career
+opportunities!
+
+<CTRL0E>
+I like your enthusiasm. Just for that, , you'll get to be both.
+
+@

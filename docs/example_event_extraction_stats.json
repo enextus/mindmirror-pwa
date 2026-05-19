@@ -1,0 +1,32 @@
+{
+  "input_zip": "/mnt/data/MindMirror4amCrack.zip",
+  "include_prose": false,
+  "disk_count": 4,
+  "dos33_file_count": 125,
+  "event_candidate_count": 199,
+  "event_candidates_with_realm_hint": 119,
+  "option_marker_total": 469,
+  "choice_digits_seen": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8
+  ],
+  "by_realm_hint": {
+    "unknown": 80,
+    "bio_energy": 11,
+    "emotional_insight": 17,
+    "mental_abilities": 83,
+    "social_interaction": 8
+  },
+  "by_disk": {
+    "00playable": 43,
+    "Mind_Mirror_4am_and_san_inc_crack_disk_1_-_program": 43,
+    "Mind_Mirror_4am_and_san_inc_crack_disk_2_-_life_simulation_A": 16,
+    "Mind_Mirror_4am_and_san_inc_crack_disk_3_-_life_simulation_B": 97
+  }
+}

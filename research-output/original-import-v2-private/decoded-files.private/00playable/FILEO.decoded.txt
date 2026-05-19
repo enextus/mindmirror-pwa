@@ -1,0 +1,99 @@
+Hello
+I'm Timothy Leary
+Welcome to
+MIND MIRROR
+
+MIND MIRROR
+(c) copyright 1985,
+1986, Futique, Inc.
+Published by
+Electronic Arts
+
+MIND MIRROR
+Design and Script
+by
+Timothy Leary
+
+
+MIND MIRROR
+Program and Design
+by
+Peter Van den Beemt
+and Bob Dietz
+
+
+<ACK>
+RETURN
+begins game.
+SPACE BAR
+clears text.
+MIND MIRROR
+reflects
+and qualifies
+your
+thoughts.
+
+OPTION 1 MIND TOOLS
+Enhance Insight,
+Mental Fitness
+Learning Skills,
+and Performance.
+
+OPTION 2 MIND PLAY
+SIGNIFICANT
+PURSUITS.
+Sophisticated Head
+Games.
+
+MODE 1 MIND MIRROR
+Learn how to
+Micro-Scope
+and Map
+your thoughts.
+
+MODE 2
+LIFE SIMULATION
+Test your empathy
+in amusing
+Role-Play Odysseys.
+
+<PAGE>
+
+SELECT LEVEL
+Beginner
+Intermediate
+Master
+Consultant
+
+Choose AUTO-PLAY
+or INTER-PLAY.
+Mirror your own
+thoughts. Compare
+them with others.
+
+
+DISCLAIMER
+1
+In this program you will find references and statements attributed to several hundred public figures and historical personages.
+
+All such statements attributed to living persons are fictional; they are intended as gentle satire and provocative humor. In no case is there any implication that the statements reflect the true sentiments of the "alleged" speaker.
+
+The 2000 situations portrayed in the SIMULATIONS MODE are totally fictitious and do not refer to actual events.
+
+<PAGE>
+
+JOYSTICK
+1
+Do you wish to use a joystick while playing Mind Mirror? (Y)es or (N)o
+
+The buttons on your joystick function as RETURN keys.
+
+When letter responses are requested, moving the joystick left and right will provide them in the following manner:
+
+^ JOYSTICK LEFT JOYSTICK RIGHT
+^ (A)gree (D)isagree
+^ (Y)es (N)o
+
+For the Report Card in the Realm of Mental Abilities, joystick left and right step through a table of grades.
+
+<PAGE>

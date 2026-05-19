@@ -1,0 +1,1293 @@
+/* =====================================================================
+   src/css/app.css – Mind Mirror PWA base layout and demo profile styles
+   ===================================================================== */
+
+:root {
+  color-scheme: light dark;
+  --mm-bg: #0f172a;
+  --mm-surface: #111827;
+  --mm-surface-soft: #1f2937;
+  --mm-panel: #ffffff;
+  --mm-panel-soft: #f8fafc;
+  --mm-text: #111827;
+  --mm-text-inverted: #f9fafb;
+  --mm-muted: #64748b;
+  --mm-border: #d1d5db;
+  --mm-accent: #2563eb;
+  --mm-accent-soft: rgba(37, 99, 235, 0.12);
+  --mm-danger: #b91c1c;
+  --mm-radius: 18px;
+  --mm-shadow: 0 18px 40px rgba(15, 23, 42, 0.18);
+  font-family:
+    "Noto Sans",
+    system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    "Segoe UI",
+    sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  min-height: 100%;
+  margin: 0;
+}
+
+body {
+  background:
+    radial-gradient(circle at top left, rgba(37, 99, 235, 0.28), transparent 34rem),
+    linear-gradient(135deg, var(--mm-bg), #020617 65%);
+  color: var(--mm-text-inverted);
+}
+
+button,
+canvas,
+input,
+select,
+textarea {
+  font: inherit;
+}
+
+.noscript-message,
+.app-loading {
+  max-width: 52rem;
+  margin: 3rem auto;
+  padding: 1.5rem;
+}
+
+.app-shell {
+  width: min(1180px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 2rem 0 3rem;
+}
+
+.app-header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: start;
+  margin-bottom: 1.5rem;
+}
+
+.app-eyebrow {
+  margin: 0 0 0.35rem;
+  color: #93c5fd;
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+}
+
+.app-title {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 4rem);
+  line-height: 1;
+}
+
+.app-subtitle {
+  max-width: 64rem;
+  margin: 0.75rem 0 0;
+  color: #dbeafe;
+  font-size: 1rem;
+  line-height: 1.6;
+}
+
+.app-version-badge {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 4rem;
+  padding: 0.45rem 0.7rem;
+  border: 1px solid rgba(255, 255, 255, 0.24);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.08);
+  color: #bfdbfe;
+  font-size: 0.82rem;
+}
+
+.app-main {
+  display: grid;
+  gap: 1.25rem;
+}
+
+.app-status {
+  min-height: 1.5rem;
+  color: #bfdbfe;
+  font-size: 0.95rem;
+}
+
+.demo-profile-summary {
+  display: grid;
+  gap: 0.55rem;
+  padding: 1rem 1.1rem;
+  border: 1px solid rgba(191, 219, 254, 0.24);
+  border-radius: var(--mm-radius);
+  background: rgba(15, 23, 42, 0.52);
+}
+
+.demo-profile-summary h2,
+.demo-profile-summary p {
+  margin: 0;
+}
+
+.demo-profile-summary p {
+  color: #dbeafe;
+  line-height: 1.55;
+}
+
+.mind-map-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.mind-map-card {
+  display: grid;
+  gap: 0.75rem;
+  padding: 1rem;
+  border: 1px solid rgba(209, 213, 219, 0.8);
+  border-radius: var(--mm-radius);
+  background: var(--mm-panel);
+  color: var(--mm-text);
+  box-shadow: var(--mm-shadow);
+}
+
+.mind-map-card__header {
+  display: flex;
+  gap: 0.75rem;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.mind-map-card__title {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.mind-map-card__description {
+  margin: 0.25rem 0 0;
+  color: var(--mm-muted);
+  font-size: 0.92rem;
+  line-height: 1.45;
+}
+
+.mind-map-card__meta {
+  flex: 0 0 auto;
+  padding: 0.28rem 0.55rem;
+  border-radius: 999px;
+  background: var(--mm-accent-soft);
+  color: var(--mm-accent);
+  font-size: 0.78rem;
+  font-weight: 700;
+}
+
+.mind-map-canvas-wrap {
+  display: grid;
+  place-items: center;
+  overflow: hidden;
+  border: 1px solid var(--mm-border);
+  border-radius: calc(var(--mm-radius) - 6px);
+  background: var(--mm-panel-soft);
+}
+
+.mind-map-canvas {
+  display: block;
+  width: min(100%, 360px);
+  height: auto;
+  aspect-ratio: 1 / 1;
+}
+
+.mind-map-render-warning {
+  margin: 0;
+  padding: 0.65rem 0.75rem;
+  border-radius: 0.75rem;
+  background: #fee2e2;
+  color: var(--mm-danger);
+  font-size: 0.88rem;
+}
+
+@media (max-width: 860px) {
+  .app-header {
+    grid-template-columns: 1fr;
+  }
+
+  .mind-map-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Ende src/css/app.css */
+
+/* =====================================================================
+   Retro rating scale screen – based on original Mind Mirror rating frames
+   ===================================================================== */
+
+.retro-rating-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 3vw, 2.25rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-rating-header {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 1rem;
+  align-items: start;
+  max-width: 62rem;
+  margin: 0 auto 1.4rem;
+  border-bottom: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding-bottom: 0.75rem;
+}
+
+.retro-rating-title {
+  margin: 0;
+  color: var(--mm-retro-warning, #ffef9a);
+  font-size: clamp(1.5rem, 4vw, 3rem);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.retro-rating-progress {
+  margin: 0.25rem 0 0;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 1rem;
+  white-space: nowrap;
+}
+
+.retro-rating-panel {
+  display: grid;
+  gap: 1.1rem;
+  max-width: 62rem;
+  margin: 0 auto;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding: clamp(1rem, 3vw, 1.75rem);
+  background: var(--mm-retro-panel-bg, #101010);
+  box-shadow: 0 0 0 2px #000;
+}
+
+.retro-rating-subject,
+.retro-rating-prompt,
+.retro-rating-help {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.retro-rating-subject {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+}
+
+.retro-rating-scale-title {
+  margin: 0;
+  color: var(--mm-retro-warning, #ffef9a);
+  font-size: clamp(1.4rem, 3vw, 2.5rem);
+  letter-spacing: 0.06em;
+}
+
+.retro-rating-prompt {
+  max-width: 58rem;
+  color: var(--mm-retro-fg, #f2f2f2);
+}
+
+.retro-rating-poles {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  align-items: center;
+  color: var(--mm-retro-warning, #ffef9a);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.retro-rating-pole:last-child {
+  text-align: right;
+}
+
+.retro-rating-scale {
+  display: grid;
+  grid-template-columns: repeat(8, minmax(2.2rem, 1fr));
+  gap: 0.45rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.retro-rating-choice {
+  display: grid;
+  min-height: 3.2rem;
+  place-items: center;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #050505;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-size: 1.35rem;
+  font-weight: 700;
+}
+
+.retro-rating-choice.is-selected {
+  background: var(--mm-retro-selected-bg, #f2f2f2);
+  color: var(--mm-retro-selected-fg, #050505);
+  box-shadow: 0 0 0 2px var(--mm-retro-warning, #ffef9a);
+}
+
+.retro-plain-talk {
+  display: none;
+  border-left: 0.35rem solid var(--mm-retro-warning, #ffef9a);
+  padding: 0.8rem 1rem;
+  background: #050505;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+}
+
+.retro-plain-talk.is-visible {
+  display: block;
+}
+
+.retro-plain-talk h3,
+.retro-plain-talk p {
+  margin: 0;
+}
+
+.retro-plain-talk h3 {
+  margin-bottom: 0.4rem;
+  color: var(--mm-retro-warning, #ffef9a);
+  text-transform: uppercase;
+}
+
+.retro-rating-help {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.95rem;
+}
+
+.retro-rating-summary {
+  overflow: auto;
+  margin: 0;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding: 1rem;
+  background: #050505;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font: inherit;
+  line-height: 1.5;
+}
+
+.retro-rating-restart {
+  justify-self: start;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding: 0.55rem 0.8rem;
+  background: var(--mm-retro-selected-bg, #f2f2f2);
+  color: var(--mm-retro-selected-fg, #050505);
+  cursor: pointer;
+  font: inherit;
+  font-weight: 700;
+}
+
+@media (max-width: 720px) {
+  .retro-rating-header,
+  .retro-rating-poles {
+    grid-template-columns: 1fr;
+  }
+
+  .retro-rating-pole:last-child {
+    text-align: left;
+  }
+
+  .retro-rating-scale {
+    grid-template-columns: repeat(4, minmax(2.2rem, 1fr));
+  }
+}
+
+/* Ende retro rating scale screen */
+   Retro Mind Map screen – PC DOS-inspired GUI reconstruction layer
+   ===================================================================== */
+
+.retro-mind-map-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 2.5vw, 2rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-mind-map-screen:focus-visible {
+  box-shadow: inset 0 0 0 2px var(--mm-retro-cyan, #72f7ff);
+}
+
+.retro-screen-title {
+  margin: 0;
+  color: var(--mm-retro-title, #ff3b2f);
+  font-size: clamp(1.7rem, 4vw, 3.25rem);
+  line-height: 1;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.retro-screen-subtitle,
+.retro-screen-instruction,
+.retro-screen-status {
+  margin: 0.65rem auto 0;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.95rem;
+  line-height: 1.45;
+  text-align: center;
+}
+
+.retro-screen-instruction {
+  color: var(--mm-retro-warning, #ffef9a);
+  text-transform: uppercase;
+}
+
+.retro-realm-nav {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.5rem;
+  width: min(58rem, 100%);
+  margin: 1.25rem auto 0;
+}
+
+.retro-realm-button {
+  min-height: 2.25rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.86rem;
+  text-transform: uppercase;
+}
+
+.retro-realm-button:hover,
+.retro-realm-button:focus-visible,
+.retro-realm-button.is-active {
+  background: var(--mm-retro-selected-bg, #f2f2f2);
+  color: var(--mm-retro-selected-fg, #050505);
+  outline: none;
+}
+
+.retro-map-panel {
+  display: grid;
+  grid-template-columns: minmax(0, auto) minmax(14rem, 20rem);
+  gap: 1rem;
+  align-items: center;
+  justify-content: center;
+  width: min(66rem, 100%);
+  margin: 1.25rem auto 0;
+}
+
+.retro-map-title {
+  grid-column: 1 / -1;
+  margin: 0;
+  color: var(--mm-retro-title, #ff3b2f);
+  font-size: clamp(1.25rem, 2vw, 1.75rem);
+  text-align: center;
+}
+
+.retro-label-mode-title {
+  grid-column: 1 / -1;
+  margin: -0.35rem 0 0;
+  color: var(--mm-retro-cyan, #72f7ff);
+  font-size: 0.95rem;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.retro-map-frame {
+  display: grid;
+  place-items: center;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: var(--mm-retro-bg, #050505);
+}
+
+.retro-mind-map-canvas {
+  display: block;
+  width: min(100%, 640px);
+  height: auto;
+  image-rendering: pixelated;
+}
+
+.retro-word-panel {
+  align-self: stretch;
+  min-height: 18rem;
+  padding: 0.9rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: var(--mm-retro-panel-bg, #080808);
+}
+
+.retro-word-panel__title {
+  margin: 0 0 0.75rem;
+  color: var(--mm-retro-cyan, #72f7ff);
+  font-size: 0.9rem;
+  text-transform: uppercase;
+}
+
+.retro-visible-word-list {
+  display: grid;
+  gap: 0.45rem;
+  margin: 0;
+  padding: 0;
+  list-style-position: inside;
+}
+
+.retro-visible-word-list__item {
+  color: var(--mm-retro-label, #79ff79);
+  font-size: 0.95rem;
+  line-height: 1.25;
+}
+
+.retro-screen-status {
+  min-height: 1.35rem;
+  color: var(--mm-retro-cyan, #72f7ff);
+}
+
+@media (max-width: 920px) {
+  .retro-realm-nav {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+  }
+
+  .retro-map-panel {
+    grid-template-columns: 1fr;
+  }
+
+  .retro-word-panel {
+    min-height: auto;
+  }
+}
+
+/* =====================================================================
+   Retro subject setup and saved profile list
+   ===================================================================== */
+
+.retro-subject-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 3vw, 2.25rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-subject-header {
+  max-width: 62rem;
+  margin: 0 auto 1.25rem;
+  border-bottom: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding-bottom: 0.85rem;
+}
+
+.retro-subject-title {
+  margin: 0;
+  color: var(--mm-retro-warning, #ffef9a);
+  font-size: clamp(1.8rem, 5vw, 3.4rem);
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.retro-subject-subtitle {
+  margin: 0.55rem 0 0;
+  color: var(--mm-retro-accent, #67e8f9);
+  font-size: clamp(1rem, 2vw, 1.3rem);
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.retro-subject-form,
+.retro-saved-profiles {
+  display: grid;
+  gap: 0.8rem;
+  max-width: 62rem;
+  margin: 0 auto 1rem;
+  padding: 1rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: rgba(0, 0, 0, 0.68);
+}
+
+.retro-subject-label,
+.retro-saved-profiles__title {
+  color: var(--mm-retro-map-title, #ff6b6b);
+  font-size: 1rem;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.retro-subject-input,
+.retro-subject-select {
+  width: 100%;
+  padding: 0.75rem 0.9rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #000;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  font-size: 1rem;
+}
+
+.retro-subject-input:focus,
+.retro-subject-select:focus,
+.retro-saved-profile__button:focus,
+.retro-subject-start-button:focus {
+  outline: 2px solid var(--mm-retro-accent, #67e8f9);
+  outline-offset: 2px;
+}
+
+.retro-subject-start-button,
+.retro-saved-profile__button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #111;
+  color: var(--mm-retro-warning, #ffef9a);
+  cursor: pointer;
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+}
+
+.retro-subject-start-button {
+  justify-self: start;
+  padding: 0.65rem 1rem;
+  text-transform: uppercase;
+}
+
+.retro-subject-start-button:hover,
+.retro-saved-profile__button:hover {
+  background: var(--mm-retro-surface, #173f2b);
+}
+
+.retro-subject-error {
+  min-height: 1.25rem;
+  margin: 0;
+  color: var(--mm-retro-map-title, #ff6b6b);
+}
+
+.retro-subject-help,
+.retro-saved-profiles__empty {
+  margin: 0;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  line-height: 1.55;
+}
+
+.retro-saved-profiles__title {
+  margin: 0;
+}
+
+.retro-saved-profiles__list {
+  display: grid;
+  gap: 0.6rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.retro-saved-profile__button {
+  display: grid;
+  width: 100%;
+  gap: 0.25rem;
+  padding: 0.75rem 0.9rem;
+  text-align: left;
+}
+
+.retro-saved-profile__name {
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-weight: 700;
+}
+
+.retro-saved-profile__meta {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.86rem;
+}
+
+/* Ende retro subject setup */
+
+/* =====================================================================
+   Retro profile summary screen – review saved realm points before maps
+   ===================================================================== */
+
+.retro-profile-summary-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 3vw, 2.25rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-profile-summary-subject {
+  max-width: 72rem;
+  margin: 0.8rem auto 0.2rem;
+  color: var(--mm-retro-accent, #67f06d);
+  font-size: clamp(1rem, 2.2vw, 1.35rem);
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.retro-profile-summary-meta {
+  max-width: 72rem;
+  margin: 0 auto 1.25rem;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.95rem;
+}
+
+.retro-profile-summary-table {
+  width: min(100%, 72rem);
+  margin: 1rem auto;
+  border-collapse: collapse;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: rgba(0, 0, 0, 0.38);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-size: clamp(0.78rem, 1.5vw, 0.98rem);
+}
+
+.retro-profile-summary-table__caption {
+  padding: 0.55rem;
+  color: var(--mm-retro-warning, #ffef9a);
+  caption-side: top;
+  text-align: left;
+}
+
+.retro-profile-summary-table th,
+.retro-profile-summary-table td {
+  padding: 0.5rem 0.55rem;
+  border: 1px solid color-mix(in srgb, var(--mm-retro-border, #f2f2f2) 58%, transparent);
+  text-align: left;
+  vertical-align: top;
+}
+
+.retro-profile-summary-table thead th {
+  color: var(--mm-retro-danger, #ff5f5f);
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.retro-profile-summary-table tbody th {
+  color: var(--mm-retro-accent, #67f06d);
+  font-weight: 700;
+}
+
+.retro-profile-summary-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  width: min(100%, 72rem);
+  margin: 1.1rem auto 0;
+}
+
+.retro-profile-summary-button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: transparent;
+  color: var(--mm-retro-fg, #f2f2f2);
+  padding: 0.65rem 1rem;
+  font: inherit;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+.retro-profile-summary-button:hover,
+.retro-profile-summary-button:focus-visible {
+  background: var(--mm-retro-accent, #67f06d);
+  color: var(--mm-retro-bg, #050505);
+  outline: none;
+}
+
+.retro-profile-summary-button.is-primary {
+  border-color: var(--mm-retro-danger, #ff5f5f);
+  color: var(--mm-retro-warning, #ffef9a);
+}
+
+.retro-profile-summary-button.is-primary:hover,
+.retro-profile-summary-button.is-primary:focus-visible {
+  background: var(--mm-retro-danger, #ff5f5f);
+  color: var(--mm-retro-bg, #050505);
+}
+
+@media (max-width: 760px) {
+  .retro-profile-summary-table {
+    display: block;
+    overflow-x: auto;
+    white-space: nowrap;
+  }
+}
+
+/* Ende retro profile summary screen */
+
+/* =====================================================================
+   Retro Inter-Play comparison screen
+   ===================================================================== */
+
+.retro-saved-profiles-panel {
+  display: grid;
+  gap: 0.9rem;
+}
+
+.retro-subject-compare-button,
+.retro-comparison-button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #111;
+  color: var(--mm-retro-fg, #f2f2f2);
+  cursor: pointer;
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 0.65rem 0.9rem;
+  text-transform: uppercase;
+}
+
+.retro-subject-compare-button:hover:not(:disabled),
+.retro-subject-compare-button:focus-visible:not(:disabled),
+.retro-comparison-button:hover,
+.retro-comparison-button:focus-visible {
+  background: var(--mm-retro-fg, #f2f2f2);
+  color: var(--mm-retro-bg, #050505);
+  outline: none;
+}
+
+.retro-subject-compare-button:disabled {
+  border-color: var(--mm-retro-muted-fg, #777);
+  color: var(--mm-retro-muted-fg, #777);
+  cursor: not-allowed;
+}
+
+.retro-subject-compare-help {
+  margin: 0;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+.retro-comparison-screen {
+  min-height: 100vh;
+  padding: clamp(1rem, 3vw, 2.25rem);
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+  outline: none;
+}
+
+.retro-comparison-header,
+.retro-comparison-form,
+.retro-comparison-result-host,
+.retro-comparison-empty {
+  max-width: 72rem;
+  margin-inline: auto;
+}
+
+.retro-comparison-header {
+  display: grid;
+  gap: 0.5rem;
+  margin-bottom: 1.1rem;
+  border-bottom: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding-bottom: 0.8rem;
+}
+
+.retro-comparison-form {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.retro-comparison-field {
+  display: grid;
+  gap: 0.45rem;
+}
+
+.retro-comparison-label {
+  color: var(--mm-retro-warning, #ffef9a);
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.retro-comparison-select {
+  width: 100%;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: #080808;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: inherit;
+  padding: 0.65rem 0.75rem;
+}
+
+.retro-comparison-actions {
+  display: flex;
+  flex-wrap: wrap;
+  grid-column: 1 / -1;
+  gap: 0.65rem;
+  align-items: center;
+}
+
+.retro-comparison-button.is-primary {
+  background: var(--mm-retro-warning, #ffef9a);
+  color: #111;
+}
+
+.retro-comparison-result {
+  display: grid;
+  gap: 0.9rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding: 1rem;
+}
+
+.retro-comparison-result__title,
+.retro-comparison-result__subtitle,
+.retro-comparison-message {
+  margin: 0;
+}
+
+.retro-comparison-result__title {
+  color: var(--mm-retro-red, #ff5555);
+  font-size: 1.25rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+}
+
+.retro-comparison-result__subtitle,
+.retro-comparison-message {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  line-height: 1.5;
+}
+
+.retro-comparison-overall {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 0.65rem;
+}
+
+.retro-comparison-overall__item {
+  display: grid;
+  gap: 0.3rem;
+  border: 1px solid color-mix(in srgb, var(--mm-retro-border, #f2f2f2) 45%, transparent);
+  padding: 0.65rem;
+}
+
+.retro-comparison-overall__label {
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  font-size: 0.8rem;
+  text-transform: uppercase;
+}
+
+.retro-comparison-overall__value {
+  color: var(--mm-retro-green, #66ff66);
+  font-size: 1rem;
+}
+
+.retro-comparison-table {
+  width: 100%;
+  border-collapse: collapse;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-size: 0.9rem;
+}
+
+.retro-comparison-table caption {
+  margin-bottom: 0.45rem;
+  color: var(--mm-retro-muted-fg, #b8b8b8);
+  text-align: left;
+}
+
+.retro-comparison-table th,
+.retro-comparison-table td {
+  border: 1px solid color-mix(in srgb, var(--mm-retro-border, #f2f2f2) 42%, transparent);
+  padding: 0.45rem 0.5rem;
+  text-align: left;
+  vertical-align: top;
+}
+
+.retro-comparison-table th {
+  color: var(--mm-retro-warning, #ffef9a);
+}
+
+.retro-comparison-empty {
+  display: grid;
+  gap: 1rem;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  padding: 1rem;
+}
+
+@media (max-width: 860px) {
+  .retro-comparison-form,
+  .retro-comparison-overall {
+    grid-template-columns: 1fr;
+  }
+}
+
+/* Ende Retro Inter-Play comparison screen */
+
+/* =====================================================================
+   Life Simulations + export-oriented MVP UI
+   ===================================================================== */
+.retro-simulation-screen {
+  min-height: 100vh;
+  padding: 28px;
+  background: var(--retro-bg, #050505);
+  color: var(--retro-fg, #d8ffd8);
+  font-family: var(--retro-font, ui-monospace, SFMono-Regular, Menlo, Consolas, monospace);
+}
+
+.retro-simulation-body {
+  max-width: 980px;
+  margin: 18px auto;
+  border: 2px solid var(--retro-border, #47ff47);
+  padding: 18px;
+  background: rgba(0, 40, 0, 0.55);
+}
+
+.retro-simulation-event-title,
+.retro-simulation-summary__title {
+  margin: 0 0 12px;
+  color: var(--retro-accent, #ff5959);
+  text-transform: uppercase;
+}
+
+.retro-simulation-prompt,
+.retro-simulation-summary__subtitle,
+.retro-simulation-hint {
+  line-height: 1.5;
+}
+
+.retro-simulation-choice-list {
+  display: grid;
+  gap: 10px;
+  padding-left: 0;
+  list-style: none;
+}
+
+.retro-simulation-choice {
+  width: 100%;
+  border: 1px solid var(--retro-border, #47ff47);
+  padding: 10px 12px;
+  background: #101010;
+  color: var(--retro-fg, #d8ffd8);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.retro-simulation-choice.is-selected {
+  outline: 2px solid var(--retro-accent, #ff5959);
+  color: #ffffff;
+  background: #173817;
+}
+
+.retro-simulation-actions,
+.retro-profile-summary-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  justify-content: center;
+}
+
+.retro-simulation-button,
+.retro-profile-summary-button {
+  border: 1px solid var(--retro-border, #47ff47);
+  padding: 8px 12px;
+  background: #050505;
+  color: var(--retro-fg, #d8ffd8);
+  font: inherit;
+  cursor: pointer;
+}
+
+.retro-simulation-button.is-primary,
+.retro-profile-summary-button.is-primary {
+  color: #ffffff;
+  border-color: var(--retro-accent, #ff5959);
+}
+
+.retro-simulation-button:disabled {
+  opacity: 0.45;
+  cursor: not-allowed;
+}
+
+.retro-simulation-summary-grid {
+  display: grid;
+  grid-template-columns: minmax(120px, 220px) 1fr;
+  gap: 8px 16px;
+}
+
+.retro-simulation-summary-grid dt {
+  color: var(--retro-muted, #8bcf8b);
+}
+
+.retro-simulation-summary-grid dd {
+  margin: 0;
+}
+
+/* =====================================================================
+   MVP completion: profile management, export preview, PWA polish
+   ===================================================================== */
+.retro-saved-profile {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
+  gap: 0.55rem;
+  align-items: stretch;
+}
+
+.retro-saved-profile__actions {
+  display: flex;
+  gap: 0.35rem;
+  align-items: stretch;
+}
+
+.retro-saved-profile__action {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: transparent;
+  color: var(--mm-retro-cyan, #72f7ff);
+  font: inherit;
+  font-size: 0.76rem;
+  padding: 0.35rem 0.5rem;
+  cursor: pointer;
+}
+
+.retro-saved-profile__action:hover,
+.retro-saved-profile__action:focus-visible {
+  background: var(--mm-retro-selected-bg, #f2f2f2);
+  color: var(--mm-retro-selected-fg, #050505);
+}
+
+.retro-saved-profile__action.is-danger {
+  color: var(--mm-retro-title, #ff3b2f);
+}
+
+.retro-export-screen {
+  min-height: 100vh;
+  padding: 2rem;
+  background: var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+}
+
+.retro-export-preview {
+  max-width: 1080px;
+  max-height: 45vh;
+  margin: 1.2rem auto;
+  padding: 1rem;
+  overflow: auto;
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: rgba(0, 64, 0, 0.24);
+  color: var(--mm-retro-label, #79ff79);
+  font: 0.82rem/1.45 var(--mm-retro-font, "Courier New", Consolas, monospace);
+  white-space: pre-wrap;
+}
+
+.retro-export-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+}
+
+.retro-export-button {
+  border: 1px solid var(--mm-retro-border, #f2f2f2);
+  background: transparent;
+  color: var(--mm-retro-fg, #f2f2f2);
+  font: inherit;
+  padding: 0.55rem 0.9rem;
+  cursor: pointer;
+}
+
+.retro-export-button.is-primary {
+  color: var(--mm-retro-title, #ff3b2f);
+  border-color: var(--mm-retro-title, #ff3b2f);
+}
+
+.retro-profile-summary-button:focus-visible,
+.retro-export-button:focus-visible,
+.retro-simulation-button:focus-visible {
+  outline: 2px solid var(--mm-retro-cyan, #72f7ff);
+  outline-offset: 2px;
+}
+
+@media (max-width: 720px) {
+  .retro-saved-profile {
+    grid-template-columns: 1fr;
+  }
+
+  .retro-saved-profile__actions {
+    justify-content: stretch;
+  }
+
+  .retro-saved-profile__action {
+    flex: 1;
+  }
+}
+
+/* Ende MVP completion UI */
+
+/* =====================================================================
+   Retro start menu / router shell
+   ===================================================================== */
+.retro-start-screen {
+  min-height: 100vh;
+  display: grid;
+  align-content: center;
+  gap: 1.25rem;
+  padding: clamp(1.25rem, 4vw, 3.5rem);
+  background:
+    radial-gradient(circle at 50% 28%, rgba(15, 143, 63, 0.16), transparent 28rem),
+    var(--mm-retro-bg, #050505);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font-family: var(--mm-retro-font, "Courier New", Consolas, monospace);
+}
+
+.retro-start-title {
+  margin: 0;
+  color: var(--mm-retro-title, #ff3b2f);
+  font-size: clamp(3rem, 10vw, 7rem);
+  line-height: 0.9;
+  text-align: center;
+  letter-spacing: 0.08em;
+  text-shadow: 0 0 12px rgba(255, 59, 47, 0.45);
+}
+
+.retro-start-subtitle,
+.retro-start-footer {
+  margin: 0 auto;
+  max-width: 780px;
+  color: var(--mm-retro-label, #79ff79);
+  text-align: center;
+}
+
+.retro-start-menu {
+  width: min(760px, 100%);
+  margin: 0 auto;
+  display: grid;
+  gap: 0.75rem;
+}
+
+.retro-start-menu__item {
+  display: grid;
+  gap: 0.25rem;
+  width: 100%;
+  border: 2px solid var(--mm-retro-border, #f2f2f2);
+  padding: 0.9rem 1rem;
+  background: rgba(0, 40, 0, 0.34);
+  color: var(--mm-retro-fg, #f2f2f2);
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.retro-start-menu__item.is-selected,
+.retro-start-menu__item:hover:not(:disabled),
+.retro-start-menu__item:focus-visible:not(:disabled) {
+  background: var(--mm-retro-selected-bg, #f2f2f2);
+  color: var(--mm-retro-selected-fg, #050505);
+}
+
+.retro-start-menu__item:disabled {
+  opacity: 0.42;
+  cursor: not-allowed;
+}
+
+.retro-start-menu__item-label {
+  color: inherit;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+}
+
+.retro-start-menu__item-description {
+  color: inherit;
+  opacity: 0.82;
+  font-size: 0.88rem;
+}
+
+/* Ende Retro start menu */

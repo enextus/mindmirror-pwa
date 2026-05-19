@@ -1,0 +1,556 @@
+%Where do you think the hallowed headquarters of the Encyclopedia California is located?
+
+#2La Jolla, near the prestigious Salk
+Institute and the Great Books Corp.
+#4Somewhere in California.
+
+#6Pasadena, near Cal Tech, the Rose
+Bowl and the Howard Hughes Library.
+#8Cambridge, Mass. near MIT, Harvard's
+Widener Library and Boston Garden.
+@
+The cab from Logan takes you under the tunnel, past the Garden and crosses the Charles River at Mass. Ave. Encyclopedia California! A city block of red brick buildings face the street concealing an inner park: neatly edited lawns, tenured elms, pedantic walks. You report to Jimi Mott, a comely woman, smart, cultured, compassionate (even while trying to kick her nicotine habit). She's a closet computer freak totally dedicated to the notion that screens will replace fiber-based storage systems. She makes her living as Personnel Director of this most snobbish, bookish establishment.
+
+<PAGE>
+
+4&While serving tea, Ms. Mott examines you. She's always on the look-out for tri-lingual people; those who can talk, write and manipulate electrons with elegance. Her first impression of you...
+
+#1Intelligent, thoughtful, well
+informed. Ideal for "E.C."
+#3You'll be great for library work,
+file-research and the mail-room.
+#5You're cute but dumb. She has
+ideas. You obviously don't.
+#7She likes your irreverent, funny
+style. But you won't last long here.
+@
+While sipping tea, you chat about your background. She seems interested.
+
+<PAGE>
+
+&Jimi Mott checks you out. She hopes you smoke. She also hopes you're that rare species--cultured in Gutenberg literacy and sophisticated in Electronic Literature. Her hunch is that you're...
+
+#2A powerful left-brained, linear
+thinker. Perfect for "E.C."
+#4A candidate for the Oral Roberts
+school of Metaphysics.
+#6A potential expert in astrological
+weather-casting and UFO sightings.
+#8Her kinda' person. Maybe you'll join
+her plot to escape and flee west.
+@
+You ask her in which department at Encyclopedia California you might start. She's noncommittal.
+
+<PAGE>
+
+&Ms. Mott sucks thoughtfully on a ballpoint pen and explains Encyclopedia California often sends interns for field work at local intellectual centers. Which would you prefer?
+
+#1MIT.
+
+#3Boston College.
+
+#5Yeshiva Ben Stein (Orthodox).
+
+#7Harvard-Radcliff.
+
+@
+Ms. Mott starts to chew a wad of gum. "I guessed you'd say that," she says chuckling in a friendly way.
+
+<PAGE>
+
+&Jimi Mott tells you it's all right to smoke in her office. She says Encyclopedia California often sends interns to centers of scholarship and literary research. Which do you prefer?
+
+#2Harvard Business School.
+
+#4Harvard Law School.
+
+#6Harvard Lampoon.
+
+#8Negroponte's Lab at MIT.
+
+@
+"Interesting choice," says Ms. Mott as she absent-mindedly chews a finger nail. "Well see what we can do," she concludes.
+
+<PAGE>
+
+4%Ms. Mott wants you to take the legendary Scheftel Culture Scale which mirrors your intellectual aptitude.
+SCS Item 1. Which job would you prefer?
+
+#2Editing, selecting, revising works
+of others.
+#4Secretarial, filing, production
+work.
+#6Artwork and design work.
+
+#8Creative writing.
+
+@
+%Ms. Mott wants you to take the legendary Scheftel Culture Scale which mirrors your intellectual aptitude.
+SCS Item 1. In which department would you prefer to start your career?
+
+#1Science.
+
+#3Non-fiction (biographies and
+how-to's).
+#5Magazine.
+
+#7Fiction.
+
+@
+%Ms. Mott wants you to take the legendary Scheftel Culture Scale to determine your job preference.
+SCS Item 1. In which position would you prefer to start your career?
+
+#1Act as driver for the Editorial
+Director.
+#3Learn typing, filing, bookkeeping.
+
+#5Work for head of Security.
+
+#7Be a Gofer-Runner in the Art
+Department.
+@
+%Ms. Mott wants you to take the legendary Scheftel Culture Scale to determine your job preference.
+SCS Item 1. In which of the following departments would you like to start?
+
+#2Library.
+
+#4Administrative offices.
+
+#6Arts and Graphics Department.
+
+#8Computer art lab.
+
+@
+SCS Item 2. Test of Literary Scope: Which of the following books have you read and could you discuss? Enter "Y" for yes and "N" for no. Press RETURN when finished.
+
+<PAGE>
+
+2Ulysses (by J.J.)
+Moby Dick
+2Madame Bovary
+War and Peace
+2Bible
+Thorne Birds
+2Hollywood Wives
+Autobiography of Richard Nixon
+2Princess Daisy
+Valley of the Dolls
+2On the Road
+Carry on Jeeves
+2Collected Poems of Edgar Allen Poe
+Huckleberry Finn
+2Gravity's Rainbow
+Naked Lunch
+4%SCS Item 3. Test of Literary Sophistication: Select your favorite book among these choices.
+
+#1Moby Dick.
+
+#3Thorne Birds.
+
+#5Valley of the Dolls.
+
+#7Huckleberry Finn.
+
+@
+%SCS Item 3. Test of Literary Sophistication: Select your favorite book among these choices.
+
+#2Madame Bovary.
+
+#4Hollywood Wives.
+
+#6On the Road.
+
+#8Naked Lunch by Willaim Burroughs.
+
+@
+%SCS Item 3. Test of Literary Sophistication: Select your favorite book among these choices.
+
+#1Ulysses (by J.J.).
+
+#3Bible.
+
+#5Princess Daisy.
+
+#7Poems of Edgar Allen Poe.
+
+@
+%SCS Item 3. Test of Literary Sophistication: Select your favorite book among these choices.
+
+#2War and Peace.
+
+#4Autobiography of Richard Nixon.
+
+#6Carry on Jeeves.
+
+#8Gravity's Rainbow.
+
+@
+4%SCS Item 4. Now's your chance to make Literary History. Which of these books would you select for a Pulitzer Prize?
+
+#1Finnegan's Wake.
+
+#3Lee Iacocca's Autobiography.
+
+#5Bible Stories for the Ages.
+
+#7One Flew Over the Cuckoo's Nest.
+
+@
+%SCS Item 4. Test of Literary Sophistication: Which title on this list would you nominate for a "Best Book" award.
+
+#2In Cold Blood.
+
+#4Harlequin Romances.
+
+#6Even Cowgirls Get the Blues.
+
+#8Childhood's End.
+
+@
+%SCS Item 4. You are about to award the Prize for best book. Which of these do you choose?
+
+#1Naked Lunch by Willaim Burroughs.
+
+#3Chuck Yeager's Autobiography.
+
+#5For the Gipper by R. Reagan (as told
+to Bebe Robozo).
+#7Jitterbug Perfume by Tom Robbins.
+
+@
+%SCS Item 4. Which one of the following books would you give to that very special friend?
+
+#2Remembrance of Things Past.
+
+#4The Holy Bible (15th Century King
+James' version).
+#6Collected Poems by Allen Ginsberg.
+
+#8What Does WoMan Want? by T. Leary.
+
+@
+SCS Item 5. Check the names of these authors. If you've read one or more of their books enter "Y," if you haven't enter "N." Press RETURN when finished.
+
+<PAGE>
+
+3Douglas Hofstadter
+Charles Dickens
+John Cheever
+3Saul Bellow
+Philip Roth
+Fedor Dostoevski
+3Norman Mailer
+James Mitchner
+Stephen King
+3Harold Robbins
+Rev. Jerry Falwell
+Harlequin Romance Authors
+3Susan who wrote Valley of the Dolls
+Jackie Collins
+Louis L'Amour
+3Tom Robbins
+Ken Kesey
+Hunter Thompson
+3Thomas Wolfe
+Tom Wolfe
+James Joyce
+3Thomas Pynchon
+William Burroughs
+Timothy Leary
+4%SCS Item 6. Here's the situation. You're on your way to a Desert Island! You get to take the collected works of one author. Which author do you choose?
+
+#1Charles Dickens.
+
+#3Norman Mailer.
+
+#5Louis L'Amour.
+
+#7Thomas Wolfe and Tom Wolfe.
+
+@
+%SCS Item 6. Okay, , pack up for the proverbial Desert Island. Select one writer whose collected works you'd like to take along.
+
+#2Fedor Dostoevski.
+
+#4Harold Robbins.
+
+#6Tom Robbins.
+
+#8Thomas Pynchon.
+
+@
+%SCS Item 6. The Tahitian Schooner is here. Your grass hut is ready. Your tour of island duty is 5 years. Choose the writer whose collected works you'll bring along.
+
+#1William Burroughs.
+
+#3Stephen King.
+
+#5Harlequin Romances.
+
+#7Hunter Thompson.
+
+@
+%SCS Item 6. There's room in your sailor bag for the collected works of one author. Which one do you choose?
+
+#2Saul Bellow.
+
+#4Rev. Jerry Falwell.
+
+#6Ken Kesey.
+
+#8Timothy Leary.
+
+@
+SCS Item 7. Which of the following magazines do you read regularly? Enter "Y" if you do, enter "N" if you don't. Press RETURN when finished.
+
+<PAGE>
+
+3Christian Science Monitor
+Harpers
+Scientific American
+3National Geographic
+New Yorker
+Wall Street Journal
+3Rolling Stone
+TIME Magazine
+Esquire
+3Good Housekeeping
+McCall's
+People Magazine
+3T.V. Guide
+National STAR
+US Magazine
+3Hustler
+MAD Magazine
+National Inquirer
+3OMNI
+Vanity Fair
+National Lampoon
+3Interview Magazine
+Details
+I scan them all, but none are great.
+6%SCS Item 8. We're searching for candidates for a Ph.D. in Wood-pulp Literature. Your opinions about modern writing are needed. Which of these is your favorite?
+
+#1Christian Science Monitor.
+
+#3Rolling Stone.
+
+#5T.V. Guide.
+
+#7OMNI.
+
+@
+%SCS Item 8. Which of the following fiber-based storage systems would you choose as your favorite?
+
+#2National Geographic.
+
+#4People Magazine.
+
+#6National Inquirer.
+
+#8Interview Magazine.
+
+@
+%SCS Item 8. Okay, , you may prefer to get your information from electronic screens. But if you had to, which wood-pulp magazine would you choose?
+
+#1Scientific American.
+
+#3Readers Digest.
+
+#5Us Magazine.
+
+#7National Lampoon.
+
+@
+%SCS Item 8. Sorry to bother you with such trivia, but please select your favorite newspaper or magazine.
+
+#2Wall Street Journal.
+
+#4Good Housekeeping.
+
+#6Hustler.
+
+#8I scan them all, but there's not a
+creative-intelligent one around.
+@
+%SCS Item 8. Honestly now, Einstein, which of the following intellectual journals do you read regularly?
+
+#1Harpers.
+
+#3TIME Magazine.
+
+#5National STAR.
+
+#7Vanity Fair.
+
+@
+%SCS Item 8. You're on flight 191 headed for the Holy City of Dallas. You head, naturally, for the smoker's section. Which magazine do you select?
+
+#2New Yorker.
+
+#4McCall's.
+
+#6MAD Magazine.
+
+#8To read? None! I scan them all.
+Including Ebony and Tennis World.
+@
+SCS Item 9. Which of the following art-works would you recognize? Enter "Y" if you would, enter "N" if you wouldn't. Press RETURN when finished.
+
+<PAGE>
+
+2The Rake's Progress
+Guernica Mural
+2Michelangelo's David
+The Blue Boy
+2American Gothic
+Artist's Mother by Whistler
+2The Mona Lisa!!!!!
+Washington Crossing The Delaware
+2Uncle Sam Wants You! (Poster)
+Mount Rushmore Faces
+2L.A. Olympic Statues
+The Starry Night
+2Garden of Earthly Delights
+Sun. on the Isl. of the Grande Jette
+2Campbell Soup Can by Handy Andy
+Miami Library Murals by Ed Rusha
+4%SCS Item 10. Encyclopedia California wants to survey your grasp of the Art World.
+Which of these is your favorite?
+
+#1The Rake's Progress.
+
+#3American Gothic.
+
+#5Uncle Sam Wants You! (Poster)
+
+#7Garden of Earthly Delights.
+
+@
+%SCS Item 10. To select your job at Encyclopedia California, we must know your aesthetic-erotic preferences. Be honest or you'll suffer severely! Which is your favorite?
+
+#2The Blue Boy.
+
+#4Artist's Mother by Whistler.
+
+#6The Starry Night.
+
+#8Campbell Soup Can by Handy Andy.
+
+@
+%SCS Item 10. Which of the following works of art do you sincerely, honestly prefer? Lying will be punished by discharge or worse.
+
+#1Guernica Mural.
+
+#3Blue Boy.
+
+#5Mount Rushmore Faces.
+
+#7Sunday on the Island of the Grande
+Jette.
+@
+%SCS Item 10. E.C. aims at communicating with the suburban masses. Your frank opinions are crucial to you and to E.C. Select your favorite work of art among these.
+
+#2The Marble Statue of David by
+Michelangelo.
+#4The Mona Lisa.
+
+#6The Starry Night.
+
+#8The Dade County (Florida) Library
+murals by Ed Ruescha.
+@
+SCS Item 11. Okay, Picasso, which of the following artists do you know well enough to name two of their works?
+
+2Robert Graham
+Balthus
+2Hieronymous Bosch
+Jasper Johns
+2Thomas Gainsborough
+Vincent van Gogh
+2Michelangelo
+Leonardo da Vinci
+2James Whistler
+Grant Wood
+2Salvador Dali
+Georges Seurat
+2Helmut Newton
+Jackson Pollack
+2David Hockney
+Magritte
+4%SCS Item 12. Okay, Picasso. If you could choose a painting to keep by one of the following painters, who would you pick? Sincerity counts.
+
+#2Hieronymous Bosch.
+
+#4Michelangelo.
+
+#6Salvador Dali.
+
+#8David Hockney.
+
+@
+%SCS Item 12. Dear, , the time has come to level with us. No pretense. No sham. Let it all hang out! Which is your favorite artist?
+
+#1Jasper Johns.
+
+#3Thomas Gainsborough.
+
+#5Grant Wood.
+
+#7Helmut Newton.
+
+@
+%SCS Item 12. Well, , let's be honest. What do you really know about Art? Select your favorite from this list of famous artists.
+
+#1Balthus.
+
+#3Vincent van Gogh.
+
+#5James Whistler.
+
+#7Jackson Pollack.
+
+@
+%SCS Item 12. Art is the ultimate human expression. The basic survival decision for our species is aesthetic. Check your favorite--very carefully.
+
+#2Jasper Johns.
+
+#4Leonardo da Vinci.
+
+#6Georges Seurat.
+
+#8Magritte.
+
+@
+While you have been working on the test, Jimi Mott has been rummaging through the closet muttering to herself. She pulls out a ski jacket and with a cry of pleasure pulls out a rumpled package of cigarettes. She asks you if you have a match. Before you can answer she finds one in her desk.
+
+<PAGE>
+
+2%What brand of cigarette did Ms. Mott smoke?
+
+#1This question is illogical.
+
+#3I don't like ambiguous questions.
+
+#5How should I know?
+
+#7Grass.
+
+@
+%What brand of cigarette did Ms. Mott
+so joyously fire up?
+
+#2Benson and Hedges.
+
+#4Marlboro (lights).
+
+#6Probably something illegal.
+
+#8Galoises-Gitanes.
+
+@
+
+<CTRL0F>
+Silver smoke rings fill the air of Jimi Mott's office. You're both relaxing. Suddenly the telephone rings. Jimi Mott answers, listens, makes a noncommittal response and hangs up. She starts coughing. Then she laughs. "Guess what," she says. "I've been fired!" "For smoking!" you gasp. "No. For disloyalty. They've discovered I've been using the company computer to translate literary classics into electronic books." "Using Mind Mirror on company time!" you say. She nods. "No sweat. It was time for me to go. See you around," she says.
+
+<PAGE>

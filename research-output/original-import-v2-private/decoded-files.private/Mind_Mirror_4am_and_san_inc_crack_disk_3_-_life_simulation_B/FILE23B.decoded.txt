@@ -1,0 +1,135 @@
+2Ronnie's Mom starts to organize the birthday candle ritual. She grabs you by the arm and says she wants you to lead the group in singing "Happy Birthday Dear Ronnie."
+
+#1You're pleased. You love the chance
+to be in the spotlight.
+Ask not for whom the crowd cheers. They cheer for you.
+
+#3Happy Curse-day Dear who? To that
+slug Ronnie? What a bug idea.
+You're a kid yourself, but this spoiled Ronnie is too much. These yuppie parents and their designer children!
+
+#5You're bob-wired with shyness. You
+look helpless.
+Ask not for whom the crowd sneers. They jeer for you.
+
+#7You're hap to help out. You grin and
+start warbling off key.
+You're Paul McCartney singing a silly love song. You're Linda Ronstadt singing a Les Crane version of a Golden Oldie.
+
+@
+Ronnie's Mom calls everyone together for the raffle. She wants someone to pick the lucky number. You! She wants you to come forward and do the honors.
+
+#2Yours Truly is ready! You take the
+stage like Tina Turner.
+You're wired to make an acceptance speech. "We are the world, you're not!" says you.
+
+#4You writhe with resentment. Why do
+Child Molesters always pick on you?
+She grabs you by the hand and leads you up front where your discomfort is seen by all. Practical jokes are in baaaaaaaaaad taste.
+
+#6You act shy. She takes your hand and
+leads you up front. You're so cute.
+You grin sweetly. "Hey, Gang, I voted for a young man, Jesse Jackson." Everyone laughs. Sick jokes are s cool!
+
+#8You walk up and flash a smile.
+Everyone thinks it's for them.
+It's an emotional moment for you too. Your first party and you're a headliner.
+
+@
+2Suddenly Momster rolls up with that business-like, camp-counsellor look on her face. She's got your toggers in hand. She wants to leave the party. How's that for a plot twist?
+
+#1You hate to be told what to do. You
+tell Momster you're NOT going.
+She holds out the sleeves of your coat. You fold your arms on your chest. You ask for ten minutes. She'll settle for eight. She's not good at negotiating.
+
+#3You can't turn down a dramatic exit.
+You start bawling.
+Time for an editorial rebuttal, Mom. Are you ready for an opposing point of view? Read my lips, dishonorable ancestor. My answer is always NOOOOOOO!
+
+#5You're glad to escape the crowd. You
+nod timidly and put on your toggers.
+Now if you can only make a quick exit, the party will have been a smash success. Invisibility is the key. Don't leave home without it.
+
+#7I hear you, Mom. What a gash idea! I
+love it! I buy it! You gotta deal.
+You wave to the crowd. You wave to the photographers. Time to sign just a few autographs. Smiling does wonders for your popularity.
+
+@
+You and Momster have de-partied. As you bounce along in the car, Momster asks you if you had a good time. Your reaction:
+
+#2You had a ball. You love to stand
+tall and fluff your perky strut.
+You delight in the chance to wheel and deal with the other kids. Some may call you arrogant, but you can't help it! You're hot stuff!
+
+#4Cranks a lot! But no thanks. The
+party confirmed your low opinion!
+What next, Mom? Bates Motel? Texas Chain Saw Massacre? Halloween II?
+
+#6You wiggle adorably. You giggle. You
+cuddle Momster. It's all great.
+Love makes me treat you the way that I do. Hey Mommy, ain't I boo to you!
+
+#8You're so grateful that you've
+decided to reward everyone involved.
+You're walking through the Yellow Pages of your heart selecting gifts. Let's face it, you're a benefactor, always reaching for your cardiac checkbook.
+
+@
+2%Well, , you've passed through the first six stages: sucking, biting, crawling, walking, talking, stalking. How would you score your performance as a young cub?
+
+#1I'm top of the pecking order.
+
+#3No more pussycat for me. I bite and
+claw to hold my ground.
+#5I'm content to be one of the herd.
+Laying low, quiet, camouflaged.
+#7I'm a loveable, tail-wagging puppy.
+Totally adorable. Ya' know?
+@
+%Well, , by this time you've developed some personality skills to help you play the Game of Life. How would your coach describe your performance so far?
+
+#2This rookie is cocky. A tough
+competitor.
+#4Touchy. Moody. The kid's talented,
+but not a team player.
+#6Eager to please, likable kid. Needs
+self-confidence. Lots of promise.
+#8Team leader. Popular. Out-going.
+Unselfish. Helps other players.
+@
+
+<CTRL0F>
+Asleep in your soft boodle bed dreaming of birthday cakes cooked by Bimbo's plastic surgeon, frosted with kitty-litter, you're anticipating your first day in school. 40 You wake up. Your head is spinning softly around the room. Or it might be if you could peep it. Which you can't. It's black velvet dark.
+30
+> This is the wrong program.
+5
+I don't know the word "this."
+5
+> Help. I don't want Hitchhikers Guide to the Galaxy. I want Mind Mirror.
+10
+
+<PAGE>
+
+If you are really stuck, maps and hints are available from your dealer or by filling out the form that came in your Infocom package.
+30
+> Get Mad Doug Adams out of my galaxy!
+10
+I don't know the word "mad."
+5
+> Douglas Adams!
+5
+There is no verb in that sentence.
+5
+
+<PAGE>
+
+%Dear , you've simply got to start labelling your headware. Do you understand?
+
+#2Get me outa Infocom-Land, chump.
+Move me to the next realm.
+#4Hoax jokes are in bAAAAAAAAAd taste.
+Get me out of here.
+#6Plagiarizing of other programs, heh?
+O.K. Let's move on.
+#8Tim, you're carrying this satire too
+far. On to the next realm!
+@

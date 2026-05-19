@@ -1,0 +1,45 @@
+2You walk up to the entrance. A tall, thin doorman approaches you in a haughty manner. He speaks. "BON SOIR, QUE VOULEZ VOUS?"
+
+#2You nod curtly, say "Good evening,"
+and keep walking towards the door.
+A short, wiry doorman steps in front of you, smoothly blocking your way. He clears his throat pompously.
+
+#4You smile sweetly and say, "I'm
+sorry, I don't understand."
+A short doorman looks down his nose at you, as though you were some unspeakable form of life.
+
+#6You wink and say, "Tony asked me to
+give something to the Boss."
+The doorman looks at you with astonished hauteur. But you did mention that sacred name, "The Boss." He glances over to the second doorman for help.
+
+#8You say, "BON SOIR" and keep walking
+towards the door.
+A short, wiry doorman positions himself in front of the door. He coughs politely. He's impressed, in spite of himself.
+
+@
+You walk up to the entrance. The two doormen bow with suave, snobbish nonchalance. "May we be of assistance?" One murmurs in accent aristocratic.
+
+#1You casually murmur thanks and pause
+for them to open the door.
+The first doorman is impressed in spite of himself. He bows deferentially and explains that the Duke is giving a party in honor of a great man of letters.
+
+#3You're intimidated. You may be a bit
+over your head here. You say, "Hi."
+The doormen glance at each other in a lofty manner, wordlessly deciding who is going to dispose of this nuisance. One looks off toward an arriving limo.
+
+#5You're in trouble, mate. But you
+decide to bluff. You say, "Howdy!"
+The first doorman nods curtly. He says something about "Entrance Service in zee rear," then proceeds to ignore your existence.
+
+#7Unimpressed by these class-ridden
+flunkies, you head for the door.
+They're equally unimpressed. One moves to block the door and tells you in a bored tone of voice, "Sorry, private party."
+
+@
+"The Duke is giving a party in honor of a certain Sir Douglas Adams. AVEZ-VOUS UNE CARTE D'INVITATION?" the second doorman inquires politely. Since you don't have a bloody invitation, you hold up your hands in helplessness. The two doormen look at each other and shrug. One deigns to speak. "I am so sorry. The affair is by invitation only." They turn their backs on you and begin a murmured discussion about babble-fish. Nothing to do. You sadly wander off.
+
+<PAGE>
+
+"AVEZ-VOUS UNE CARTE D'INVITATION?" the second doorman inquires. You hold out the embossed party invitation. Ah, the power of a piece of paper for these lackeys! Their manner immediately thaws as they bow politely. One takes your card, smiles and says, "Welcome! His Grace, the Duke awaits. He wishes to present you to the guest of honor--Sir Douglas Adams. This way please!"
+
+<PAGE>

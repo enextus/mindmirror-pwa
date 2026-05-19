@@ -5,7 +5,30 @@
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#111827",
-  "theme_color": "#111827",
-  "icons": []
+  "orientation": "any",
+  "background_color": "#050505",
+  "theme_color": "#050505",
+  "categories": ["productivity", "education", "lifestyle"],
+  "icons": [
+    {
+      "src": "./src/icons/mindmirror-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "New Profile",
+      "short_name": "New",
+      "description": "Create a new Mind Mirror profile.",
+      "url": "./index.html#new"
+    },
+    {
+      "name": "Saved Profiles",
+      "short_name": "Saved",
+      "description": "Open saved local Mind Mirror profiles.",
+      "url": "./index.html#saved"
+    }
+  ]
 }

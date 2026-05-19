@@ -1,0 +1,176 @@
+LIFE SIMULATION SCOREBOARD:
+Social Interaction..
+Mental Abilities....
+Emotional Insight...
+Bio-Energy..........
+
+<CTRL0E>
+All right , you are free to explore the first three Mind Realms. You may choose the Realm you wish to enter.
+
+REMEMBER: Press the (1)-(4) keys to view your Mind Maps of the four Mind Realms.
+
+<BLOCK>
+
+Also remember when you're in a Realm, the (0) key provides "Head-Coaching."
+<BLOCK>
+
+
+
+<CTRL0F>
+
+<CTRL0E>
+All right , you are free to explore the first three Mind Realms. You may choose the Realm you wish to enter.
+
+REMEMBER: The (1)-(4) Keys cannot be used to view Mind Maps when you're in a Realm. After completing a Realm, you may view them.
+
+<PAGE>
+
+<CTRL0E>
+Welcome back! I hope you liked the looks of things down there. To get a score you have to play at least 1 Zone.
+
+<PAGE>
+
+<CTRL0E>
+Welcome back. Sorry, but you blew it in that Realm. You just didn't play your role consistently enough with the character you defined.
+
+<PAGE>
+
+<CTRL0E>
+Welcome back! You really blew 'em away down there!
+<BLOCK>
+You won two Passkey Credits for mastering that Realm.
+<BLOCK>
+You played your character like a champ!
+
+
+<CTRL0E>
+Welcome back! You were successful down there.
+<BLOCK>
+You won two Passkey Credits for mastering that Realm.
+<BLOCK>
+Keep up the good work.
+
+<PAGE>
+
+<CTRL0E>
+Welcome back. You just eked it out, but you did succeed.
+<BLOCK>
+You won two Passkey Credits for mastering that Realm.
+<BLOCK>
+Keep up the good work.
+
+<PAGE>
+
+<CTRL0E>
+You succeeded in your Home Zone in the Realm of Social Sophistication.
+3
+CONGRATULATIONS! YOU ARE A WINNER!
+
+Your total score is:
+Press CONTROL-G to save game.
+Insert PROGRAM DISK, then
+press RETURN to play another.
+
+<PAGE>
+
+Press (9) to see your last plot.
+Press CONTROL-G to save game.
+Press ESC to exit Life Simulation.
+Press RETURN to continue.
+
+<PAGE>
+
+<BLOCK>
+2
+These are the Realms open to you at this time.
+1
+<BLOCK>
+
+Choose the Realm you wish to enter:
+
+#1The Bio-Energy Realm
+Where Life Force is destiny.
+#2The Emotional Insight Realm
+Interpersonal skills are tested.
+#3The Mental Abilities Realm
+Put your smarts to the test.
+#4The Social Interaction Realm
+Try out your Cultural Skills.
+@
+
+<CTRL0E>
+In the Realm of Bio-Energy, you will explore the Origins of Life Force. How did live these crucial early moments....
+
+<BLOCK>
+2
+Your goal is to react in the selected Zone, the way would perform.
+1
+<BLOCK>
+
+<15,0>
+ATTENTION!!
+To some individuals in today's society, the Facts of Life are still considered taboo. Proceed up the Fallopian Tube at your own discretion!
+
+<PAGE>
+
+<CTRL0E>
+In the Realm of Emotions, your Interpersonal skills evolve.
+
+How does respond to these formative trials....
+
+<BLOCK>
+2
+Your goal in this Realm is to play through the entire Realm with a personality consistent with the personality you attributed to .
+1
+<BLOCK>
+
+<PAGE>
+
+<CTRL0E>
+In the Realm of Mental Abilities, your intelligence is tested.
+
+How will perform....
+
+<BLOCK>
+2
+Your goal in this Realm is to play through the entire Realm with a personality consistent with the personality you attributed to .
+1
+<BLOCK>
+
+<PAGE>
+
+<CTRL0E>
+In the Realm of Social Interaction, there are eight zones, each with its own Passkey.
+
+<BLOCK>
+2
+Your goal in this Realm is to enter an accessible zone and earn the passkey to your home zone. Then you must enter and master your home zone.
+Success in a zone is determined by whether your overall cumulative play is consistent with your personality at the conclusion of that zone.
+1
+<BLOCK>
+
+Which Passkey would select....
+
+<PAGE>
+
+Which drive? (1) or (2)
+(Press ESC to abort.)
+
+Insert disk, then press RETURN.
+Enter file name:
+
+(If the disk needs to be formatted first, press CONTROL F.)
+
+**** WARNING: ****
+Formatting will destroy all data
+currently on this disk!
+1
+Are you sure? (Y)es or (N)o
+
+File exists - Overwrite? (Y)es or (N)o
+**** ERROR SAVING FILE! ****
+Press RETURN to continue.
+
+<PAGE>
+
+Insert GAME DISK, then press RETURN.
